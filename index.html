@@ -1,0 +1,63 @@
+ <!DOCTYPE html>
+  <html lang="zh-TW">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>F1 新聞日報</title>
+      <style>
+          * { margin: 0; padding: 0; box-sizing: border-box; }
+          body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f0f0f; color:
+  #e0e0e0; }
+          header { background: #e10600; padding: 16px 24px; display: flex; align-items: center; gap: 12px; }
+          header h1 { color: white; font-size: 1.4rem; font-weight: 700; letter-spacing: 1px; }
+          .updated { color: rgba(255,255,255,0.75); font-size: 0.85rem; margin-left: auto; }
+          .container { max-width: 800px; margin: 0 auto; padding: 24px 16px; }
+          .article { background: #1a1a1a; border-radius: 8px; padding: 16px; margin-bottom: 12px; border-left: 3px solid
+  #e10600; }
+          .article h2 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+          .article h2 a { color: #f0f0f0; text-decoration: none; }
+          .article h2 a:hover { color: #e10600; }
+          .summary { font-size: 0.88rem; color: #aaa; line-height: 1.5; }
+          .meta { display: flex; gap: 12px; margin-top: 8px; font-size: 0.78rem; color: #666; }
+          .source { color: #e10600; font-weight: 500; }
+          #status { text-align: center; padding: 40px; color: #666; }
+      </style>
+  </head>
+  <body>
+      <header>
+          <h1>F1 新聞日報</h1>
+          <span class="updated" id="updated"></span>
+      </header>
+      <div class="container">
+          <div id="status">載入中...</div>
+          <div id="articles"></div>
+      </div>
+      <script>
+          fetch('latest.json?t=' + Date.now())
+              .then(r => r.json())
+              .then(data => {
+                  document.getElementById('status').style.display = 'none';
+                  document.getElementById('updated').textContent = '更新：' + data.updated;
+                  const container = document.getElementById('articles');
+                  if (!data.articles || data.articles.length === 0) {
+                      container.innerHTML = '<p id="status">今日尚無新聞</p>';
+                      return;
+                  }
+                  data.articles.forEach(a => {
+                      container.innerHTML += `
+                      <div class="article">
+                          <h2><a href="${a.sourceUrl}" target="_blank">${a.titleZh}</a></h2>
+                          <div class="summary">${a.summaryZh || ''}</div>
+                          <div class="meta">
+                              <span class="source">${a.sourceName || ''}</span>
+                              <span>${a.publishedAt || ''}</span>
+                          </div>
+                      </div>`;
+                  });
+              })
+              .catch(() => {
+                  document.getElementById('status').textContent = '資料載入失敗';
+              });
+      </script>
+  </body>
+  </html>
