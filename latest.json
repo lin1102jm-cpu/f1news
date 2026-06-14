@@ -1,190 +1,110 @@
 {
-  "updated": "2026-06-13",
+  "updated": "2026-06-14",
   "articles": [
     {
-      "notionPageId": "37e6c3d3-6a7f-8137-8e86-d331df999e42",
-      "titleZh": "諾里斯在巴塞隆納的自由練習2中最快",
-      "summaryZh": "麥克拉倫的蘭多·諾里斯在巴塞隆納-加泰羅尼亞大獎賽的自由練習2中以最快的成績完賽，與梅賽德斯的世界冠軍喬治·拉塞爾和隊友奧斯卡·皮亞斯特里之間僅相差0.057秒。",
-      "titleOrig": "Norris tops the FP2 times in Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/norris-heads-russell-and-piastri-in-fp2-ahead-of-barcelona-catalunya-grand-prix.5Ot32uuMMaW0tDC9lLpB71",
+      "notionPageId": "37f6c3d3-6a7f-8179-9bd3-fbdfb32dff78",
+      "titleZh": "勒克萊爾對巴塞隆納排位賽撞車感到「非常羞愧」",
+      "summaryZh": "查爾斯·勒克萊爾承認在巴塞隆納-加泰羅尼亞大獎賽的排位賽中撞車後「感到非常羞愧」，並表示對於這起事件「沒有任何藉口」。",
+      "titleOrig": "Leclerc 'very ashamed' after Barcelona Qualifying crash",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/no-excuses-leclerc-feeling-very-ashamed-after-barcelona-catalunya-gp-qualifying-crash.4HZI6GRiDiGw5zMAFVOuZX",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8129-9f87-df221d36370c",
-      "titleZh": "F3：Nael 連續三場奪冠，領導 Campos 1-2",
-      "summaryZh": "Théophile Nael 在巴塞隆納以微弱優勢擊敗 Campos Racing 的隊友 Ugo Ugochukwu，獲得桿位，這是他本賽季第三次連續取得 P1 起跑位置。",
-      "titleOrig": "F3: Nael makes it three in a row as he leads Campos 1-2",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/f3-nael-makes-it-three-in-a-row-as-he-leads-campos-1-2-in-barcelona.38CfXY24Mf0wbCRvRJpHI0",
+      "notionPageId": "37f6c3d3-6a7f-8170-aec2-d72d385a4979",
+      "titleZh": "‘我感覺自己又回到了從前’ – Russell 談巴塞隆納桿位",
+      "summaryZh": "George Russell 在巴塞隆納-加泰羅尼亞大獎賽的排位賽中表現出色，重返梅賽德斯的頂尖位置。",
+      "titleOrig": "‘I feel like my old self again’ – Russell on Barcelona pole",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/russell-feeling-like-my-old-self-again-after-securing-pole-position-for-barcelona-catalunya-gp.3VAiLYqt1i5PGpvJ798WN8",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8171-a262-e6d9aac9f5e6",
-      "titleZh": "拉斐爾·卡馬拉在巴塞隆納連續奪得第二個F2桿位",
-      "summaryZh": "拉斐爾·卡馬拉在FIA F2排位賽中表現出色，連續奪得本賽季的第二個桿位，並在巴塞隆納的賽道上名列前茅。",
-      "titleOrig": "Rafael Camara takes second consecutive F2 pole in Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/f2-rafael-camara-takes-second-consecutive-pole-in-barcelona.UxusoC6P0E2LZaAr1Jnbw",
+      "notionPageId": "37f6c3d3-6a7f-814f-806d-fb1416f6cad9",
+      "titleZh": "漢密爾頓評估巴塞隆納的機會，排位賽獲得P2",
+      "summaryZh": "路易斯·漢密爾頓相信「我們處於一個良好的位置，可以爭取」在巴塞隆納-加泰羅尼亞大獎賽的勝利，法拉利車手將在前排發車。",
+      "titleOrig": "Hamilton assesses Barcelona chances after Qualifying P2",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/ferrari-able-to-fight-hamilton-optimistic-on-barcelona-catalunya-gp-chances-after-strong-qualifying.49VlKj4EBIzAsFrawiYl36",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81cf-a8df-cd9cfff11c84",
-      "titleZh": "諾里斯談麥克拉倫在巴塞隆納的機會",
-      "summaryZh": "蘭多·諾里斯相信麥克拉倫正在「朝著正確的方向前進」，因為衛冕世界冠軍在本週末的巴塞隆納-加泰羅尼亞大獎賽前的自由練習2中表現出色。",
-      "titleOrig": "Norris gives his take on McLaren's Barcelona chances",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/heading-in-the-right-direction-norris-optimistic-over-mclarens-barcelona-chances-after-setting-the-pace-on-friday.7qoF214QOQ4PBrHTqRUd3B",
+      "notionPageId": "37f6c3d3-6a7f-8129-8c28-f489f5d9eb94",
+      "titleZh": "Antonelli 承認在巴塞隆納「過度駕駛」賽車",
+      "summaryZh": "Kimi Antonelli 在巴塞隆納-加泰羅尼亞大獎賽的排位賽後分享了他的反思，這位 Mercedes 車手最終只能獲得 P3。",
+      "titleOrig": "Antonelli admits ‘overdriving the car’ in Barcelona",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/antonelli-admits-overdriving-the-car-in-barcelona-after-claiming-p3-in-qualifying.2usdxU6988aGU66bX8kKFh",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8108-97f2-cb124b707f77",
-      "titleZh": "Antonelli 承認在巴塞隆納「不會容易」",
-      "summaryZh": "Kimi Antonelli 認為連續第六場獲勝「不會容易」，因為 McLaren 在巴塞隆納-加泰羅尼亞大獎賽前的星期五練習中與 Mercedes 的速度相當。",
-      "titleOrig": "Antonelli admits it's 'not going to be easy' in Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/not-going-to-be-easy-antonelli-assesses-tricky-friday-in-barcelona-as-he-targets-sixth-win-in-a-row.5MVU1FpsomsbeutBOaVAqk",
+      "notionPageId": "37f6c3d3-6a7f-8126-8a8c-f90e6deb4596",
+      "titleZh": "McLaren 在巴塞隆納「必須全力以赴」 – Norris",
+      "summaryZh": "Lando Norris 在巴塞隆納-加泰隆尼亞大獎賽的排位賽中，僅僅錯失了前三名的資格。",
+      "titleOrig": "McLaren will ‘have to push like crazy’ in Barcelona – Norris",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/norris-accepts-mclaren-will-have-to-push-like-crazy-to-fight-rivals-in-barcelona.3e1LrHn0qYXExLYXV0ACe3",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81c1-961e-c530591301d6",
-      "titleZh": "Hamilton 認為 Ferrari 在巴塞隆納「仍有一段距離」",
-      "summaryZh": "Lewis Hamilton 對 Ferrari 在巴塞隆納-加泰羅尼亞大獎賽的早期表現發表了看法，他認為儘管車隊帶來了一系列升級，但仍然「與前方有相當距離」。",
-      "titleOrig": "Hamilton reckons Ferrari ‘still a chunk off’ in Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/hamilton-reckons-ferrari-still-a-chunk-off-despite-major-barcelona-upgrade-package.6oOsB2bzSsp6AGGLZR107Q",
+      "notionPageId": "37f6c3d3-6a7f-81fd-b926-d2a96669bf2e",
+      "titleZh": "車隊回應 – 巴塞隆納-加泰羅尼亞排位賽",
+      "summaryZh": "車手和車隊回顧在巴塞隆納-加泰羅尼亞賽道的最後練習和排位賽中的所有精彩瞬間。",
+      "titleOrig": "What the teams said – Qualifying in Barcelona-Catalunya ",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-barcelona-catalunya-2026.AlvzQmFZjMzdrprYSyiAT",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81dc-9dba-ce276c239819",
-      "titleZh": "Verstappen 解釋巴塞隆納星期五的 Red Bull 問題",
-      "summaryZh": "Max Verstappen 詳細說明了他在巴塞隆納-加泰羅尼亞大獎賽首日測試中遇到的 Red Bull 車輛問題。",
-      "titleOrig": "Verstappen explains Red Bull issues on Friday in Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/verstappen-admits-red-bull-have-a-lot-of-work-to-do-as-he-explains-issues-on-friday-in-barcelona.5giZLOvlhniLa89AVh9MQF",
+      "notionPageId": "37f6c3d3-6a7f-812d-b9fa-e9105335f92e",
+      "titleZh": "我們對巴塞隆納 GP 的五項投注建議",
+      "summaryZh": "我們請教了專業的投注作家，選出了五項投注建議，包括兩個頒獎台名次和一個前六名的完賽成績。",
+      "titleOrig": "Our five-leg Bet Builder picks for Barcelona GP",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/our-expert-bet-builder-selections-made-for-the-barcelona-catalunya-grand-prix.2I4w07I1fucQJi4WsHUlGF",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81fa-9bc5-ce2f3c7f556d",
-      "titleZh": "車隊的聲音 – 巴塞隆納-加泰羅尼亞的星期五",
-      "summaryZh": "車手和車隊回顧了在巴塞隆納-加泰羅尼亞賽道星期五練習的所有賽事動態。",
-      "titleOrig": "What the teams said – Friday in Barcelona-Catalunya ",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-barcelona-catalunya-2026.2pCe9lT0YJOzgsYJikKhw9",
+      "notionPageId": "37f6c3d3-6a7f-81d5-994f-ff787ca54803",
+      "titleZh": "紅牛車手對於「超出預期」的速度感到驚訝",
+      "summaryZh": "Max Verstappen 和 Isack Hadjar 對於紅牛在巴塞隆納-加泰羅尼亞大獎賽的排位賽速度感到驚訝，兩人將從第三排發車。",
+      "titleOrig": "Red Bull drivers surprised by 'better than expected' pace",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/better-than-expected-verstappen-and-hadjar-surprised-by-red-bulls-pace-in-qualifying-for-barcelona-catalunya-gp.5x1TC5doCaydOiaFlwcB4v",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-811a-bc11-e7e27bd935bb",
-      "titleZh": "巴塞隆納最佳排位賽投注選擇",
-      "summaryZh": "隨著週五的練習賽結束，我們的投注編輯評估了目前排位賽可用的最佳賠率。",
-      "titleOrig": "Best Qualifying bets on the market for Barcelona",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-for-the-barcelona-catalunya-grand-prix.1pxhs2b2WbufYr6dngNK4r",
+      "notionPageId": "37f6c3d3-6a7f-8153-b811-e1e5b314c4a6",
+      "titleZh": "巴塞隆納-加泰羅尼亞大獎賽觀賽重點",
+      "summaryZh": "Michael Lamonato 選出了五個在西班牙比賽日燈號熄滅時需要注意的關鍵事項。",
+      "titleOrig": "What To Watch For in the Barcelona-Catalunya Grand Prix",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-barcelona-catalunya-grand-prix.2n28OmANUhMIsnOCSi2Ujn",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8182-9a77-d36b3797fd49",
-      "titleZh": "McLaren 是否在巴塞隆納重新與 Mercedes 競爭？",
-      "summaryZh": "F1.com 的 Lawrence Barretto 深入探討 2026 巴塞隆納-加泰羅尼亞大獎賽首日賽道活動的發現。",
-      "titleOrig": "Are McLaren back in the fight against Mercedes in Barcelona?",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/are-mclaren-really-back-in-the-fight-against-mercedes-in-barcelona.6JiIZpRB9js3S1NJ1IuhfE",
+      "notionPageId": "37f6c3d3-6a7f-8188-8bd4-f1521931a625",
+      "titleZh": "策略指南：巴塞隆納-加泰羅尼亞大獎賽有哪些選擇？",
+      "summaryZh": "Matt Youson 針對西班牙賽事日，各隊可選擇的不同進站策略和輪胎選項進行了分析。",
+      "titleOrig": "STRATEGY GUIDE: What are the options for the Barcelona-Catalunya GP?",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-options-for-the-barcelona-catalunya-gp.30bhEEhYsL9XuuPBDleZ3Z",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-06-13T08:00:00.000+08:00"
+      "publishedAt": "2026-06-14T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8159-9884-c92f1060a9c3",
-      "titleZh": "勒克萊爾解釋導致摩納哥GP桿位失利的撞車事故",
-      "summaryZh": "查爾斯·勒克萊爾對於他在排位賽第三階段撞毀法拉利F1賽車，導致無緣摩納哥大獎賽桿位的事故提供了見解。儘管斯庫德利亞在周五的練習賽中展現出強勁的速度，包攬了兩場練習賽的前兩名，但在這個公國的周六表現卻未能如預期。雖然勒克萊爾在Q1中名列前茅，但他僅...",
-      "titleOrig": "Leclerc explains crash that cost shot at Monaco GP pole",
-      "sourceUrl": "https://www.autosport.com/f1/news/charles-leclerc-explains-crash-that-cost-shot-at-monaco-f1-pole-position/10827688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T01:25:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8187-a0ec-ebd2c4166f76",
-      "titleZh": "為何諾里斯預期摩納哥GP排位賽表現不佳",
-      "summaryZh": "蘭多·諾里斯的2026賽季看起來將成為自塞巴斯蒂安·維特爾2014年慘淡賽季以來，衛冕冠軍最失望的一年。但與維特爾的賽季因為不具競爭力且不可靠的雷諾引擎而受到影響不同，麥克拉倫的2026賽季則是由一連串小但明顯的挫折所組成：底盤雖然足夠有效，讓諾里斯在邁阿密贏得比賽……繼續閱讀",
-      "titleOrig": "Why Norris was expecting poor Monaco GP qualifying ",
-      "sourceUrl": "https://www.autosport.com/f1/news/a-reality-check-why-lando-norris-was-expecting-poor-monaco-qualifying-/10827698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T01:38:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81f1-9f5e-d232425ba0d4",
-      "titleZh": "Russell 在 F1 2026 對抗 Antonelli 的兩個令人擔憂的趨勢",
-      "summaryZh": "喬治·拉塞爾在加拿大大獎賽的退賽讓他損失了 43 分，顯示出他今年將面臨一個與安德烈亞·基米·安東內利相當的問題。他在摩納哥的排位賽中第五次敗給這位高飛的意大利車手，進一步強調了這個問題不會很快消失。拉塞爾在 2026 年的 F1 賽季開局強勁，以燈熄後的勝利開始了他的賽季...",
-      "titleOrig": "The two worrying trends for Russell against Antonelli in F1 2026",
-      "sourceUrl": "https://www.autosport.com/f1/news/two-worrying-trends-for-george-russell-as-kimi-antonelli-keeps-starring-in-f1-2026/10827740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T03:48:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8123-ac7e-c7fd81db18d8",
-      "titleZh": "Verstappen、Mercedes 和 Piastri：F1 瘋狂季節的關鍵因素",
-      "summaryZh": "夏季的開始傳統上標誌著人們的注意力逐漸轉向明年的車手市場——這在 F1 中被稱為「瘋狂季節」。法拉利和 Charles Leclerc 已經在摩納哥大獎賽之前搶先一步，延長了他們的合作關係。合約的具體期限尚未公開，但法拉利已確認這是...繼續閱讀",
-      "titleOrig": "Verstappen, Mercedes and Piastri: The key factors in F1’s silly season",
-      "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-mercedes-and-oscar-piastri-the-key-factors-in-f1s-silly-season/10827845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T18:31:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8134-8faa-f7dceda71b57",
-      "titleZh": "Verstappen 揭示摩納哥大獎賽退賽原因",
-      "summaryZh": "Max Verstappen 表示他的 Red Bull 引擎在 F1 摩納哥大獎賽開始時「突然熄火」，使這位荷蘭車手面臨早退的命運。Verstappen 和 Red Bull 挑戰了預期，在摩納哥街道賽道上爭奪桿位，這位四屆世界冠軍在被 Mercedes 的 Kimi Antonelli 擠下桿位之前，擊敗了兩位 Ferrari 車手。",
-      "titleOrig": "Verstappen reveals cause of shock Monaco GP retirement",
-      "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-reveals-cause-of-shock-monaco-gp-retirement-engine-just-dropped-dead/10827939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T21:46:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-814b-916e-e024a29c795c",
-      "titleZh": "F1 摩納哥大獎賽：Antonelli 在混亂結局中從 Hamilton 手中奪得主導勝利",
-      "summaryZh": "Kimi Antonelli 克服了摩納哥大獎賽的戲劇性，該賽事在最後階段陷入混亂，成功奪得他連續第五場的 F1 勝利。Charles Leclerc 和 Lance Stroll 在 Antony Noghes 的晚間撞車事件引發紅旗，並進入最後八圈的激烈競爭。比賽的最後四分之一段落中，Stroll 撞上了 Antony Noghes 的牆壁，讓賽事瞬間變得緊張...",
-      "titleOrig": "F1 Monaco GP: Antonelli takes dominant win from Hamilton after chaotic finish",
-      "sourceUrl": "https://www.autosport.com/f1/news/f1-monaco-gp-antonelli-takes-dominant-win-from-hamilton-in-chaotic-race/10827978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-07T23:49:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8120-af8b-e12d8ad3fa17",
-      "titleZh": "勒克萊爾揭示摩納哥GP撞車原因：三個煞車失靈",
-      "summaryZh": "查爾斯·勒克萊爾的摩納哥大獎賽在安全車重啟前於安東尼·諾赫斯彎道結束於撞車。他在第三名時滑入護欄，立即透過無線電告訴法拉利他並不負責任。他對團隊表示：‘我甚至不會承擔責任’，並在摩納哥向記者確認，嚴重的技術問題讓他...持續閱讀",
-      "titleOrig": "Leclerc reveals reason for Monaco GP crash: “Three out of four brakes not working”",
-      "sourceUrl": "https://www.autosport.com/f1/news/charles-leclerc-reveals-reason-for-monaco-crash-three-out-of-four-brakes-not-working/10828019/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-08T00:18:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8181-87b8-c35ec5df5499",
-      "titleZh": "Hadjar 維持 F1 摩納哥 GP 頒獎台位置，經調查後無進一步行動",
-      "summaryZh": "Isack Hadjar 將保留他在摩納哥大獎賽的首個 Red Bull 頒獎台，因為對他的車隊在比賽後期暫停期間所進行的工作沒有採取進一步行動。在第 18 和 19 虎口之間的賽道表面破損後，賽車被帶回維修區進行長時間的中斷，賽道工作人員修補瀝青，給予車隊機會...繼續閱讀",
-      "titleOrig": "Hadjar keeps F1 Monaco GP podium after investigation",
-      "sourceUrl": "https://www.autosport.com/f1/news/isack-hadjar-summoned-to-stewards-f1-monaco-gp-podium-at-risk/10828044/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-08T00:47:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81b1-8036-d08f8ebe1c98",
-      "titleZh": "Gasly 感到在 F1 摩納哥大獎賽中被剝奪頒獎台，Alpine 要求對進站超速進行審查",
-      "summaryZh": "Pierre Gasly 認為自己在摩納哥大獎賽中被剝奪了頒獎台，因為他因兩次進站超速罰款而從第三名降到第七名，Alpine 現在要求對這些進站超速罰款進行審查。這位 Alpine 車手在比賽中展現了出色的表現，從排位賽的第九名起步，最終以第三名衝過終點。",
+      "notionPageId": "37f6c3d3-6a7f-81b6-b779-e4db6062c830",
+      "titleZh": "Gasly 感到在 F1 摩納哥大獎賽的頒獎台被「搶走」，Alpine 要求檢討進站超速",
+      "summaryZh": "Pierre Gasly 認為他在摩納哥大獎賽中被「搶走」了頒獎台，因為他因進站超速受到兩次罰款，最終從第三名掉到第七名，Alpine 隨後要求檢討這些進站超速的罰款。這位 Alpine 車手在比賽中表現出色，從第九位起步，最終以第三名衝過終點。",
       "titleOrig": "Gasly felt \"robbed\" of F1 Monaco GP podium as Alpine requests right of review over pitlane speeding",
       "sourceUrl": "https://www.autosport.com/f1/news/gasly-felt-robbed-of-f1-monaco-gp-podium-as-alpine-request-right-of-review-over-pitlane-speeding/10828082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -192,9 +112,9 @@
       "publishedAt": "2026-06-08T01:31:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81d2-aeeb-e7e5e515b67e",
-      "titleZh": "為何在摩納哥大獎賽中如此多 F1 車手因進站超速而被罰",
-      "summaryZh": "摩納哥大獎賽因進站超速而產生了一系列的罰則。賽後公布的 FIA 文件顯示，在每一個案例中，違規的速度都低於每小時一公里。對於 Oscar Piastri、George Russell、Franco Colapinto 和 Pierre Gasly 來說，超速僅為 0.1 公里/小時。在這場充滿變數的比賽後，FIA 重新檢視了自己的計時線...",
+      "notionPageId": "37f6c3d3-6a7f-81f5-8031-c56c173a529d",
+      "titleZh": "為何在摩納哥大獎賽中如此多 F1 車手因進站超速被處罰",
+      "summaryZh": "摩納哥大獎賽因進站超速而產生了一系列的處罰。賽後公布的 FIA 文件顯示，每一個違規案例的超速都不到每小時一公里。對於 Oscar Piastri、George Russell、Franco Colapinto 和 Pierre Gasly 來說，超速僅為 0.1 公里/小時。在這場充滿變數的賽事後，FIA 重新檢視了自己的計時線...",
       "titleOrig": "Why so many F1 drivers were penalised for pitlane speeding in Monaco GP",
       "sourceUrl": "https://www.autosport.com/f1/news/explained-why-so-many-f1-drivers-were-penalised-for-pitlane-speeding-in-monaco/10828101/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -202,9 +122,9 @@
       "publishedAt": "2026-06-08T01:49:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8106-a9e8-d4735940d701",
-      "titleZh": "Russell 在慘淡無分的摩納哥大獎賽後感到「無法忍受」",
-      "summaryZh": "在2026年F1賽季開始之際，George Russell 是贏得車手冠軍的明顯熱門，但在經歷了一個痛苦的摩納哥大獎賽週末後，他現在已經滑落到積分榜第三名。Russell 只在計時賽中比隊友 Kimi Antonelli 提前完成一個回合，排位賽比他落後五名，並且在比賽中未能進入積分區。",
+      "notionPageId": "37f6c3d3-6a7f-81e5-b61a-f397ca153798",
+      "titleZh": "Russell 在糟糕且無分的摩納哥大獎賽後感到「超級沮喪」",
+      "summaryZh": "在2026年F1賽季開始之際，George Russell 明顯是贏得車手冠軍的熱門人選，但在痛苦的摩納哥大獎賽週末後，他已經滑落至積分榜第三名。Russell 只在計時賽中完成了一個回合，並且在排位賽中落後隊友 Kimi Antonelli 五個名次，最終在比賽中未能進入積分區。",
       "titleOrig": "Russell “beyond frustration” after dismal, point-less Monaco GP",
       "sourceUrl": "https://www.autosport.com/f1/news/george-russell-beyond-frustration-after-dismal-point-less-monaco-gp/10828111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -212,9 +132,9 @@
       "publishedAt": "2026-06-08T01:56:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8168-b26e-f8c04f372001",
-      "titleZh": "Cadillac 首次 F1 積分失利，佩雷茲遭罰",
-      "summaryZh": "Cadillac F1 車手 Sergio Perez 在摩納哥大獎賽中被判處 10 秒罰款，從原本可以得分的第 10 名跌至完賽者中的最後一名。儘管在這場充滿變數的比賽中，Perez 在賽道上最終名列第 10，並充分利用了周圍發生的事件，但他仍因早期因排隊在 Gabriel Bortoleto 的空位上而受到駕駛通過罰款。",
+      "notionPageId": "37f6c3d3-6a7f-8115-b5cb-f8b335203136",
+      "titleZh": "Cadillac 首度 F1 積分失利，Perez 遭罰",
+      "summaryZh": "Cadillac F1 車手 Sergio Perez 在摩納哥大獎賽中被判處 10 秒罰時，從原本的第 10 名（可得積分）跌至最後一名完賽者。儘管在這場充滿變數的比賽中，Perez 在賽道上以第 10 名完賽，並善用周遭發生的事件，但他仍因早期因排隊違規而被罰進站。",
       "titleOrig": "Cadillac loses maiden F1 point as Perez penalised",
       "sourceUrl": "https://www.autosport.com/f1/news/cadillac-loses-maiden-f1-point-as-sergio-perez-penalised/10828118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -222,9 +142,9 @@
       "publishedAt": "2026-06-08T02:03:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8106-ad0b-e1f7eb4c4557",
-      "titleZh": "Alpine 向 FIA 申請檢討權，因罰款影響摩納哥 GP 頒獎台",
-      "summaryZh": "Pierre Gasly 表示他在摩納哥賽道上以第三名完賽卻被「搶走」了頒獎台，而他的車隊也同意這一點。Alpine 車隊發表聲明表示：「在今天摩納哥大獎賽的結果出爐後，BWT Alpine Formula One Team 確認已向 FIA 申請檢討權，因為在進站時超速而受到的罰款。」",
+      "notionPageId": "37f6c3d3-6a7f-811a-8fa5-f86c873a6ba1",
+      "titleZh": "Alpine 向 FIA 申請檢討權，因罰款失去摩納哥 GP 頒獎台",
+      "summaryZh": "Pierre Gasly 表示他在摩納哥賽道上以第三名完賽卻被“搶走”了頒獎台，他的團隊也同意這一說法。Alpine 團隊發表聲明表示：“在今天的摩納哥大獎賽結果出爐後，BWT Alpine Formula One Team 確認已向 FIA 申請檢討權，因為在進站時超速而受到的罰款。”",
       "titleOrig": "Alpine requests right of review with FIA over penalties which cost Monaco GP podium",
       "sourceUrl": "https://www.autosport.com/f1/news/alpine-requests-fia-right-of-review-over-penalties-which-cost-monaco-gp-podium/10828137/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -232,9 +152,9 @@
       "publishedAt": "2026-06-08T02:32:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81e5-ad9d-e98c0c9796cc",
+      "notionPageId": "37f6c3d3-6a7f-81ec-8ad6-c17c8a525321",
       "titleZh": "漢密爾頓詳述ADUO命令，梅賽德斯與法拉利獲得F1引擎支援",
-      "summaryZh": "根據Autosport的確認，Red Bull Ford Powertrains被認為擁有F1中領先的V6內燃機，這是在路易斯·漢密爾頓透露法拉利正在獲得升級支援後的消息。隨著加拿大大獎賽的結束，F1的監管機構FIA測量了所有V6內燃機的性能，以確定基準動力單元以及...繼續閱讀",
+      "summaryZh": "根據Autosport的確認，Red Bull Ford Powertrains被認為擁有F1中領先的V6內燃機，這一消息是在Lewis Hamilton透露法拉利獲得升級支援之後傳出的。在加拿大大獎賽之後，F1的管理機構FIA測量了所有V6內燃機的性能，以確定基準動力單元以及...繼續閱讀",
       "titleOrig": "Hamilton details ADUO order as Mercedes and Ferrari get F1 engine help",
       "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-reveals-aduo-order-as-mercedes-ferrari-get-f1-engine-help/10828155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -242,9 +162,9 @@
       "publishedAt": "2026-06-08T03:07:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-811a-b83d-d2890dee902c",
-      "titleZh": "梅賽德斯承擔羅素摩納哥大獎賽罰款責任",
-      "summaryZh": "梅賽德斯 F1 車隊負責人 Toto Wolff 對於導致 George Russell 在摩納哥大獎賽中被處以駛過罰的進站失誤承擔責任。羅素在這個公國度過了一個糟糕的週末，排位賽中在所有三個階段都被隊友 Kimi Antonelli 明顯擊敗，最終僅獲得第六位。這位英國車手在...獲得了一個名次。",
+      "notionPageId": "37f6c3d3-6a7f-8120-8440-db7b6e5114ec",
+      "titleZh": "梅賽德斯承擔拉塞爾摩納哥大獎賽罰款責任",
+      "summaryZh": "梅賽德斯 F1 車隊負責人 Toto Wolff 對於在摩納哥大獎賽中導致 George Russell 被處以駛入區罰款的進站失誤負起責任。拉塞爾在這個公國度過了一個糟糕的週末，在所有三個排位賽階段中都被隊友 Kimi Antonelli 明顯擊敗，最終在排位賽中獲得第六位。這位英國車手在比賽中獲得了一個名次...",
       "titleOrig": "Mercedes takes blame for Russell Monaco GP penalty",
       "sourceUrl": "https://www.autosport.com/f1/news/mercedes-takes-blame-for-russell-monaco-gp-penalty/10828332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -252,9 +172,9 @@
       "publishedAt": "2026-06-08T18:46:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-811b-972d-f266f7cfeac3",
+      "notionPageId": "37f6c3d3-6a7f-814a-a6b6-ebc7e4a84101",
       "titleZh": "為什麼 McLaren 將梅賽德斯顧客車隊身份視為 F1 2026 的劣勢",
-      "summaryZh": "在 McLaren 在邁阿密獲得雙冠頒獎台並似乎在年初的首次重大升級後迎來轉機之際，蒙特利爾和摩納哥的比賽週末卻未如預期。在加拿大，由於決定使用中性胎起跑，情況部分失控，而 Lando Norris 隨後因變速箱問題退賽。摩納哥則再次帶來了衛冕車手的退賽...",
+      "summaryZh": "在 McLaren 在邁阿密獲得雙冠並似乎在年初的首次重大升級後迎來轉機之後，蒙特利爾和摩納哥的比賽週末卻未如預期。在加拿大，由於決定使用中性胎起跑，部分情況失控，而 Lando Norris 隨後因變速箱問題退賽。摩納哥則再次帶來了衛冕車手的退賽...繼續閱讀",
       "titleOrig": "Why McLaren sees Mercedes customer team status as a disadvantage in F1 2026",
       "sourceUrl": "https://www.autosport.com/f1/news/mclaren-admits-mercedes-customer-team-status-has-become-a-disadvantage-in-f1-2026/10828347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -262,9 +182,9 @@
       "publishedAt": "2026-06-08T19:12:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-810e-bd2e-e9b879e9d0ed",
-      "titleZh": "Red Bull 找到 Verstappen 退賽原因，計劃在摩納哥後更換引擎",
-      "summaryZh": "雖然 Max Verstappen 在星期六的排位賽中以第二名的成績讓許多人感到驚訝，但他在接下來的比賽中幾乎立即退賽。這位荷蘭車手在 F1 的暖車圈中就感受到了一些異常，然後在預啟動程序中難以將轉速調整到正確範圍。最後一根稻草是當他一釋放油門時，動力單元完全失去動力。",
+      "notionPageId": "37f6c3d3-6a7f-81cd-bfbb-cd579dbc3556",
+      "titleZh": "紅牛找到 Verstappen 退賽原因，計畫在摩納哥後更換引擎",
+      "summaryZh": "雖然 Max Verstappen 在週六的排位賽中以第二名的成績讓許多人感到驚訝，但他在接下來的比賽中幾乎立即退賽。這位荷蘭車手在 F1 的暖車圈中就感受到了一些異常，並在預啟動程序中難以將轉速調整到正確範圍。最終的致命一擊是在他一釋放油門後，動力單元完全失去動力。",
       "titleOrig": "Red Bull finds cause of Verstappen’s retirement, planned engine change after Monaco",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-finds-cause-of-max-verstappens-dnf-planned-engine-change-after-monaco/10828379/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -272,9 +192,9 @@
       "publishedAt": "2026-06-08T21:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81cd-83fa-e05c55517907",
-      "titleZh": "摩納哥的魔力在 F1 2026 中依然存在",
-      "summaryZh": "我們不會用常見的摩納哥陳詞濫調來讓你感到厭煩，但摩納哥街道曾經足夠容納大獎賽的時代早已過去，無論是在賽道表現上，還是越來越多的賓客使得工作人員難以完成他們的工作。摩納哥不應該運作的原因有很多實際考量，而它之所以能運作的商業理由也同樣不少。但...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-81eb-91b4-f764fd9b214f",
+      "titleZh": "摩納哥魔力在 F1 2026 依然存在",
+      "summaryZh": "我們不會用老套的摩納哥陳詞濫調來讓你感到無聊，但蒙特卡羅街道曾經足夠寬敞以容納大獎賽的時代早已過去，無論是在賽道上的表現還是越來越多的賓客使得工作人員難以完成他們的工作。摩納哥不應該運作的原因有很多，但它能運作的商業理由也同樣不少。不過……繼續閱讀",
       "titleOrig": "The Monaco magic alive and well in F1 2026",
       "sourceUrl": "https://www.autosport.com/f1/news/why-monaco-magic-is-still-alive-and-well-in-f1-2026/10828415/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -282,9 +202,9 @@
       "publishedAt": "2026-06-08T22:47:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81e0-8c8b-f3ba3e1accdc",
-      "titleZh": "漢密爾頓：首次為法拉利獲勝「無法更接近」，因為「懇求」的改變正在見效",
-      "summaryZh": "路易斯·漢密爾頓認為他為法拉利的首次勝利「無法更接近」，因為2026年F1賽季見證了這位七冠世界冠軍的重振。這位41歲的車手在2025年為法拉利的首個賽季中遭遇困境，經歷了他18年職業生涯中首個未上頒獎台的賽季，並以86分之差落後隊友查爾斯·勒克萊爾。漢密爾頓感到沮喪...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-81e5-8976-df3c4d41d7cb",
+      "titleZh": "Hamilton：首次為 Ferrari 贏得 F1 冠軍「無法更接近」，因為「懇求」的變化正在見效",
+      "summaryZh": "Lewis Hamilton 認為他為 Ferrari 贏得的首次勝利「無法更接近」，因為 2026 年的 F1 賽季見證了這位七屆世界冠軍的重振。這位 41 歲的車手在 2025 年的 Scuderia 首秀賽季中遭遇了艱難，經歷了他 18 年職業生涯中首次未上頒獎台的賽季，最終以 86 分落後於隊友 Charles Leclerc。Hamilton 感到沮喪...繼續閱讀",
       "titleOrig": "Hamilton: Maiden Ferrari F1 win \"couldn't be closer\" after \"begging\" for changes which are paying off",
       "sourceUrl": "https://www.autosport.com/f1/news/hamilton-maiden-ferrari-f1-win-couldnt-be-closer-after-begging-for-changes-which-are-paying-off/10828532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -292,9 +212,9 @@
       "publishedAt": "2026-06-09T16:19:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-814e-9c8f-e47666403b57",
+      "notionPageId": "37f6c3d3-6a7f-815a-a9ea-e7a5b1410380",
       "titleZh": "為何 Gasly 用假慶祝發洩失去摩納哥 GP 頒獎台的心情",
-      "summaryZh": "Pierre Gasly 表示，他早在比賽後期的紅旗時就知道自己將被剝奪摩納哥大獎賽的頒獎台，但仍在冷卻圈上諷刺性地慶祝自己的第三名。Gasly 是多位因進站超速而受到處罰的車手之一，這位法國車手因兩次超過摩納哥 60km/h 限速而遭到兩次時間罰款，一次超速 0.1km/h，另一次則是...繼續閱讀",
+      "summaryZh": "Pierre Gasly 表示，他在比賽後期的紅旗階段就知道自己將被剝奪摩納哥大獎賽的頒獎台，但仍在冷卻圈上諷刺性地慶祝自己的第三名。Gasly 是多位因進站超速而受到處罰的車手之一，這位法國車手因兩次超過摩納哥的 60km/h 限速而遭到兩次時間罰款，第一次超速 0.1km/h，第二次則是...繼續閱讀",
       "titleOrig": "Why Gasly vented his lost Monaco GP podium with fake celebrations",
       "sourceUrl": "https://www.autosport.com/f1/news/why-pierre-gasly-vented-his-lost-monaco-p3-with-fake-celebrations-i-knew-the-situation/10828587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -302,9 +222,9 @@
       "publishedAt": "2026-06-09T19:46:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-813e-bdeb-d345dfba6f97",
+      "notionPageId": "37f6c3d3-6a7f-81c5-b266-ed5f7ba9378e",
       "titleZh": "阿斯頓馬丁在摩納哥GP後的弱點清單增長 - 阿隆索",
-      "summaryZh": "雙料F1世界冠軍費爾南多·阿隆索擔心摩納哥大獎賽使阿斯頓馬丁的弱點清單增加，因為該隊正努力從2026賽季的糟糕開局中恢復過來。阿斯頓馬丁在2026年面臨艱難的挑戰，試圖擺脫F1車隊的末端。該隊在冬季測試遲到，賽季開局不佳，之後情況也未見好轉。",
+      "summaryZh": "雙料F1世界冠軍費爾南多·阿隆索擔心摩納哥大獎賽讓阿斯頓馬丁的弱點清單更加冗長，因為該隊正在努力從2026賽季的糟糕開局中恢復。阿斯頓馬丁在2026年面臨艱難的挑戰，試圖從F1車隊的末端爬升。該隊在冬季測試遲到，賽季開局不佳，之後情況也未見好轉。",
       "titleOrig": "Aston Martin's list of weaknesses grows after Monaco GP - Alonso",
       "sourceUrl": "https://www.autosport.com/f1/news/aston-martins-list-of-weaknesses-grows-after-monaco-gp-alonso/10828602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -312,9 +232,9 @@
       "publishedAt": "2026-06-09T23:26:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-813e-9237-c44fed850d9d",
-      "titleZh": "FIA 宣布聽證會，Alpine 企圖恢復 Gasly 在摩納哥的頒獎台",
-      "summaryZh": "FIA 確認 Alpine 企圖推翻讓 Pierre Gasly 在摩納哥大獎賽失去頒獎台的懲罰，將在本週稍晚進行聽證會。在摩納哥賽後，Alpine 發表聲明確認已向 FIA 提出審查權請求，試圖推翻該場比賽的結果，Gasly 雖然在賽道上名列第三，但因為...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-81bb-89db-e5a8da86f023",
+      "titleZh": "FIA 宣布聽證會，Alpine 企圖恢復 Gasly 在摩納哥的頒獎台名次",
+      "summaryZh": "FIA 確認 Alpine 企圖推翻讓 Pierre Gasly 在摩納哥大獎賽失去頒獎台名次的懲罰將於本週稍晚進行聽證會。在摩納哥賽後，Alpine 發表聲明確認已向 FIA 申請檢討權，試圖推翻該場比賽的結果，Gasly 雖然在賽道上名列第三，但因為...繼續閱讀",
       "titleOrig": "FIA announces hearing as Alpine seeks to get Gasly's Monaco podium back",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-announces-hearing-as-alpine-seeks-to-get-gaslys-monaco-podium-back/10828679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -322,9 +242,9 @@
       "publishedAt": "2026-06-10T02:26:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81a4-a41c-e07d04d5a16d",
-      "titleZh": "為何「黑馬」Antonelli 感到自己「沒有什麼好失去」回應 Russell 的心理戰",
-      "summaryZh": "在 George Russell 表示 Kimi Antonelli 在 F1 世界錦標賽中擁有巨大的領先優勢，意味著冠軍「是他要失去的」後，這位義大利車手以自己的評估回應，堅持不會被捲入心理戰。Russell 在摩納哥大獎賽週末前提出這一主張，許多人認為這是 Mercedes 車隊隊友之間首次進行的心理戰。",
+      "notionPageId": "37f6c3d3-6a7f-8129-9874-e26c81ba7e80",
+      "titleZh": "為何「黑馬」Antonelli 認為自己「沒有什麼好失去的」回應 Russell 的心理戰",
+      "summaryZh": "在 George Russell 說 Kimi Antonelli 在 F1 世界錦標賽中擁有巨大的領先優勢意味著冠軍「是他的失誤」後，這位意大利車手回應了自己的評估，堅持不會被捲入心理戰。Russell 在摩納哥大獎賽週末前提出這一說法，許多人認為這是 Mercedes 車隊隊友之間首次進行的心理戰。",
       "titleOrig": "Why “underdog” Antonelli feels he has “nothing to lose” in response to Russell’s mind games",
       "sourceUrl": "https://www.autosport.com/f1/news/kimi-antonelli-dismisses-george-russells-mind-games-im-still-the-underdog/10828658/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -332,9 +252,9 @@
       "publishedAt": "2026-06-10T15:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8145-8350-ea03ac2633b6",
-      "titleZh": "接管 F1 及更廣泛賽車世界的模擬器公司",
-      "summaryZh": "隱身於布里斯托的田野中，是英國增長最快的公司之一，負責為多達一半的 F1 車隊提供動力。Dynisma Motion Generators 是一家擁有 180 名員工的模擬器公司，與 Ferrari、Alpine 和 Cadillac 等品牌合作，自 2017 年成立以來一直是行業領導者。其創始人是航空工程師 Ash Warne。",
+      "notionPageId": "37f6c3d3-6a7f-8141-9dab-e4442d385275",
+      "titleZh": "掌控 F1 及更廣泛賽車世界的模擬器公司",
+      "summaryZh": "位於布里斯托田野中的一家英國快速成長的公司，負責為多達一半的 F1 車隊提供動力。Dynisma Motion Generators 是一家擁有 180 名員工的模擬器公司，與 Ferrari、Alpine 和 Cadillac 等品牌合作，自 2017 年成立以來一直是行業的領導者。其創始人是航空工程師 Ash Warne。",
       "titleOrig": "The simulator company taking over F1 and the wider motorsport world",
       "sourceUrl": "https://www.autosport.com/f1/news/the-simulator-company-taking-over-f1-and-the-wider-motorsport-world/10828661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -342,9 +262,9 @@
       "publishedAt": "2026-06-10T17:03:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81c2-9a5f-f0ddb15e0977",
-      "titleZh": "紅牛對安東尼利在摩納哥GP的速度感到「驚訝」",
-      "summaryZh": "基米·安東尼利在摩納哥大獎賽中主宰比賽，創下了F1歷史上最年輕大滿貫冠軍的紀錄，紅牛車隊負責人洛朗·梅基斯承認，他的「嚴肅速度」讓許多觀眾感到驚訝。這位梅賽德斯的少年在摩納哥取得了桿位，領先於紅牛的馬克斯·維斯塔潘。然而，這位荷蘭車手在起步時出現了問題...",
+      "notionPageId": "37f6c3d3-6a7f-81d7-88d5-dc1ef760ad9c",
+      "titleZh": "紅牛對 Antonelli 在摩納哥 GP 獲勝的速度感到「驚訝」",
+      "summaryZh": "Kimi Antonelli 在摩納哥大獎賽中主宰比賽，創下了 F1 歷史上最年輕的全滿貫獲勝者紀錄，紅牛老闆 Laurent Mekies 承認他的「驚人速度」讓許多觀眾感到意外。這位梅賽德斯青少年在公國的排位賽中取得了桿位，領先於紅牛的 Max Verstappen。然而，這位荷蘭車手在起步時出現了故障...",
       "titleOrig": "Red Bull was left \"surprised\" by Antonelli's pace en route to Monaco GP win",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-surprised-by-antonelli-monaco-gp-pace/10828822/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -352,9 +272,9 @@
       "publishedAt": "2026-06-11T00:36:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-814f-a94a-ee52f424dd25",
-      "titleZh": "F1 同意在 2027 和 2028 年增加內燃機功率",
-      "summaryZh": "F1 的相關利益方已同意逐步提高內燃機的功率，以緩解能源管理的問題。週三，國際汽車聯盟（FIA）宣布 F1 的利益方已同意從 2027 年開始進行適度的增幅，並在 2028 年承諾實現 60/40 的分配。具體來說，這意味著明年動力單元的燃油流量將增加五個百分比，提升 ... 繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8133-b297-e85ce68be5b3",
+      "titleZh": "F1 同意在 2027 和 2028 年增加內燃機動力",
+      "summaryZh": "F1 的利益相關者已同意逐步增加內燃機的動力，以緩解能源管理的擔憂。國際汽車聯盟（FIA）在週三宣布，F1 的利益相關者已同意從 2027 年開始進行適度增長，並在 2028 年承諾實現 60/40 的分配。具體來說，這意味著動力單元的燃油流量明年將增加五個百分比，提升 ... 繼續閱讀",
       "titleOrig": "F1 agrees on extra combustion power for 2027 and 2028",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-agrees-on-extra-combustion-power-for-2027-and-2028/10828940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -362,9 +282,9 @@
       "publishedAt": "2026-06-11T01:37:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-816c-9f1f-c6f5d6bc861b",
-      "titleZh": "為何 Alpine 嘗試質疑摩納哥賽果可能引發一連串問題",
-      "summaryZh": "Pierre Gasly 發誓他在摩納哥並沒有做錯任何事，卻因此受到兩次處罰，最終失去了頒獎台的機會。這不僅讓他感到憤怒和沮喪，也促使他與團隊一起努力推動賽果的翻盤。然而，如果 Alpine 的調查能夠得到滿意的結果，則可能會引發一連串的問題。Gasly 並不是唯一一位...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-815b-9600-e5fd7506e8b3",
+      "titleZh": "為何 Alpine 嘗試質疑摩納哥賽果可能會引發一連串問題",
+      "summaryZh": "Pierre Gasly 發誓他在摩納哥並沒有做錯任何事，卻因此獲得了兩次處罰，最終失去了頒獎台的機會。這不僅讓他感到憤怒和沮喪，也促使他與團隊一起推動賽果的翻盤。然而，如果 Alpine 的調查能夠帶來滿意的結果，可能會引發一連串的問題。Gasly 並不是唯一一位...繼續閱讀",
       "titleOrig": "Why Alpine’s attempt to dispute Monaco result may open a can of worms",
       "sourceUrl": "https://www.autosport.com/f1/news/why-alpines-attempt-to-dispute-monaco-result-may-open-a-can-of-worms/10829016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -372,9 +292,9 @@
       "publishedAt": "2026-06-11T16:12:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81d8-86b9-d1dba5f355a2",
-      "titleZh": "Antonelli 擔心梅賽德斯 F1 的未來，因 2025 年的低潮期而感到黑暗",
-      "summaryZh": "F1 超級明星 Kimi Antonelli 在一個起伏不定的菜鳥賽季中感到對未來的擔憂，這讓賽道上的人們懷疑梅賽德斯是否過早地提拔了他。這位 19 歲的車手被德國品牌迅速提拔，跳過 F3，僅參加一個賽季的 F2，隨後在 2025 年取代了 Lewis Hamilton。這是個艱巨的挑戰，...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-815d-82a7-f1e9a6889e7f",
+      "titleZh": "Antonelli 在 2025 年的「黑暗」低潮中擔心梅賽德斯 F1 的未來",
+      "summaryZh": "F1 超級明星 Kimi Antonelli 在一個起伏不定的菜鳥賽季中感到對未來的擔憂，這讓車隊懷疑梅賽德斯是否過早提拔了他。這位 19 歲的車手被德國品牌快速提拔，跳過 F3，僅參加一季 F2 就取代了 Lewis Hamilton 參加 2025 年的賽季。這是個艱鉅的挑戰，...繼續閱讀",
       "titleOrig": "Antonelli feared for Mercedes F1 future during ‘dark’ 2025 slump",
       "sourceUrl": "https://www.autosport.com/f1/news/antonelli-feared-for-mercedes-f1-future-during-dark-2025-slump/10829051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -382,9 +302,9 @@
       "publishedAt": "2026-06-11T18:07:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81ee-a4e1-d202ef0be5c1",
-      "titleZh": "拉斯維加斯如何利用摩納哥推廣其十年延長計畫",
-      "summaryZh": "自從拉斯維加斯在2023年重返F1賽程以來，這場比賽的運作方式與日曆上的其他賽事有所不同。首先，它是唯一一場由錦標賽直接推廣並由Liberty Media Corporation擁有的比賽。該公司投資了2.4億美元於一塊土地，建造其39英畝的維修區和車隊區複合體——Grand Prix Plaza，這裡現在全年開放……繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8166-8c4f-ced5b5e945aa",
+      "titleZh": "拉斯維加斯如何利用摩納哥推廣其十年延長合約",
+      "summaryZh": "自從拉斯維加斯在2023年重返F1賽程以來，這場比賽的運作方式與日曆上其他賽事有所不同。首先，它是唯一一場由冠軍直接推廣並由Liberty Media Corporation擁有的比賽。該公司投入了2.4億美元於一塊土地上，建設其39英畝的維修區和車隊區綜合體——Grand Prix Plaza，這裡現在全年開放……",
       "titleOrig": "How Las Vegas used Monaco to promote its 10-year extension",
       "sourceUrl": "https://www.autosport.com/f1/news/how-las-vegas-used-monaco-to-promote-its-10-year-extension/10829053/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -392,9 +312,9 @@
       "publishedAt": "2026-06-11T18:10:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81a1-937c-f48a1e5f4b43",
+      "notionPageId": "37f6c3d3-6a7f-81e6-9c80-c79d7686852f",
       "titleZh": "勒克萊爾將在 F1 巴塞隆納大獎賽測試漢密爾頓的煞車配置",
-      "summaryZh": "查爾斯·勒克萊爾在經歷摩納哥的挫折後，選擇了與路易斯·漢密爾頓相似的技術方向，參加本週末的 F1 巴塞隆納大獎賽。這位法拉利車手在上週末的主場賽事中，還剩下 14 圈時因撞上最後一個彎道的護欄而退賽，當時他正位於第三名。勒克萊爾在賽後非常憤怒，因為他失去了登上頒獎台的機會...",
+      "summaryZh": "查爾斯·勒克萊爾在本週末的 F1 巴塞隆納大獎賽中選擇了與路易斯·漢密爾頓相似的技術方向，這是因為他在摩納哥的挫折。這位法拉利車手在上週末的主場比賽中，還剩下 14 輪時因為在最後一彎撞上護欄而退賽，當時他正位於第三名。勒克萊爾在比賽結束後非常憤怒，因為他失去了登上頒獎台的機會，並且...",
       "titleOrig": "Leclerc to test Hamilton's brake configuration at F1 Barcelona GP",
       "sourceUrl": "https://www.autosport.com/f1/news/charles-leclerc-to-test-lewis-hamiltons-brake-configuration-at-f1-barcelona-gp/10829086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -402,9 +322,9 @@
       "publishedAt": "2026-06-11T19:19:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81fb-af02-eccc26ef6a64",
-      "titleZh": "紅牛要求 FIA 重新審查 ADUO 結果，成為 F1 引擎基準",
-      "summaryZh": "在摩納哥大獎賽週末，各隊和動力單元製造商都被告知第一個 ADUO 期間的結果——F1 的額外升級與發展機會的追趕機制。紅牛福特動力系統成為基準。根據結果，梅賽德斯的內燃機落後約 2-4%，這意味著這家德國製造商...持續關注",
+      "notionPageId": "37f6c3d3-6a7f-81da-b186-c7e8e7794901",
+      "titleZh": "紅牛要求 FIA 審查 ADUO 結果，成為 F1 引擎基準",
+      "summaryZh": "在摩納哥大獎賽週末，各隊和動力單元製造商都被告知第一個 ADUO 期間的結果——F1 的補救機制，提供額外升級和發展機會。紅牛福特動力系統成為基準。根據結果，梅賽德斯的內燃機落後約 2-4%，這意味著這家德國製造商...繼續閱讀",
       "titleOrig": "Red Bull requests FIA review of ADUO results after emerging as F1 engine benchmark",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-requests-fia-review-of-aduo-results-after-emerging-as-f1-engine-benchmark/10829099/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -412,9 +332,9 @@
       "publishedAt": "2026-06-11T19:50:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8100-8414-c79c9d8fc4bd",
-      "titleZh": "什麼是 ADUO？F1 的引擎追趕系統如何運作",
-      "summaryZh": "國際汽車聯合會尚未正式公布哪些 F1 製造商有資格獲得額外幫助來開發其內燃機。但在摩納哥賽事周末期間，有消息透露 Red Bull 在 V6 性能上出乎意料地領先於其他車隊，而包括 Mercedes 在內的所有其他 OEM 也有資格獲得額外升級。作為 ADUO 系統（額外開發與升級）的一部分...",
+      "notionPageId": "37f6c3d3-6a7f-815f-b4f8-ef3f09736198",
+      "titleZh": "什麼是 ADUO？F1 引擎追趕系統如何運作",
+      "summaryZh": "國際汽車聯盟尚未正式公布哪些 F1 製造商有資格獲得額外的內燃機開發支援。但在摩納哥週末傳出消息，Red Bull 在 V6 性能上意外領先，所有其他 OEM，包括 Mercedes，都有資格獲得額外升級。作為 ADUO 系統（額外開發與升級）的一部分...繼續閱讀",
       "titleOrig": "What is ADUO? How F1's engine catch-up system works",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-confirms-f1-engine-help-for-mercedes-as-political-intrigue-builds/10828357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -422,9 +342,9 @@
       "publishedAt": "2026-06-11T20:37:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81b8-b5b8-f620887e4dbd",
-      "titleZh": "Alpine 在 Gasly 摩納哥 GP 罰款挑戰中清除首道障礙",
-      "summaryZh": "FIA 裁判團已支持 Alpine 車隊要求重新審查 Pierre Gasly 在摩納哥大獎賽中因超速進入維修區而受到的兩項五秒罰款，這使得這位法國車手無緣頒獎台。Gasly 在摩納哥的比賽中以第三名衝過終點，但在裁判施加兩項五秒的超速罰款後被降至第七名。Gasly 是六名車手之一...持續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8184-8893-ea851bcf0826",
+      "titleZh": "Alpine 清除 Gasly 摩納哥 GP 罰款挑戰的第一道障礙",
+      "summaryZh": "FIA 裁判團已批准 Alpine 車隊要求重新審查 Pierre Gasly 在摩納哥大獎賽中因超速進入維修區而受到的兩項五秒罰款，這使得這位法國車手無緣頒獎台。Gasly 在摩納哥的比賽中以第三名衝過終點，但在裁判施加兩項分別的五秒罰款後被降級至第七名。Gasly 是六位車手之一...繼續閱讀",
       "titleOrig": "Alpine clears first hurdle in Gasly's Monaco GP penalty challenge",
       "sourceUrl": "https://www.autosport.com/f1/news/alpine-clears-first-hurdle-in-monaco-penalty-challenge/10829132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -432,9 +352,9 @@
       "publishedAt": "2026-06-11T20:49:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-817d-b9c1-e4270ad25f8b",
-      "titleZh": "為何 Leclerc 將調整與 Hamilton 相同的煞車設定",
-      "summaryZh": "當 Charles Leclerc 的 Ferrari 在上週末摩納哥大獎賽的後期緩慢而不光彩地滑向 Antony Noghes 的牆壁時，這位摩納哥車手確信是他的煞車出了問題。Leclerc 本可以輕易地將責任推給賽道的破損，因為在最後兩個彎道之間重新鋪設的瀝青開始向賽道噴出石頭，但他更想要...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-81c5-a2e1-d95bb9a2c9d3",
+      "titleZh": "為什麼 Leclerc 會調整與 Hamilton 相同的煞車設定",
+      "summaryZh": "當 Charles Leclerc 的 Ferrari 在上週末摩納哥大獎賽的後期緩慢而不光彩地滑向 Antony Noghes 的牆壁時，這位摩納哥車手確信煞車是罪魁禍首。Leclerc 本可以輕易地將責任推給賽道的破損，因為在最後兩個彎道之間重新鋪設的瀝青開始向賽道噴出石頭，但他更想要...繼續閱讀",
       "titleOrig": "Why Leclerc will match Hamilton's braking set-up",
       "sourceUrl": "https://www.autosport.com/f1/news/why-leclerc-will-match-hamiltons-braking-set-up/10829189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -442,9 +362,9 @@
       "publishedAt": "2026-06-11T23:40:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81bd-ac03-f56d919cc35b",
-      "titleZh": "為何 Antonelli 對 F1 2025 賽季中期低潮感到「感激」",
-      "summaryZh": "在本週與 Autosport 的獨家訪談中，F1 冠軍領跑者 Kimi Antonelli 承認，他在新秀賽季中期的低潮讓他對未來感到擔憂。不過，現在他表示那些疑慮已經過去，但未來仍然充滿未知。Antonelli 現在已經進入五連勝的狀態，而歷史上沒有其他賽車手能夠...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8199-8b96-f111e1cbb1b8",
+      "titleZh": "為何 Antonelli 對 F1 2025 中期低迷感到「感激」",
+      "summaryZh": "在本週接受 Autosport 獨家訪問時，F1 冠軍領跑者 Kimi Antonelli 承認，他在新秀賽季中因中期低迷而對未來感到擔憂。不過，現在他表示那些疑慮已經過去，但未來仍然充滿未知。Antonelli 現在已經進入五場比賽的連勝紀錄，而歷史上沒有其他賽車手能夠...",
       "titleOrig": "Why Antonelli is \"grateful\" for mid-season slump in F1 2025",
       "sourceUrl": "https://www.autosport.com/f1/news/why-kimi-antonelli-is-grateful-for-mid-season-slump-in-f1-2025/10829206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -452,9 +372,9 @@
       "publishedAt": "2026-06-12T00:07:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8130-9ab4-e8864888d937",
-      "titleZh": "倍耐力延長 F1 輪胎供應合約至 2028 年",
-      "summaryZh": "倍耐力將延長其作為 F1 輪胎供應商的合約至 2028 年，這是因為啟用了為期一年的選項。這家意大利品牌自 2011 年起成為 F1 的唯一供應商，接替了 Bridgestone，合約還涵蓋了 F1 的培訓系列 F2 和 F3。2023 年，倍耐力成功擊退 Bridgestone，贏得 FIA 的新合約招標，將其合約再延長三年。",
+      "notionPageId": "37f6c3d3-6a7f-8176-b813-f8cafe05bf97",
+      "titleZh": "倍耐力延長F1輪胎供應合約至2028年",
+      "summaryZh": "倍耐力將延長其作為F1輪胎供應商的任期至2028年，並啟動了一年的選項。這家意大利品牌自2011年起成為F1的唯一供應商，接替了普利司通，合約也涵蓋了F1的後備系列F2和F3。2023年，倍耐力擊敗普利司通，贏得國際汽聯的新合約招標，將其在F1的任期再延長三年。",
       "titleOrig": "Pirelli extends F1 tyre supply deal until 2028",
       "sourceUrl": "https://www.autosport.com/f1/news/pirelli-extends-f1-tyre-supply-deal-until-2028/10829223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -462,9 +382,9 @@
       "publishedAt": "2026-06-12T00:32:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8145-ac67-c2e92f0d6f98",
-      "titleZh": "Gasly 摩納哥大獎賽懲罰審查結果預計在星期五公布",
-      "summaryZh": "Pierre Gasly 和 Alpine 將等到星期五才能得知有關這位法國車手在 F1 摩納哥大獎賽中懲罰的審查程序結果。Alpine 對 Gasly 因在維修區超速而受到的兩項五秒懲罰提出了審查，這使他從第三名掉到第七名，錯過了摩納哥頒獎台的慶祝。Gasly 是幾位...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8196-bc89-ea84b314297e",
+      "titleZh": "Gasly 摩納哥大獎賽罰款審查結果預計在星期五公布",
+      "summaryZh": "Pierre Gasly 和 Alpine 將等到星期五得知有關這位法國車手在 F1 摩納哥大獎賽罰款的審查程序結果。Alpine 對 Gasly 因在維修區超速而受到的兩次五秒罰款提出了審查，這使他從第三名降到第七名，錯過了摩納哥頒獎台的慶祝。Gasly 是多位...繼續閱讀",
       "titleOrig": "Gasly's Monaco GP penalty review outcome expected on Friday",
       "sourceUrl": "https://www.autosport.com/f1/news/pierre-gaslys-monaco-gp-penalty-review-outcome-expected-on-friday/10829248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -472,9 +392,9 @@
       "publishedAt": "2026-06-12T01:27:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8167-8f75-c7f0b3e24c0f",
-      "titleZh": "規則變更足以讓 Verstappen 留在 F1 嗎？",
-      "summaryZh": "上個月在蒙特利爾，Max Verstappen 表示他的 F1 未來在很大程度上將取決於明年的潛在規範變更，並補充說，推出提議的 60-40 分配將「絕對有助於」讓他在這個系列賽中待得更久，儘管這個話題後來被證明在政治上相當敏感。幾家製造商反對明賽季的重大硬體變更，導致...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-81e2-ab07-cce73fea6040",
+      "titleZh": "規則變更足以讓 Verstappen 繼續留在 F1 嗎？",
+      "summaryZh": "上個月在蒙特利爾，Max Verstappen 表示他的 F1 未來將在很大程度上取決於明年的潛在規範變更，並補充說引入提議的 60-40 分配將「絕對有助於」讓他在這個系列賽中待得更久，儘管這個話題後來證明在政治上相當敏感。幾家製造商反對明賽季的重大硬體變更，導致...繼續閱讀",
       "titleOrig": "Are the rule changes enough to keep Verstappen in F1?",
       "sourceUrl": "https://www.autosport.com/f1/news/are-the-rule-changes-enough-to-keep-max-verstappen-in-f1-i-understand-the-politics-behind-it/10829369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -482,9 +402,9 @@
       "publishedAt": "2026-06-12T15:50:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81ca-aa2a-ccfedcca45a5",
+      "notionPageId": "37f6c3d3-6a7f-8113-ad70-f486ca0b0185",
       "titleZh": "拉塞爾如何計畫挽救他失控的 2026 F1 賽季",
-      "summaryZh": "如果喬治·拉塞爾在摩納哥大獎賽後顯得相當沮喪，那麼四天後這位梅賽德斯車手在回顧這個殘酷的 2026 賽季的第一階段時展現了堅忍不拔的態度。隨著梅賽德斯終於迎來反彈，拉塞爾的冠軍之路在墨爾本的開幕賽中以桿位到終點的完美勝利開始了。",
+      "summaryZh": "如果喬治·拉塞爾在摩納哥大獎賽後顯得相當沮喪，那麼四天後這位梅賽德斯車手在回顧殘酷的 2026 賽季第一階段時則展現了冷靜。隨著梅賽德斯終於回到正軌，拉塞爾的冠軍之路在墨爾本的開幕賽中以桿位到終點的勝利完美開局。",
       "titleOrig": "How Russell aims to save his spiralling 2026 F1 season",
       "sourceUrl": "https://www.autosport.com/f1/news/how-russell-aims-to-save-his-spiralling-2026-f1-season/10829381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -492,9 +412,9 @@
       "publishedAt": "2026-06-12T16:28:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81e0-87dd-c330b68d0198",
-      "titleZh": "Gasly 在摩納哥大獎賽重返頒獎台，因 FIA 裁判撤銷進站超速罰款",
-      "summaryZh": "FIA 裁判支持 Alpine 對 F1 摩納哥大獎賽結果的上訴，讓 Pierre Gasly 重返第三名。Gasly 雖然在終點線前以第三名衝過，但因為在進站時超速被處以兩次五秒的罰款，最終降至第七名。Alpine 在賽後立即提出復審申請，因為他們有證據...持續關注",
+      "notionPageId": "37f6c3d3-6a7f-8146-9630-cc15a6b66248",
+      "titleZh": "Gasly 在摩納哥大獎賽重返頒獎台，FIA 裁判撤銷進站超速罰款",
+      "summaryZh": "FIA 裁判支持 Alpine 對 F1 摩納哥大獎賽結果的上訴，Pierre Gasly 被恢復為第三名。Gasly 雖然在終點線上以第三名完賽，但因為進站超速被處以兩次五秒的罰時，最終被降至第七名。比賽結束後，Alpine 立即提出複審請求，因為他們有證據...繼續閱讀",
       "titleOrig": "Gasly regains Monaco GP podium after FIA stewards rescind pitlane speeding penalties",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-overturns-gasly-penalties-restores-monaco-podium/10829441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -502,9 +422,9 @@
       "publishedAt": "2026-06-12T18:17:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81c9-b340-f885d47da6c8",
-      "titleZh": "Gasly 摩納哥大獎賽罰款撤銷：FIA 裁判報告全文",
-      "summaryZh": "Pierre Gasly 在摩納哥大獎賽的最終結果中被恢復為第三名，因為 Alpine 成功推翻了他在檢討聽證會中遭受的兩項進站超速罰款。另見：FORMULA 1 Gasly 在 FIA 裁判撤銷進站超速罰款後重返摩納哥大獎賽頒獎台。Formula 1 Alpine 感謝 FIA 和 FOM 的透明度，因為 Gasly 得到...持續關注。",
+      "notionPageId": "37f6c3d3-6a7f-818c-8e14-fd46ca68fcb1",
+      "titleZh": "Gasly 摩納哥 GP 處罰被撤銷：FIA 裁判報告全文",
+      "summaryZh": "Pierre Gasly 在 F1 摩納哥大獎賽的最終成績中被恢復至第三名，因為 Alpine 成功推翻了他在檢討聽證會中受到的兩項進站超速處罰。另請參閱：FORMULA 1 Gasly 在 FIA 裁判撤銷進站超速處罰後重返摩納哥 GP 頒獎台。Formula 1 Alpine 感謝 FIA 和 FOM 的透明度，因為 Gasly 得到...持續關注。",
       "titleOrig": "Gasly’s Monaco GP penalty rescinded: FIA stewards report in full",
       "sourceUrl": "https://www.autosport.com/f1/news/pierre-gaslys-monaco-gp-penalty-rescinded-fia-stewards-report-in-full/10829455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -512,9 +432,9 @@
       "publishedAt": "2026-06-12T18:42:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8190-bba1-da0ae824ee1d",
-      "titleZh": "法拉利在巴塞隆納GP釋出重大F1賽車升級，追擊梅賽德斯",
-      "summaryZh": "法拉利揭開了最新一批空氣動力學升級的面紗，進一步希望能縮小與梅賽德斯的差距。法拉利在5月初的邁阿密大獎賽上首次展示了重大升級，這些升級大致如預期運作，但無法阻止梅賽德斯早期的主導地位。隨著F1來到巴塞隆納這個最為熟悉的測試場地，法拉利再次推出了一系列...",
+      "notionPageId": "37f6c3d3-6a7f-81b7-8ce4-c5392ba1d7d1",
+      "titleZh": "法拉利在巴塞隆納GP推出重大F1賽車升級，追趕梅賽德斯",
+      "summaryZh": "法拉利揭開了其最新一批空氣動力學升級的面紗，進一步希望能縮小與梅賽德斯的差距。這支車隊在五月初的邁阿密大獎賽上首次公布重大升級，雖然大部分升級如預期運作，但仍無法阻止梅賽德斯的早期主導地位。隨著F1來到巴塞隆納這個最常見的測試場地，法拉利又推出了一系列新的升級……持續關注",
       "titleOrig": "Ferrari unleashes major F1 car upgrades as it chases down Mercedes at Barcelona GP",
       "sourceUrl": "https://www.autosport.com/f1/news/ferrari-unleashes-major-barcelona-f1-upgrades-as-it-chases-down-mercedes/10829459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -522,9 +442,9 @@
       "publishedAt": "2026-06-12T18:48:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-819f-ac4b-f671a34c6078",
+      "notionPageId": "37f6c3d3-6a7f-818c-8663-da89230c9986",
       "titleZh": "Alpine 感謝 FIA 和 FOM 的透明度，Gasly 重獲摩納哥 GP 頒獎台",
-      "summaryZh": "Pierre Gasly 原本在摩納哥的比賽中以第三名衝過終點，但因為被判兩次五秒的罰時，最終名次被降至第七，原因是涉嫌超過 60km/h 的進站速度限制。然而，FIA 裁判在週五推翻了這兩項罰則，因為他們認為 Gasly 在兩次進站時均未超速。這一決定隨後根據權利...持續閱讀",
+      "summaryZh": "Pierre Gasly 原本在摩納哥的比賽中以第三名衝過終點，但因為被判兩次五秒鐘的罰時，最終被降級至第七名，原因是他涉嫌超過 60km/h 的進站速度限制。然而，FIA 裁判在週五推翻了這兩項罰則，因為他們認為 Gasly 在任何一次進站時都沒有超速。這一決定隨後根據相關權利進行了審查。",
       "titleOrig": "Alpine thanks FIA and FOM for transparency as Gasly gets Monaco GP podium back",
       "sourceUrl": "https://www.autosport.com/f1/news/alpine-thanks-fia-and-fom-for-transparency-as-gasly-gets-monaco-podium-back/10829464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -532,9 +452,9 @@
       "publishedAt": "2026-06-12T18:55:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8134-87c5-cce9a7a50ab0",
-      "titleZh": "F1 將檢討維修區程序，Gasly 的摩納哥 GP 頒獎台被恢復",
-      "summaryZh": "F1 管理層承諾將實施「任何必要的改進或調整」，以避免摩納哥大獎賽維修區速度爭議的重演，因為有幾輛車因超速而受到不公正的處罰。上週五，FIA 裁判恢復了 Pierre Gasly 的頒獎台，因為這位 Alpine 車手在上週日的比賽結束時因兩次超速而被處以兩次五秒的時間罰款。",
+      "notionPageId": "37f6c3d3-6a7f-8101-bc7c-f2054826108b",
+      "titleZh": "F1 將檢討進站程序，Gasly 的摩納哥 GP 頒獎台被恢復",
+      "summaryZh": "F1 管理層承諾將實施「任何必要的改進或調整」，以避免摩納哥大獎賽進站速度爭議的重演，因為有幾輛車因超速而受到不公正的處罰。在上週日的比賽結束後，FIA 裁判恢復了 Pierre Gasly 的頒獎台，因為這位 Alpine 車手在比賽結束時因兩次不同的超速行為被處以兩次五秒的時間罰款。",
       "titleOrig": "F1 to review pitlane procedures after Gasly's Monaco GP podium reinstated",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-to-review-pitlane-procedures-after-pierre-gaslys-monaco-gp-podium-reinstated/10829499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -542,9 +462,9 @@
       "publishedAt": "2026-06-12T20:18:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-816d-a3b1-f2e364f1fcf4",
-      "titleZh": "F1 巴塞隆納 GP：Russell 在首次練習中領先 Piastri",
-      "summaryZh": "梅賽德斯 F1 車手 George Russell 在巴塞隆納大獎賽的首次練習中表現出色，領先於麥克拉倫的 Oscar Piastri 和法拉利車手 Charles Leclerc。在一個炎熱的星期五下午，Russell 設定了 1 分 16.363 秒的最佳時間，領先 Piastri 兩個十分之一。在大幅升級的法拉利 SF-26 中，Leclerc 以 0.520 秒的差距位居第三，隨後是紅牛的 Max Verstappen 和麥克拉倫 ... 繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-8150-a483-db36df4569d0",
+      "titleZh": "F1 巴塞隆納 GP：Russell 在首場練習中領先 Piastri",
+      "summaryZh": "梅賽德斯 F1 車手 George Russell 在巴塞隆納大獎賽的首場練習中表現出色，領先於麥克拉倫的 Oscar Piastri 和法拉利車手 Charles Leclerc。週五炎熱的下午，Russell 設定了 1 分 16.363 秒的最佳時間，領先 Piastri 兩個十分之一。在大幅升級的法拉利 SF-26 中，Leclerc 以 0.520 秒的差距位居第三，隨後是紅牛的 Max Verstappen 和麥克拉倫的...繼續閱讀",
       "titleOrig": "F1 Barcelona GP: Russell tops first practice from Piastri",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-barcelona-gp-fp1-report/10829512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -552,9 +472,9 @@
       "publishedAt": "2026-06-12T20:41:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81b4-b052-c7557d40f0c3",
-      "titleZh": "McLaren 和 Red Bull 表示將對 Gasly 在摩納哥的罰款復核結果提出上訴",
-      "summaryZh": "據了解，McLaren 和 Red Bull 已通知他們將對 FIA 裁判恢復 Pierre Gasly 在 F1 摩納哥大獎賽的頒獎台資格提出上訴。上週五，FIA 裁判在 Alpine 車手因兩次超速違規而在上週日的比賽結束時被處以兩次五秒罰時後，恢復了 Gasly 的頒獎台資格。根據 FOM 提供的證據...繼續閱讀",
+      "notionPageId": "37f6c3d3-6a7f-814a-a03f-e2e78039c7f1",
+      "titleZh": "McLaren 和 Red Bull 表示將對 Gasly 在摩納哥的罰款復審結果提出上訴",
+      "summaryZh": "據了解，McLaren 和 Red Bull 已通知他們將對 FIA 裁判恢復 Pierre Gasly 在 Formula 1 摩納哥大獎賽的頒獎台結果提出上訴。上週五，FIA 裁判在 Alpine 車手因兩次超速違規而在上週日的比賽結束時被處以兩次五秒罰時後，恢復了 Gasly 的頒獎台。根據 FOM 提供的證據...持續閱讀",
       "titleOrig": "McLaren, Red Bull lodge intention to appeal Gasly's Monaco penalty review win",
       "sourceUrl": "https://www.autosport.com/f1/news/mclaren-red-bull-lodge-intention-to-appeal-pierre-gaslys-right-of-review-win/10829547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -562,9 +482,9 @@
       "publishedAt": "2026-06-12T21:13:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81a0-a876-de4e0c0c7d30",
-      "titleZh": "梅賽德斯考慮對加斯利摩納哥 F1 罰款先例的法律選擇",
-      "summaryZh": "托托·沃爾夫表示，梅賽德斯正在「研究能做什麼」來幫助喬治·拉塞爾，因為國際汽聯裁判推翻了皮埃爾·加斯利在摩納哥大獎賽的罰款。加斯利是因為在維修區超速而受到罰款的五名車手之一，賽後發現測量系統出現了錯誤。週日晚上，加斯利的阿爾派隊對他的罰款啟動了審查程序。",
+      "notionPageId": "37f6c3d3-6a7f-813e-a06f-f73dbdb95f7a",
+      "titleZh": "梅賽德斯考慮對加斯利摩納哥F1罰款先例的法律選擇",
+      "summaryZh": "托托·沃爾夫表示，梅賽德斯正在「考慮能為喬治·拉塞爾做些什麼」，因為國際汽聯裁判推翻了皮埃爾·加斯利在摩納哥大獎賽的罰款決定。加斯利是五名因進站超速而被罰的車手之一，賽後發現測量系統出現了錯誤。週日晚上，加斯利的阿爾派隊對他的罰款啟動了複審程序。",
       "titleOrig": "Mercedes weighs up legal options over Gasly Monaco F1 penalty precedent",
       "sourceUrl": "https://www.autosport.com/f1/news/mercedes-weighs-up-legal-options-over-gasly-monaco-f1-penalty-precedent/10829603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -572,9 +492,9 @@
       "publishedAt": "2026-06-12T23:46:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8118-aca9-c806ba65e0e9",
+      "notionPageId": "37f6c3d3-6a7f-8118-bc0d-f3ae88710ffd",
       "titleZh": "「應該是這樣」－梅賽德斯支持 FIA 的 ADUO 裁決，驚訝於紅牛的結果",
-      "summaryZh": "在巴塞隆納的賽道上，蒙地卡羅的 ADUO 結果仍然是主要的討論話題。與梅賽德斯不同的是，紅牛-福特動力系統被排在排名的頂端，這意味著這個新進廠商是唯一不符合 F1 附加開發與升級機會的製造商。FIA 仍然未對此進行公開確認...",
+      "summaryZh": "在蒙地卡羅的 ADUO 結果讓各隊感到意外，這仍然是巴塞隆納賽道上的主要話題之一。排名榜首的不是梅賽德斯，而是紅牛-Ford 動力系統，這意味著這位新進製造商是唯一不符合 F1 附加發展與升級機會的廠商。FIA 的公開確認仍在進行中...",
       "titleOrig": "“How it should be” – Mercedes backs FIA’s ADUO verdict after surprise Red Bull result",
       "sourceUrl": "https://www.autosport.com/f1/news/how-it-should-be-mercedes-backs-fias-aduo-verdict-after-surprise-red-bull-result/10829612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -582,9 +502,9 @@
       "publishedAt": "2026-06-13T00:04:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8195-b15c-d9762cff8197",
-      "titleZh": "F1 巴塞隆納大獎賽：Norris 以 0.009 秒壓過 Russell 拿下 FP2 最快圈速",
-      "summaryZh": "Lando Norris 以僅 0.009 秒的微弱差距，從 George Russell 手中奪下巴塞隆納大獎賽第二次練習賽的最快時間，Oscar Piastri 也以 0.06 秒的差距接近他的 McLaren 夥伴。Norris 在 FP1 中缺席，因為 McLaren 的後備車手 Leonardo Fornaroli 首次參加 F1 練習賽，Norris 在傳統的 FP2 軟胎測試中以 1分15.426秒的成績結束了練習...",
+      "notionPageId": "37f6c3d3-6a7f-814b-901d-fb9a86c11c8c",
+      "titleZh": "F1 巴塞隆納 GP：Norris 以 0.009 秒超越 Russell 拿下 FP2 最快圈速",
+      "summaryZh": "Lando Norris 以僅 0.009 秒的微弱差距從 George Russell 手中奪下巴塞隆納大獎賽第二次練習賽的最快時間，Oscar Piastri 也以 0.06 秒的差距緊追在後，接近他的 McLaren 夥伴的成績。Norris 在 FP1 缺席，因為 McLaren 的預備車手 Leonardo Fornaroli 首次參加 F1 練習賽，最後以 1 分 15.426 秒的成績結束了慣例的 FP2 軟胎跑圈...",
       "titleOrig": "F1 Barcelona GP: Norris tops FP2 from Russell by 0.009s",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-barcelona-gp-fp2-report/10829602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -592,9 +512,9 @@
       "publishedAt": "2026-06-13T00:11:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-813d-8ffc-d695a8a570f0",
-      "titleZh": "Gasly 為錯失摩納哥 GP 頒獎台感到遺憾，結果被恢復：‘這些時刻造就了職業生涯’",
-      "summaryZh": "Pierre Gasly 在 2026 年摩納哥大獎賽的比賽中以第七名起跑，最終以頒獎台結束，這是他 F1 生涯的第六次頒獎台。事實上，在摩納哥賽事結束近五天後，由於在維修區超速受到兩次處罰，Gasly 被降至第七名，但摩納哥 GP 的裁判在審查案件後，恢復了他的成績。",
+      "notionPageId": "37f6c3d3-6a7f-8133-b9fc-ea646f41d0c1",
+      "titleZh": "Gasly 哀嘆錯失摩納哥 GP 頒獎台，結果被恢復：‘這些時刻造就了一生的職業生涯’",
+      "summaryZh": "Pierre Gasly 在 2026 年摩納哥大獎賽的比賽日以第七名起跑，最終卻以頒獎台結束，這是他職業生涯中正式的第六個 F1 頒獎台。事實上，在摩納哥賽事結束近五天後，因為在維修區超速而被降到第七名的他，摩納哥 GP 的裁判在審查此案後，恢復了他的名次。",
       "titleOrig": "Gasly laments missed Monaco GP podium as result reinstated: ‘These moments make a career’",
       "sourceUrl": "https://www.autosport.com/f1/news/pierre-gasly-admits-restored-monaco-gp-podium-wont-give-me-back-what-i-lost/10829674/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -602,404 +522,464 @@
       "publishedAt": "2026-06-13T02:18:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-811e-8f2b-d465e35df1d8",
-      "titleZh": "紅牛在意外的 ADUO 基準裁決後尋求 FIA 的解釋",
-      "summaryZh": "紅牛原本預期能接近前方，但未料會領先於梅賽德斯，這引發了與 FIA 之間關於其 ADUO 結論的新討論...",
-      "titleOrig": "Red Bull seeks FIA answers after surprise ADUO benchmark verdict",
-      "sourceUrl": "https://www.planetf1.com/news/f1-aduo-findings-red-bull-challenges-fia-mercedes-benchmark",
+      "notionPageId": "37f6c3d3-6a7f-814d-a803-dde4c735d12a",
+      "titleZh": "「法拉利應該成為創新者」：漢密爾頓談為何希望法拉利在 2026 年 F1 汽車設計上大膽",
+      "summaryZh": "或許路易斯·漢密爾頓在去年加入法拉利時並未完全意識到自己所面臨的挑戰。儘管他轉隊至這支F1歷史最悠久的車隊引起了不少關注，但他首年的表現卻不盡如人意。然而，他在2026年的表現顯示出截然不同的心態。他的許多挫折源自法拉利決定停止開發其...繼續閱讀",
+      "titleOrig": "\"Ferrari should be the innovators\": Hamilton on why he wanted Ferrari to be bold with its 2026 F1 car design",
+      "sourceUrl": "https://www.autosport.com/f1/news/ferrari-should-be-the-innovators-lewis-hamilton-pleased-ferrari-was-bold-in-its-2026-f1-design/10829753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-13T15:15:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8179-80e5-e548d5a6a30f",
+      "titleZh": "拉塞爾如何成為摩納哥維修站事件的最大受害者",
+      "summaryZh": "喬治·拉塞爾在巴塞隆納接受採訪時表示：『我最近看了拉法（納達爾）的紀錄片和羅納爾迪尼奧的紀錄片。當被問到他將如何『清理頭腦』以應對近期的挫折時，他說：『每場比賽、每個賽季都不是一帆風順的。羅納爾迪尼奧是我的偶像。我沒意識到他經歷了這麼多年、這麼多場比賽和競賽的掙扎……繼續閱讀。",
+      "titleOrig": "How Russell ended up the biggest victim of the Monaco pitlane saga",
+      "sourceUrl": "https://www.autosport.com/f1/news/how-george-russell-ended-up-the-biggest-victim-of-the-monaco-pitlane-saga/10829774/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-13T16:01:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8154-b555-fb8701522e66",
+      "titleZh": "F1 巴塞隆納大獎賽：拉塞爾在最後練習中領先皮亞斯特里，安東內利感到沮喪",
+      "summaryZh": "喬治·拉塞爾在F1巴塞隆納大獎賽的最後練習中表現最佳，超越了奧斯卡·皮亞斯特里和查爾斯·勒克萊爾，讓基米·安東內利感到沮喪。拉塞爾的成績比亞軍皮亞斯特里快了兩個十秒，而皮亞斯特里的麥克拉倫則比勒克萊爾的法拉利快了不到一個十秒，讓這場練習賽變得相當開放。不過，這是經過一個緩慢的開始，這種情況經常發生……繼續閱讀",
+      "titleOrig": "F1 Barcelona GP: Russell leads Piastri in final practice, frustration for Antonelli",
+      "sourceUrl": "https://www.autosport.com/f1/news/f1-barcelona-gp-fp3-report/10829842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-13T19:42:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8188-84fa-e6e6885ce8af",
+      "titleZh": "F1 巴塞隆納大獎賽：Russell 擊敗 Hamilton 獲得桿位，Leclerc 事故退賽",
+      "summaryZh": "George Russell 在 2026 年的 Formula 1 世界冠軍爭奪戰中終於反擊，結束了 Kimi Antonelli 的主導局面，獲得巴塞隆納大獎賽的桿位。Russell 以 1 分 14.679 秒的成績獲得 2026 年的第三個桿位，比排名第二的 Lewis Hamilton 快了 0.064 秒，Antonelli 排名第三，落後他的梅賽德斯隊友三個十秒。這位英國車手在本週末的桿位並不意外，因為...繼續閱讀",
+      "titleOrig": "F1 Barcelona GP: Russell beats Hamilton to pole as Leclerc crashes",
+      "sourceUrl": "https://www.autosport.com/f1/news/f1-barcelona-gp-george-russell-beats-lewis-hamilton-to-pole-as-charles-leclerc-crashes/10829941/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-13T23:28:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81ef-b1c5-f0cbef8a9278",
+      "titleZh": "勒克萊爾在 F1 巴塞隆納大獎賽排位賽撞車後感到「羞愧」",
+      "summaryZh": "感到沮喪的查爾斯·勒克萊爾在 F1 巴塞隆納大獎賽的排位賽中撞車，讓他對自己感到「羞愧」，最終排在星期天的發車格第十位。這位法拉利車手在 Q3 階段的第一次推進圈中，因為漂移到了較為塵土飛揚的賽道上，無可避免地失去後輪抓地力，並撞上了護欄。這也延續了他近期表現不佳的狀態。",
+      "titleOrig": "Leclerc left \"ashamed\" after qualifying crash at F1 Barcelona GP",
+      "sourceUrl": "https://www.autosport.com/f1/news/charles-leclerc-ashamed-of-himself-after-qualifying-crash-at-f1-barcelona-gp/10829981/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-14T00:25:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8158-9b49-cef268722a7d",
+      "titleZh": "「至少兩次進站」：為什麼巴塞隆納大獎賽可能對輪胎造成困難",
+      "summaryZh": "根據桿位得主 George Russell 的說法，F1 巴塞隆納大獎賽的高輪胎磨損將在三種輪胎混合物之間產生小差異，並在星期天的比賽中帶來相當大的戰略變化。星期五的 FP2 長途測試顯示，中性輪胎在開賽的前 10-12 輪中每圈約下降三十分之一的速度，然後繼續下降...",
+      "titleOrig": "\"At least a two-stop\": Why the Barcelona GP could be hard on tyres",
+      "sourceUrl": "https://www.autosport.com/f1/news/at-least-a-two-stop-george-russell-and-lewis-hamilton-expect-barcelona-gp-to-be-hard-on-tyres/10830018/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-14T01:22:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-816f-a619-de2562498039",
+      "titleZh": "阿隆索因阿斯頓馬丁的困境感到「精疲力竭」，在巴塞隆納排位賽中名列最後",
+      "summaryZh": "阿斯頓馬丁在巴塞隆納的糟糕表現對費爾南多·阿隆索來說並不意外，他在家鄉賽事中排位最後——但不斷解釋車隊的種種困境開始讓他感到疲憊。這位世界冠軍排在第22位，結束了連續42場超越隊友蘭斯·斯托爾的排位賽紀錄，後者排在第21位，落後下一慢的凱迪拉克一秒，距離桿位則有四秒之差。",
+      "titleOrig": "Alonso 'exhausted' by Aston Martin woes after qualifying last in Barcelona",
+      "sourceUrl": "https://www.autosport.com/f1/news/alonso-exhausted-by-aston-martin-woes-in-barcelona-f1-qualifying/10830026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-14T01:23:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8112-b416-f552fa66be5a",
+      "titleZh": "Verstappen 驚訝於 Red Bull 將與 Mercedes 的差距縮減一半： “我不太理解這個”",
+      "summaryZh": "Red Bull 在週日的巴塞隆納 F1 大獎賽中鎖定了第三排的起跑位置。Max Verstappen 在前兩個區段看似有機會爭奪桿位，但在最後一部分的賽道上失去了抓地力，這是許多車手因為輪胎過熱而面臨的問題。Verstappen 在賽後反思時表示：“我認為這對我們來說是一場不錯的排位賽。”",
+      "titleOrig": "Verstappen surprised as Red Bull halves gap to Mercedes: “I don’t fully understand it”",
+      "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-surprised-as-red-bull-halves-gap-to-mercedes-in-barcelona/10830064/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-06-14T02:20:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-811e-93b0-ec9b90c5a73a",
+      "titleZh": "巴塞隆納大獎賽天氣：這個週末下雨的風險有多大？",
+      "summaryZh": "這不是西班牙大獎賽，而是巴塞隆納-加泰羅尼亞大獎賽...",
+      "titleOrig": "Barcelona Grand Prix weather: What is the risk of rain this weekend?",
+      "sourceUrl": "https://www.planetf1.com/news/barcelona-grand-prix-2026-weather-forecast",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T13:00:00.000+08:00"
+      "publishedAt": "2026-06-13T12:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8128-8ad0-e03e13fce3ac",
-      "titleZh": "‘發生的事情令人困惑’ – FIA ADUO 決定引發質疑",
-      "summaryZh": "‘簡單點說。因為發生的事情令人困惑。’",
-      "titleOrig": "‘What’s transpired is baffling’ – Questions asked about the FIA ADUO decision",
-      "sourceUrl": "https://www.planetf1.com/news/mercedes-aduo-upgrade-questioned-baffling-fia-decision",
+      "notionPageId": "37f6c3d3-6a7f-8167-a93b-c293ddccc591",
+      "titleZh": "摩納哥大獎賽爭議仍未結束，Pierre Gasly 判決引發後續反應",
+      "summaryZh": "Alpine 贏回了 Pierre Gasly 的頒獎台，但錯誤的承認可能讓對手們開始思考接下來會發生什麼...",
+      "titleOrig": "Monaco GP controversy far from over as Pierre Gasly verdict sparks fallout",
+      "sourceUrl": "https://www.planetf1.com/news/pierre-gasly-monaco-gp-appeal-fia-error-legal-questions",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T13:30:00.000+08:00"
+      "publishedAt": "2026-06-13T13:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81d6-9c95-dd4c9d9f8271",
-      "titleZh": "Max Verstappen 對 FIA Red Bull 裁決感到驚訝",
-      "summaryZh": "令車隊感到驚訝的是，Red Bull 的動力單元被 FIA 評為最佳。",
-      "titleOrig": "Max Verstappen reveals surprise at FIA Red Bull verdict",
-      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-red-bull-talking-to-fia-surprise-best-engine-verdict",
+      "notionPageId": "37f6c3d3-6a7f-815b-a36c-e122bea2a972",
+      "titleZh": "FIA 會長瞄準大幅減輕 F1 賽車重量",
+      "summaryZh": "FIA 會長 Mohammed Ben Sulayem 揭示了他對 2031 年 F1 賽車的更多願景。",
+      "titleOrig": "FIA president targets huge F1 car weight reduction",
+      "sourceUrl": "https://www.planetf1.com/news/f1-car-weight-reduction-cut-fia-president",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T14:00:00.000+08:00"
+      "publishedAt": "2026-06-13T14:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-815f-8010-dd81b21afc93",
-      "titleZh": "皮亞斯特里表示 FIA 無法更改摩納哥 GP 結果，因為 Alpine 贏得審查權請求",
-      "summaryZh": "「他們現在無法更改結果，因為在比賽中基於所給予的懲罰做出了許多決定。」",
-      "titleOrig": "Piastri says FIA ‘can’t change’ Monaco GP result after Alpine won Right of Review petition",
-      "sourceUrl": "https://www.planetf1.com/news/oscar-piastri-monaco-gp-result-fia-right-of-review-penalties",
+      "notionPageId": "37f6c3d3-6a7f-819d-bdd1-ffee7635bfd4",
+      "titleZh": "Toto Wolff 駁斥引擎政治，驚人 Red Bull 判決後的回應",
+      "summaryZh": "Red Bull 被發現擁有 F1 競技場中的標杆引擎。",
+      "titleOrig": "Toto Wolff dismisses engine politics after surprise Red Bull verdict",
+      "sourceUrl": "https://www.planetf1.com/news/toto-wolff-no-political-background-red-bull-engine-advantage-ruling",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T14:30:00.000+08:00"
+      "publishedAt": "2026-06-13T15:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-813a-9e30-da95c6e3e65b",
-      "titleZh": "Hamilton 質疑 FIA 對 Red Bull 引擎優勢的裁決",
-      "summaryZh": "據報導，Red Bull 的引擎在 FIA 最近的測試中表現出色，成為頂尖之選。",
-      "titleOrig": "Hamilton questions FIA ADUO verdict over Red Bull engine edge",
-      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-fia-red-bull-aduo-engine-shock",
+      "notionPageId": "37f6c3d3-6a7f-8103-a193-f626cc3bd48f",
+      "titleZh": "Lewis Hamilton 直言對 Ferrari 感到困惑，直截了當表示「在巴塞隆納不快」",
+      "summaryZh": "「我真的不知道該如何處理這輛車。」",
+      "titleOrig": "Lewis Hamilton admits Ferrari confusion in blunt ‘not quick’ Barcelona verdict",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-upgrades-dont-know-how-improve-sf26",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T15:00:00.000+08:00"
+      "publishedAt": "2026-06-13T16:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-814b-837c-daf1e6082b44",
-      "titleZh": "Kimi Antonelli 駁斥「不公平」的 Ayrton Senna 比較，稱讚摩納哥大賽的表現",
-      "summaryZh": "儘管 Kimi Antonelli 在摩納哥賽事中表現出色，但他仍然駁斥了與 Ayrton Senna 的比較，堅持認為這位巴西偶像的水準是另一個層次。",
-      "titleOrig": "Kimi Antonelli rejects ‘not fair’ Ayrton Senna comparisons after Monaco masterclass",
-      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-rejects-senna-comparison-claims-monaco-win",
+      "notionPageId": "37f6c3d3-6a7f-81f2-806f-c93737478cb0",
+      "titleZh": "皮埃爾·蓋斯利底盤更換原因解釋，阿爾派打破巴塞隆納宵禁",
+      "summaryZh": "蓋斯利的無線電訊息引發阿爾派在週末其餘時間前的重大夜間工作。",
+      "titleOrig": "Pierre Gasly chassis change explained after Alpine breaks curfew in Barcelona",
+      "sourceUrl": "https://www.planetf1.com/news/pierre-gasly-suspension-problem-chassis-change-alpine-breaks-curfew",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T16:00:00.000+08:00"
+      "publishedAt": "2026-06-13T16:46:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-819c-8f60-ebbc32eaa7a1",
-      "titleZh": "喬治·拉塞爾承認 F1 2026 冠軍「遙不可及」，因安東內利的崛起",
-      "summaryZh": "「現在這一切都遙不可及...」",
-      "titleOrig": "George Russell admits F1 2026 title is ‘far out of reach’ after Antonelli surge",
-      "sourceUrl": "https://www.planetf1.com/news/george-russell-f1-2026-title-out-of-reach-kimi-antonelli-lead",
+      "notionPageId": "37f6c3d3-6a7f-8186-8959-c94f75193b28",
+      "titleZh": "F1 巴塞隆納大獎賽 2026 活動中心 – 實時更新、報導、結果、賽程、天氣、預覽",
+      "summaryZh": "Kimi Antonelli 來到 2026 年巴塞隆納大獎賽，追求第六場連勝，而 Ferrari、McLaren 和 Mercedes 正在為一場關鍵的歐洲測試做準備。",
+      "titleOrig": "F1 Barcelona Grand Prix 2026 event centre – Live updates, reports, results, schedule, weather, preview",
+      "sourceUrl": "https://www.planetf1.com/news/f1-barcelona-grand-prix-2026-live",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T17:00:00.000+08:00"
+      "publishedAt": "2026-06-13T18:15:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8115-9ce5-ca8d87b77ff5",
-      "titleZh": "法拉利在巴塞隆納推出重大升級，前翼設計引人注目",
-      "summaryZh": "法拉利為巴塞隆納大獎賽帶來了一套八個部分的升級套件，包括新的前翼、底盤和擴散器，Dr Obbs 強調了一個引人注目的設計細節。",
-      "titleOrig": "Ferrari unleash major Barcelona upgrade as intriguing front wing twist spotted",
-      "sourceUrl": "https://www.planetf1.com/news/ferrari-major-barcelona-upgrade-front-wing-secret",
+      "notionPageId": "37f6c3d3-6a7f-8186-b335-fe2b08f6c47d",
+      "titleZh": "巴塞隆納大獎賽即時更新：FP3 進展如何，拉塞爾成為最快",
+      "summaryZh": "車手們還有一小時的練習時間來為巴塞隆納大獎賽排位賽做好準備...",
+      "titleOrig": "Barcelona Grand Prix live updates: How FP3 unfolded as Russell goes quickest",
+      "sourceUrl": "https://www.planetf1.com/news/f1-live-2026-barcelona-grand-prix-fp3-updates",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T17:54:00.000+08:00"
+      "publishedAt": "2026-06-13T18:15:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8193-980d-c8e8dfb4c00f",
-      "titleZh": "Pierre Gasly 的摩納哥頒獎台成績被恢復，Alpine 獲得複審權",
-      "summaryZh": "在一場賽事官員的複審後，Pierre Gasly 的成績再添一座頒獎台。",
-      "titleOrig": "Pierre Gasly’s Monaco podium restored as Alpine win right of review",
-      "sourceUrl": "https://www.planetf1.com/news/pierre-gasly-monaco-podium-restored-alpine-win-right-of-review",
+      "notionPageId": "37f6c3d3-6a7f-81d2-a101-f3b351463088",
+      "titleZh": "George Russell 在巴塞隆納樹立標竿，Kimi Antonelli 對交通感到憤怒",
+      "summaryZh": "Antonelli 幾乎無法掩飾他的沮喪，因為 Russell 在排位賽前成為了最具競爭力的選手。",
+      "titleOrig": "George Russell lays down Barcelona marker as Kimi Antonelli fumes at traffic",
+      "sourceUrl": "https://www.planetf1.com/news/barcelona-grand-prix-2026-fp3-report",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T18:10:00.000+08:00"
+      "publishedAt": "2026-06-13T19:32:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-814d-baa8-f6554be29a63",
-      "titleZh": "更新 F1 賽果：摩納哥大獎賽 – Antonelli 在懸疑結局中生存，罰則影響摩納哥賽事",
-      "summaryZh": "2026 年摩納哥大獎賽的完整 F1 賽果，Kimi Antonelli 在比賽中表現出色，最終成功度過戲劇性的結尾。",
-      "titleOrig": "UPDATED F1 results: Monaco Grand Prix – Antonelli survives late drama as penalties mar Monaco",
-      "sourceUrl": "https://www.planetf1.com/news/f1-results-2026-monaco-grand-prix-monte-carlo-race",
+      "notionPageId": "37f6c3d3-6a7f-819d-9210-d96ea969743b",
+      "titleZh": "F1 成績：巴塞隆納大獎賽，自由練習 3 – Russell 在西班牙掌控全局",
+      "summaryZh": "2026 巴塞隆納 GP 排位賽前最後一小時的完整 F1 成績。",
+      "titleOrig": "F1 results: Barcelona Grand Prix, Free Practice 3 – Russell in control in Spain",
+      "sourceUrl": "https://www.planetf1.com/news/f1-results-barcelona-grand-prix-free-practice-3-russell-in-control-in-spain",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T19:00:00.000+08:00"
+      "publishedAt": "2026-06-13T19:36:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81a7-84e0-f2a614c4292b",
-      "titleZh": "巴塞隆納大獎賽 FP1 的所有精彩瞬間",
-      "summaryZh": "回顧在首屆巴塞隆納-加泰隆尼亞大獎賽 FP1 的精彩賽事。",
-      "titleOrig": "All the action as it happened from FP1 in Barcelona GP",
-      "sourceUrl": "https://www.planetf1.com/news/f1-live-2026-barcelona-grand-prix-fp1-updates",
+      "notionPageId": "37f6c3d3-6a7f-81c8-a4c3-f69e49c01715",
+      "titleZh": "‘致 Kimi 的 Kim’ – 毛巾事件已解決",
+      "summaryZh": "F1 2026 年最大的醜聞已經得到解決！",
+      "titleOrig": "‘To Kimi from Kim’ – Towelgate resolved",
+      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-towel-kim-kardashian-monaco-towelgate-gift",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T19:15:00.000+08:00"
+      "publishedAt": "2026-06-13T20:15:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8159-95a9-f7fdd84999b3",
-      "titleZh": "Pierre Gasly 揭露摩納哥頒獎台判決後的「不公」痛苦",
-      "summaryZh": "Pierre Gasly 在摩納哥的 P3 成績已被恢復。",
-      "titleOrig": "Pierre Gasly reveals Monaco ‘injustice’ pain after podium verdict",
-      "sourceUrl": "https://www.planetf1.com/news/pierre-gasly-monaco-gp-podium-reinstated-reaction",
+      "notionPageId": "37f6c3d3-6a7f-8189-92e3-ddbeaad836c8",
+      "titleZh": "費爾南多·阿隆索被看好在 F1 最後合約轉折中驚艷回歸 Alpine",
+      "summaryZh": "費爾南多·阿隆索與驚人的回歸 Alpine 越來越有關聯，長期盟友 Flavio Briatore 仍然是幕後的關鍵人物。",
+      "titleOrig": "Fernando Alonso tipped for stunning Alpine return in final F1 contract twist",
+      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-alpine-return-rumours-aston-martin-future",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T20:05:00.000+08:00"
+      "publishedAt": "2026-06-13T20:32:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8133-90a0-dbe90a60f065",
-      "titleZh": "喬治·拉塞爾在巴塞隆納反擊，冠軍對手安東內利旁觀",
-      "summaryZh": "喬治·拉塞爾在開幕練習的第一小時輕鬆獲得P1。",
-      "titleOrig": "George Russell hits back in Barcelona as title rival Antonelli watches on",
-      "sourceUrl": "https://www.planetf1.com/news/barcelona-grand-prix-2026-fp1-report",
+      "notionPageId": "37f6c3d3-6a7f-8132-ad1e-e11f83b0dcb5",
+      "titleZh": "基米·安東內利在巴塞隆納FP3‘不穩定駕駛’調查後獲得裁決",
+      "summaryZh": "基米·安東內利在巴塞隆納大獎賽自由練習3的‘不穩定駕駛’調查後，收到了國際汽聯的裁決。",
+      "titleOrig": "Kimi Antonelli receives verdict after Barcelona FP3 ‘erratic driving’ investigation",
+      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-erratic-driving-verdict-fia-investigation-barcelona-fp3",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T20:34:00.000+08:00"
+      "publishedAt": "2026-06-13T21:38:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81c9-b792-d9d87585b471",
-      "titleZh": "F1 成績：巴塞隆納大獎賽，自由練習 1 – Russell 反彈",
-      "summaryZh": "完整的自由練習 1 成績，這是本週末巴塞隆納 F1 大獎賽前的首個小時賽道活動。",
-      "titleOrig": "F1 results: Barcelona Grand Prix, Free Practice 1 – Russell bounces back",
-      "sourceUrl": "https://www.planetf1.com/news/f1-results-2026-barcelona-grand-prix-catalunya-free-practice-1",
+      "notionPageId": "37f6c3d3-6a7f-81a1-9d13-e426412f29e6",
+      "titleZh": "巴塞隆納大獎賽即時更新：Russell 拿下桿位，Hamilton 進入前排",
+      "summaryZh": "從狹窄的摩納哥到知名的巴塞隆納-加泰羅尼亞賽道，隨時關注排位賽的最新動態。",
+      "titleOrig": "Barcelona Grand Prix live updates: Russell on pole as Hamilton makes front row",
+      "sourceUrl": "https://www.planetf1.com/news/f1-live-2026-barcelona-grand-prix-qualifying-updates",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T20:35:00.000+08:00"
+      "publishedAt": "2026-06-13T21:45:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81f4-9374-e86dc648a675",
-      "titleZh": "Gasly 的頒獎台面臨新威脅，對手準備提出上訴",
-      "summaryZh": "McLaren 和 Red Bull 打算對 FIA 的決定提出上訴。",
-      "titleOrig": "Gasly podium under new threat as rivals prepare to appeal",
-      "sourceUrl": "https://www.planetf1.com/news/gasly-monaco-podium-fresh-threat-mclaren-red-bull-appeal-ruling",
+      "notionPageId": "37f6c3d3-6a7f-8163-8c41-c060522d4471",
+      "titleZh": "F1 賽果：巴塞隆納大獎賽，排位賽 – Russell 拿下桿位，Leclerc 退賽",
+      "summaryZh": "2026 F1 巴塞隆納大獎賽關鍵排位賽的完整賽果。",
+      "titleOrig": "F1 results: Barcelona Grand Prix, Qualifying – Russell on pole, Leclerc crashes out",
+      "sourceUrl": "https://www.planetf1.com/news/f1-results-2026-barcelona-grand-prix-qualifying",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T20:54:00.000+08:00"
+      "publishedAt": "2026-06-13T22:23:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-816f-833a-d0271ec26a23",
-      "titleZh": "‘受傷’的 Lando Norris 準備面對引擎罰分的打擊以捍衛冠軍",
-      "summaryZh": "‘這一切讓目前的冠軍捍衛變得幾乎不可能。’",
-      "titleOrig": "‘Hurting’ Lando Norris braced for engine penalty blows in title defence",
-      "sourceUrl": "https://www.planetf1.com/news/lando-norris-engine-penalty-fears-mclaren-reliability-problems",
+      "notionPageId": "37f6c3d3-6a7f-811c-b291-df8436549c2a",
+      "titleZh": "F1 2026：車隊隊友間的排位賽對決紀錄",
+      "summaryZh": "隨著賽季的展開，持續追蹤 F1 2026 的排位賽對決。",
+      "titleOrig": "F1 2026: Head-to-head qualifying records between teammates",
+      "sourceUrl": "https://www.planetf1.com/news/f1-2026-head-to-head-qualifying-statistics-teammates",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T21:15:00.000+08:00"
+      "publishedAt": "2026-06-13T23:20:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-812d-8f90-d6118a732cfd",
-      "titleZh": "梅賽德斯考慮法律選項以應對摩納哥罰款爭議",
-      "summaryZh": "皮埃爾·蓋斯利被推翻的罰款似乎引發了一連串問題，據報導有兩支車隊正在考慮提出上訴...",
-      "titleOrig": "Mercedes exploring legal options after Monaco penalty controversy",
-      "sourceUrl": "https://www.planetf1.com/news/toto-wolff-mercedes-fia-remedies-gasly-monaco-podium-decision",
+      "notionPageId": "37f6c3d3-6a7f-8113-9e5d-ee5400c94126",
+      "titleZh": "喬治·拉塞爾在巴塞隆納奪得桿位，終結基米·安東內利的連勝紀錄",
+      "summaryZh": "喬治·拉塞爾在巴塞隆納的排位賽中擊敗基米·安東內利，獲得桿位。",
+      "titleOrig": "George Russell ends Kimi Antonelli’s pole streak with Barcelona P1",
+      "sourceUrl": "https://www.planetf1.com/news/barcelona-grand-prix-2026-qualifying-report",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T22:30:00.000+08:00"
+      "publishedAt": "2026-06-13T23:23:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81d3-9e7f-d8225c959dc5",
-      "titleZh": "回顧巴塞隆納大獎賽 FP2 的所有精彩瞬間",
-      "summaryZh": "加入我們，獲取 2026 巴塞隆納-加泰隆尼亞大獎賽 FP2 的即時更新。",
-      "titleOrig": "Recap all the action from Barcelona Grand Prix FP2",
-      "sourceUrl": "https://www.planetf1.com/news/f1-live-2026-barcelona-grand-prix-fp2-updates",
+      "notionPageId": "37f6c3d3-6a7f-81b4-91a6-f8bbc537f600",
+      "titleZh": "「最糟的車和最糟的引擎」– Fernando Alonso 對 Aston Martin 發表殘酷評價",
+      "summaryZh": "Fernando Alonso 在巴塞隆納的排位賽後毫不留情地表達了他的失望。",
+      "titleOrig": "‘Worst car and worst engine’ – Fernando Alonso delivers brutal Aston Martin verdict",
+      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-aston-martin-worst-car-worst-engine-verdict",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T22:45:00.000+08:00"
+      "publishedAt": "2026-06-13T23:56:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8108-9bb0-d506b7a9e899",
-      "titleZh": "購買 Braun 有機會贏得 Audi Revolut F1 車隊體驗",
-      "summaryZh": "您有機會贏得與 Audi Revolut F1 車隊的體驗，搭配 Braun。",
-      "titleOrig": "Buy Braun for a chance to win an Audi Revolut F1 Team Experience",
-      "sourceUrl": "https://www.planetf1.com/news/win-audi-f1-team-experience-braun",
+      "notionPageId": "37f6c3d3-6a7f-81aa-a6b6-d374ae71bc5c",
+      "titleZh": "Charles Leclerc 在巴塞隆納重摔後感到「羞愧」，桿位夢碎",
+      "summaryZh": "當被問及他在巴塞隆納的 Q3 撞車事件時，Charles Leclerc 毫不掩飾自己的感受。",
+      "titleOrig": "Charles Leclerc ‘ashamed’ after heavy Barcelona crash ruins pole bid",
+      "sourceUrl": "https://www.planetf1.com/news/charles-leclerc-barcelona-crash-ashamed-qualifying-disaster",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-12T23:40:00.000+08:00"
+      "publishedAt": "2026-06-14T00:28:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-8194-b033-fbcb3a7d175d",
-      "titleZh": "蘭多·諾里斯在 FP2 中以 0.057 秒之差壓過喬治·拉塞爾",
-      "summaryZh": "蘭多·諾里斯以 0.009 秒的微弱優勢擊敗喬治·拉塞爾！",
-      "titleOrig": "Lando Norris edges George Russell as top three separated by 0.057s in FP2",
-      "sourceUrl": "https://www.planetf1.com/news/barcelona-grand-prix-2026-fp2-report",
+      "notionPageId": "37f6c3d3-6a7f-8171-8d92-fa25f44859a2",
+      "titleZh": "Oscar Piastri 對 Gasly 摩納哥罰款撤銷感到驚訝",
+      "summaryZh": "Piastri 表示，F1 現在進入了「非常非常模糊」的領域，因為 Gasly 的摩納哥頒獎台被恢復了...",
+      "titleOrig": "Oscar Piastri ‘mind blown’ by Gasly Monaco penalty reversal",
+      "sourceUrl": "https://www.planetf1.com/news/piastri-fia-gasly-monaco-penalty-reversal-chaos",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-13T00:02:00.000+08:00"
+      "publishedAt": "2026-06-14T01:00:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81b2-8659-d655d7c51172",
-      "titleZh": "F1 成績：巴塞隆納大獎賽，自由練習 2 – Norris 在激烈的練習中超越 Russell",
-      "summaryZh": "巴塞隆納大獎賽自由練習 2 的完整成績，這是本週末 F1 巴塞隆納大獎賽前的首個小時賽道活動。",
-      "titleOrig": "F1 results: Barcelona Grand Prix, Free Practice 2 – Norris tops Russell in tight session",
-      "sourceUrl": "https://www.planetf1.com/news/f1-results-barcelona-grand-prix-catalunya-free-practice-2",
+      "notionPageId": "37f6c3d3-6a7f-815e-b6bd-ffcbc325aa1b",
+      "titleZh": "F1 起跑陣容：Russell 拿下桿位，巴塞隆納 GP 排位確定",
+      "summaryZh": "以下是 F1 在巴塞隆納的起跑陣容安排。",
+      "titleOrig": "F1 starting grid: Russell on pole as Barcelona GP grid order forms",
+      "sourceUrl": "https://www.planetf1.com/news/f1-starting-grid-2026-barcelona-grand-prix",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-13T00:07:00.000+08:00"
+      "publishedAt": "2026-06-14T01:25:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-81de-9428-f148bfd95984",
-      "titleZh": "Kimi Antonelli 揭示 F1 驚人轉變的轉折點",
-      "summaryZh": "'考慮到當時情況有多糟，我實際上非常感激這件事的發生'",
-      "titleOrig": "Kimi Antonelli reveals turning point in dramatic F1 transformation",
-      "sourceUrl": "https://www.planetf1.com/news/antonelli-transformation-explained-f1-dominance",
+      "notionPageId": "37f6c3d3-6a7f-8140-aaf3-c818d1a20e05",
+      "titleZh": "Verstappen 在巴塞隆納排位賽變故後發表直言",
+      "summaryZh": "Max Verstappen 原本預期巴塞隆納大獎賽的排位賽會更加艱難。",
+      "titleOrig": "Verstappen drops blunt take after Barcelona qualifying twist",
+      "sourceUrl": "https://www.planetf1.com/news/verstappen-drops-blunt-take-after-barcelona-qualifying-twist",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-13T00:40:00.000+08:00"
+      "publishedAt": "2026-06-14T01:50:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-817e-b0cc-f827e47b8703",
-      "titleZh": "費爾南多·阿隆索 FIA 裁決已出，處罰已發佈",
-      "summaryZh": "在他的主場賽事中，阿斯頓·馬丁在 FP2 階段被發現違規。",
-      "titleOrig": "Fernando Alonso FIA verdict reached as punishments issued",
-      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-fia-punishment-reached-pit-lane-exit-incident",
+      "notionPageId": "37f6c3d3-6a7f-8183-9636-ff43c8031dff",
+      "titleZh": "George Russell 揭示巴塞隆納桿位背後的「錯誤決策」逆轉",
+      "summaryZh": "George Russell 解釋了最近讓他走上錯誤道路的「複製粘貼」問題。",
+      "titleOrig": "George Russell reveals reversal of ‘wrong decisions’ behind Barcelona pole",
+      "sourceUrl": "https://www.planetf1.com/news/george-russell-mercedes-wrong-decisions-barcelona-pole-position",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-06-13T01:18:00.000+08:00"
+      "publishedAt": "2026-06-14T02:07:00.000+08:00"
     },
     {
-      "notionPageId": "37e6c3d3-6a7f-813c-8039-e2ae455b7057",
-      "titleZh": "基米·安東內利在巴塞隆納GP自由練習1缺席時被發現偽裝",
-      "summaryZh": "你友好的鄰居世界冠軍領導者已經到來...",
-      "titleOrig": "Kimi Antonelli spotted in canny disguise during Barcelona GP FP1 absence",
-      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-spider-man-disguise",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-06-13T02:53:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81f8-9ff8-fb77e3190edd",
-      "titleZh": "皮埃爾·蓋斯利的懲罰被推翻，巴塞隆納賽道活動正式開始 – F1 新聞總覽",
-      "summaryZh": "這裡是你錯過的巴塞隆納大獎賽首日賽道活動的所有新聞。",
-      "titleOrig": "Pierre Gasly penalty overturned as track action gets underway in Barcelona – F1 news round-up",
-      "sourceUrl": "https://www.planetf1.com/news/pierre-gasly-penatly-overturn-track-action-gets-underway-barcelona-f1-news-round-up",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-06-13T04:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-819d-bb68-f82a8c6237e3",
-      "titleZh": "Russell 解決 F1 駕駛風格問題的計畫",
-      "summaryZh": "George Russell 相信，他所揭示的駕駛風格困境的解決方案在於依靠自己的直覺駕駛。",
-      "titleOrig": "Russell's plan to solve his F1 driving style problems",
-      "sourceUrl": "https://www.the-race.com/formula-1/russells-plan-to-solve-his-f1-driving-style-problems/",
-      "sourceName": "The Race",
-      "author": "Edd Straw",
-      "publishedAt": "2026-06-12T13:23:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81d1-b390-cd41e9eec498",
-      "titleZh": "Vowles 的首位 Williams 簽約選手需要證明什麼",
-      "summaryZh": "將 Luke Browning 進入 Williams 的青訓計畫是 James Vowles 擔任車隊負責人的首要行動之一。他是否正逐漸接近賽車座位？",
-      "titleOrig": "What Vowles' 'first' Williams signing has to prove",
-      "sourceUrl": "https://www.the-race.com/formula-1/what-vowles-first-williams-signing-has-to-prove/",
-      "sourceName": "The Race",
-      "author": "Josh Suttill",
-      "publishedAt": "2026-06-12T13:33:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81e5-a0c2-f0d0315a917c",
-      "titleZh": "2026 年新規則影響 McLaren 的冠軍防衛",
-      "summaryZh": "Lando Norris 感覺 McLaren 在今年的 F1 表現受到了一個超出不穩定性因素的影響，而這種不穩定性已經困擾了他們的 2026 賽季。",
-      "titleOrig": "The new 2026 quirk hurting McLaren's title defence",
-      "sourceUrl": "https://www.the-race.com/formula-1/norris-identifies-a-new-factor-hurting-mclarens-title-defence/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-06-12T16:29:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81e6-b338-e2e698aca56d",
-      "titleZh": "法拉利公布巴塞隆納F1賽事的八項升級",
-      "summaryZh": "法拉利在F1巴塞隆納大獎賽上揭示了其SF-26的重大升級。",
-      "titleOrig": "Ferrari reveals eight-part upgrade for Barcelona F1 race",
-      "sourceUrl": "https://www.the-race.com/formula-1/ferrari-reveals-8-part-upgrade-for-barcelona-f1-race/",
-      "sourceName": "The Race",
-      "author": "Josh Suttill",
-      "publishedAt": "2026-06-12T17:41:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-817e-9d2e-d2788a876f60",
-      "titleZh": "Gasly 在摩納哥 GP 之後重獲頒獎台",
-      "summaryZh": "Pierre Gasly 在 F1 的摩納哥 GP 中被恢復為第三名，因為 Alpine 成功推翻了他在維修區超速的罰款。",
-      "titleOrig": "Gasly gets Monaco GP podium back after extraordinary review",
-      "sourceUrl": "https://www.the-race.com/formula-1/pierre-gasly-gets-monaco-gp-podium-penatlies-rescinded-fia-review/",
-      "sourceName": "The Race",
-      "author": "Scott Mitchell-Malm",
-      "publishedAt": "2026-06-12T18:18:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8163-9d40-c16917c26217",
-      "titleZh": "Gary Anderson：摩納哥頒獎台事件是 F1 的巨大恥辱",
-      "summaryZh": "Gary Anderson 表示，你無法改變歷史和不公正，他認為推翻 Pierre Gasly 在摩納哥的處罰決定突顯了 F1 所陷入的混亂。",
-      "titleOrig": "Gary Anderson: Monaco podium debacle is a huge embarrassment for F1",
-      "sourceUrl": "https://www.the-race.com/formula-1/gary-anderson-monaco-gp-podium-debacle-huge-embarrassment-f1/",
-      "sourceName": "The Race",
-      "author": "Gary Anderson",
-      "publishedAt": "2026-06-12T19:02:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81c4-9b9b-c11aacb83059",
-      "titleZh": "McLaren 和 Red Bull 挑戰 FIA 對 Gasly 處罰的決定",
-      "summaryZh": "McLaren 和 Red Bull 都已提出上訴意向，針對 FIA 撤銷 Pierre Gasly 在摩納哥的處罰決定。",
-      "titleOrig": "McLaren and Red Bull challenge FIA decision over Gasly penalties",
-      "sourceUrl": "https://www.the-race.com/formula-1/mclaren-fia-appeal-monaco-gasly-piastri/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-06-12T20:03:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81e0-84f5-db13db117c26",
-      "titleZh": "拉塞爾在巴塞隆納FP1中創造最快圈速 兩位新秀表現亮眼",
-      "summaryZh": "喬治·拉塞爾在巴塞隆納大獎賽的開幕練習中創造了最快圈速，三位僅參加FP1的F1新秀車手結束時均進入前十名。",
-      "titleOrig": "Russell sets pace in Barcelona FP1 as two rookies impress",
-      "sourceUrl": "https://www.the-race.com/formula-1/russell-sets-pace-in-spain-fp1-as-two-rookies-impress/",
-      "sourceName": "The Race",
-      "author": "Jack Cozens",
-      "publishedAt": "2026-06-12T20:51:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-819c-89c8-d56f15c678bd",
-      "titleZh": "F1 驚人的 Gasly 處罰逆轉 - 你需要知道的一切",
-      "summaryZh": "皮埃爾·加斯利在摩納哥的處罰被撤銷，這一非凡的決定歸結於幾公分的差異。",
-      "titleOrig": "F1's stunning Gasly penalty U-turn - all you need to know",
-      "sourceUrl": "https://www.the-race.com/formula-1/the-missing-centimetres-that-forced-f1s-stunning-gasly-penalty-u-turn/",
-      "sourceName": "The Race",
-      "author": "Scott Mitchell-Malm",
-      "publishedAt": "2026-06-12T21:05:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-818d-a0fc-fe1798db314e",
-      "titleZh": "梅賽德斯探討法律選項以應對摩納哥GP結果",
-      "summaryZh": "梅賽德斯正在與其律師討論，看看是否有任何理由可以促使FIA對喬治·拉塞爾在摩納哥大獎賽中失去的積分進行“補救”，這一切都是因為對於進站速度限制罰款的爭議。",
-      "titleOrig": "Mercedes exploring legal options over Monaco GP result",
-      "sourceUrl": "https://www.the-race.com/formula-1/mercedes-lawyers-monaco-penalties/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-06-12T22:47:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-8171-9bf0-cda1f7c879ac",
-      "titleZh": "F1 巴塞隆納 GP 2026 練習結果",
-      "summaryZh": "巴塞隆納大獎賽 F1 週末的練習結果",
-      "titleOrig": "F1 Barcelona GP 2026 practice results",
-      "sourceUrl": "https://www.the-race.com/formula-1/f1-barcelona-gp-2026-practice-results/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-06-13T00:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81b6-aef6-e0bdb33ed714",
-      "titleZh": "麥克拉倫重回競速，諾里斯在巴塞隆納FP2領先拉塞爾",
-      "summaryZh": "麥克拉倫的諾里斯在巴塞隆納大獎賽的第二次練習中創下最快單圈時間，但FP1的最快車手拉塞爾僅以0.009秒之差緊隨其後。",
-      "titleOrig": "McLaren back on the pace as Norris heads Russell in Barcelona FP2",
-      "sourceUrl": "https://www.the-race.com/formula-1/mclaren-leads-mercedes-f1-2026-barcelona-gp-fp2/",
-      "sourceName": "The Race",
-      "author": "Samarth Kanal",
-      "publishedAt": "2026-06-13T00:14:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-815c-b43b-d15d8209e6bb",
-      "titleZh": "巴塞隆納GP F1練習賽的勝者與敗者",
-      "summaryZh": "在F1回到「正常」賽道之際，誰在飛翔，誰又在掙扎？",
-      "titleOrig": "Winners and losers from Barcelona GP F1 practice",
-      "sourceUrl": "https://www.the-race.com/formula-1/winner-and-losers-from-barcelona-gp-f1-practice/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-06-13T01:59:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-81f6-853e-f967bd8d0abb",
-      "titleZh": "F1 巴塞隆納 GP 長途賽序列的困惑",
-      "summaryZh": "McLaren 在 FP2 中表現出色，但長途賽分析顯示它需要提升表現，因為 Mercedes 的優勢可能也沒有預期中那麼大...",
-      "titleOrig": "What's confusing long-run order at F1's Barcelona GP",
-      "sourceUrl": "https://www.the-race.com/formula-1/is-mclarens-return-to-form-real-barcelona-f1-long-run-analysis/",
-      "sourceName": "The Race",
-      "author": "Jack Cozens",
-      "publishedAt": "2026-06-13T02:04:00.000+08:00"
-    },
-    {
-      "notionPageId": "37e6c3d3-6a7f-819a-9450-d984146836ae",
+      "notionPageId": "37f6c3d3-6a7f-81e6-90f2-dc0417af199b",
       "titleZh": "Leclerc 在法拉利煞車實驗的初步評價",
-      "summaryZh": "查爾斯·勒克萊爾在 F1 巴塞隆納大獎賽的練習日進行了一項重要實驗，他將煞車碟從 Brembo 更換為 Carbon Industrie。",
+      "summaryZh": "查爾斯·勒克萊爾在 F1 巴塞隆納大獎賽的練習日進行了一項重要實驗，他將煞車碟從 Brembo 換成 Carbon Industrie。",
       "titleOrig": "The early verdict on Leclerc's Ferrari brake experiment",
       "sourceUrl": "https://www.the-race.com/formula-1/the-early-verdict-on-leclercs-ferrari-brake-experiment/",
       "sourceName": "The Race",
       "author": "Josh Suttill",
       "publishedAt": "2026-06-13T02:23:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8104-9633-d44c87eece28",
+      "titleZh": "紅牛 CEO 與 FIA 主席會議背後的原因是什麼",
+      "summaryZh": "紅牛在努力了解為何其引擎被評為 F1 最佳引擎的過程中，毫不留情地尋求各種可能的解釋。",
+      "titleOrig": "What was behind Red Bull CEO's meeting with FIA president",
+      "sourceUrl": "https://www.the-race.com/formula-1/why-red-bull-met-fia-president-f1-aduo-decision/",
+      "sourceName": "The Race",
+      "author": "Jon Noble",
+      "publishedAt": "2026-06-13T16:32:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81d4-acd5-f8b2daf2e056",
+      "titleZh": "F1 車手在「巨大氣球」輪胎上經歷「噩夢」",
+      "summaryZh": "在巴塞隆納大獎賽中，F1 車手面臨2026賽季迄今為止最高的輪胎磨損，擔心比賽將成為一場「磨損盛宴」。",
+      "titleOrig": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-06-13T17:05:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81db-b68e-df9f019d19ec",
+      "titleZh": "麥克拉倫可靠性問題的首個線索",
+      "summaryZh": "麥克拉倫在巴塞隆納大獎賽中連續第二場比賽打破了宵禁，並將此行為描述為對其兩輛 F1 賽車的「預防性工作」。",
+      "titleOrig": "First hint at the root of McLaren's reliability problems",
+      "sourceUrl": "https://www.the-race.com/formula-1/mclaren-f1-curfew-broken-two-races-installation/",
+      "sourceName": "The Race",
+      "author": "Edd Straw",
+      "publishedAt": "2026-06-13T18:38:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8137-b558-e7f1e881745f",
+      "titleZh": "F1 巴塞隆納大獎賽 2026 練習結果",
+      "summaryZh": "巴塞隆納大獎賽 F1 週末的練習結果",
+      "titleOrig": "F1 Barcelona GP 2026 practice results",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-barcelona-gp-2026-practice-results/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-06-13T19:31:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81c9-a3fb-e395091e2a4a",
+      "titleZh": "巴塞隆納 F1 最後練習中發生了什麼事",
+      "summaryZh": "在 F1 巴塞隆納大獎賽的最後練習中，Valtteri Bottas 因為報告的煞車踏板問題引發了紅旗，以下是當時發生的一切。",
+      "titleOrig": "What happened in red-flagged final Barcelona F1 practice",
+      "sourceUrl": "https://www.the-race.com/formula-1/barcelona-f1-practice-fp3-red-flag-what-happened/",
+      "sourceName": "The Race",
+      "author": "Samarth Kanal",
+      "publishedAt": "2026-06-13T19:41:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8170-bb13-f338976f6f2d",
+      "titleZh": "2026 巴塞隆納大獎賽 F1 排位賽結果",
+      "summaryZh": "2026 年 F1 巴塞隆納 GP 的車手資格排名情況",
+      "titleOrig": "Barcelona Grand Prix 2026 F1 qualifying results",
+      "sourceUrl": "https://www.the-race.com/formula-1/barcelona-grand-prix-2026-f1-qualifying-results/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-06-13T23:18:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-815b-9cf3-d90cd2f59690",
+      "titleZh": "拉塞爾在巴塞隆納 F1 賽事中奪得桿位，儘管漢密爾頓最後一圈表現激烈",
+      "summaryZh": "喬治·拉塞爾在 F1 巴塞隆納大獎賽中奪得預期中的桿位，儘管前隊友路易斯·漢密爾頓在最後時刻發起了激烈挑戰。",
+      "titleOrig": "Russell takes Barcelona F1 pole despite spirited late Hamilton lap",
+      "sourceUrl": "https://www.the-race.com/formula-1/george-russell-barcelona-f1-pole-spirited-late-lewis-hamilton-lap/",
+      "sourceName": "The Race",
+      "author": "Valentin Khorounzhiy",
+      "publishedAt": "2026-06-13T23:24:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-818f-b242-da60d278c15a",
+      "titleZh": "2026 巴塞隆納大獎賽 F1 起跑陣容",
+      "summaryZh": "2026 年 F1 巴塞隆納大獎賽的起跑陣容",
+      "titleOrig": "Barcelona Grand Prix F1 2026 starting grid",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-barcelona-grand-prix-starting-grid/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-06-13T23:36:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8165-a826-f6a9095ba4b3",
+      "titleZh": "你需要知道的新 F1 主題歌曲",
+      "summaryZh": "在 2025 年帶來整部 F1 電影的原聲帶後，2026 年在巴塞隆納大獎賽上推出了一首全新的 F1 主題歌曲。",
+      "titleOrig": "What you need to know about new F1-themed song",
+      "sourceUrl": "https://www.the-race.com/extra/new-f1-themed-song-what-you-need-to-know/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-06-13T23:37:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8149-a026-de1887aa091c",
+      "titleZh": "2026 F1 車手在排位賽中的比較",
+      "summaryZh": "2026 賽季的 F1 將允許每位車手在完整的排位賽狀態下，最多與隊友進行 30 次比較。",
+      "titleOrig": "How F1 2026 team-mates are comparing in qualifying",
+      "sourceUrl": "https://www.the-race.com/formula-1/how-f1-2026-team-mates-are-comparing-in-qualifying/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-06-13T23:49:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81ce-ab3f-d948f41635f7",
+      "titleZh": "勒克萊爾對巴塞隆納排位賽撞車感到「羞愧」",
+      "summaryZh": "查爾斯·勒克萊爾對於在F1巴塞隆納大獎賽的排位賽中撞車感到「羞愧」。",
+      "titleOrig": "Leclerc 'ashamed' of Barcelona qualifying crash",
+      "sourceUrl": "https://www.the-race.com/formula-1/charles-leclerc-barcelona-gp-f1-qualifying-crash-reaction/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-06-14T00:23:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-81d4-9210-cace6974a4e5",
+      "titleZh": "2026 巴塞隆納 GP F1 排位賽的勝者與敗者",
+      "summaryZh": "誰最大化了他們的機會，誰又將在 F1 巴塞隆納 GP 的繁忙星期天中追趕？",
+      "titleOrig": "Winners and losers from 2026 Barcelona GP F1 qualifying",
+      "sourceUrl": "https://www.the-race.com/formula-1/2026-barcelona-gp-f1-qualifying-winners-losers/",
+      "sourceName": "The Race",
+      "author": "Scott Mitchell-Malm",
+      "publishedAt": "2026-06-14T00:39:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-8148-9828-fc0d740eb3b9",
+      "titleZh": "為何 Piastri 對 Gasly 罰款撤回的災難性 F1 先例感到震驚",
+      "summaryZh": "Oscar Piastri 對於取消 Pierre Gasly 在摩納哥的罰款決定感到「震驚」，這一決定使得 McLaren 車手在比賽五天後從第四名降至第五名。",
+      "titleOrig": "Why Piastri sees disastrous F1 precedent in Gasly penalty U-turn",
+      "sourceUrl": "https://www.the-race.com/formula-1/oscar-piastri-shock-monaco-gp-penalty-pierre-gasly-podium/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-06-14T00:55:00.000+08:00"
+    },
+    {
+      "notionPageId": "37f6c3d3-6a7f-815d-9bf0-f32a419f589b",
+      "titleZh": "哈密爾頓在拉塞爾爭奪桿位中的關鍵時刻",
+      "summaryZh": "喬治·拉塞爾相信路易斯·哈密爾頓「本可以獲得巴塞隆納-加泰羅尼亞大獎賽的桿位」。艾德·斯特勞分析了法拉利車手如何在關鍵一圈中以微弱差距失去機會。",
+      "titleOrig": "The crucial moments that cost Hamilton in Russell pole fight",
+      "sourceUrl": "https://www.the-race.com/formula-1/the-crucial-moments-that-cost-hamilton-in-russell-pole-fight/",
+      "sourceName": "The Race",
+      "author": "Edd Straw",
+      "publishedAt": "2026-06-14T01:52:00.000+08:00"
     }
   ]
 }
