@@ -1,150 +1,110 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "articles": [
     {
-      "notionPageId": "3976c3d3-6a7f-8153-a8c2-d1b33b6d7bf3",
-      "titleZh": "為何法拉利不後悔在安全車下讓漢密爾頓進站",
-      "summaryZh": "在英國大獎賽中，路易斯·漢密爾頓最終以第三名完賽，而查爾斯·勒克萊爾則獲得勝利，漢密爾頓在安全車下進站時失去了一個位置。",
-      "titleOrig": "Why Ferrari don't regret call to pit Hamilton under Safety Car",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/vasseur-explains-ferrari-reasoning-behind-decision-to-pit-hamilton-under-safety-car.3W4Uo93M7v8ZtqthKoQILg",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8179-abeb-f4a7f5e42df7",
-      "titleZh": "英國大獎賽你可能錯過的8個瞬間",
-      "summaryZh": "重溫2026年英國大獎賽在銀石賽道的精彩瞬間，還有許多賽道外的F1趣事——LEGO賽車混亂、一支英國男孩樂團等等。",
-      "titleOrig": "8 moments you might have missed at the British GP",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/lego-racing-chaos-football-trolling-and-a-british-boyband-8-moments-you-might-have-missed-at-the-2026-british-grand-prix.7KueGnWFUFv0R7yuApUisr",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-81f5-9bc4-f97f6bf598cb",
-      "titleZh": "銀石賽道的驚喜如何改變了 F1 冠軍賽投注市場",
-      "summaryZh": "我們的專業投注撰稿人分析了在銀石賽道激烈比賽後的世界冠軍投注市場。",
-      "titleOrig": "How Silverstone surprises changed the F1 title markets",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/how-the-british-grand-prix-surprises-have-changed-the-drivers-championship-betting-market.31WmscnmoX7kGqdSkfrLoH",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8149-9720-ed8ab97464cb",
-      "titleZh": "沃爾夫承認拉塞爾仍未與賽車契合",
-      "summaryZh": "托托·沃爾夫承認，喬治·拉塞爾對他的梅賽德斯挑戰者仍然不完全感到舒適，即使他在英國大獎賽中登上頒獎台。",
-      "titleOrig": "Wolff admits Russell is still not ‘gelling with the car’ ",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/wolff-identifies-sweet-part-of-british-gp-as-russell-still-not-gelling-with-the-car.4qiFntm9swyIh7ocEG5iYF",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-812d-93d4-eba4f3cb9fe0",
-      "titleZh": "法拉利與麥拉倫如何持續推進發展邊界",
-      "summaryZh": "法拉利與麥拉倫持續推進發展，在銀石賽道引入了更多新項目。",
-      "titleOrig": "How Ferrari and McLaren continued to push development boundaries",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/how-ferrari-and-mclaren-continued-to-push-their-development-boundaries-at-silverstone.17aSKArkL8ylPNQWFrFbDZ",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8149-a411-ca3e9859e5c3",
-      "titleZh": "McLaren 何時能看到新升級策略的初步成果",
-      "summaryZh": "車隊負責人 Andrea Stella 確認 McLaren 對升級策略的方向進行了調整。",
-      "titleOrig": "When McLaren should see first results of new upgrade approach",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/when-mclaren-should-see-first-results-of-redirected-upgrade-approach.2aUAEOb0CMFbVDfPd9CrBr",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8103-bca3-f5fe36a242f6",
-      "titleZh": "Bearman 回顧 Haas 在英國 GP 的「痛苦」經歷",
-      "summaryZh": "Ollie Bearman 承認 Haas 在英國大獎賽中「速度不夠快」，並表示這支美國車隊的速度不足讓他感到「痛苦」。",
+      "notionPageId": "3986c3d3-6a7f-8152-83cd-dfb5b3179003",
+      "titleZh": "Bearman 回顧 Haas 在英國大獎賽的「痛苦」經歷",
+      "summaryZh": "Ollie Bearman 承認 Haas 在英國大獎賽中「速度不夠快」，並表示這支美國車隊的速度不足讓人感到「痛苦」。",
       "titleOrig": "Bearman reflects on 'painful' British GP for Haas",
       "sourceUrl": "https://www.formula1.com/en/latest/article/not-quick-enough-bearman-reflects-on-painful-british-grand-prix-for-haas.5KxhjFBj6YRYc2tDkd9Kle",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8151-9928-c7d5d83a1cc6",
+      "notionPageId": "3986c3d3-6a7f-817a-9954-eb95c6aaf3c6",
       "titleZh": "Palmer 指出 Russell 在爭冠中的「巨大問題」",
-      "summaryZh": "前 F1 車手 Jolyon Palmer 在最新一集的 F1 Nation 中對 George Russell 在 Mercedes 的掙扎提供了一些新的見解。",
+      "summaryZh": "前 F1 車手 Jolyon Palmer 在最新一集的 F1 Nation 中，對 George Russell 在 Mercedes 的掙扎提供了一些新的見解。",
       "titleOrig": "Palmer picks out ‘huge problem’ for Russell in title fight",
       "sourceUrl": "https://www.formula1.com/en/latest/article/i-dont-know-how-easy-that-is-to-fix-palmer-picks-out-huge-problem-for-russell-in-title-fight.5FS33aWPWzdB37b1GqLtVU",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81c4-b677-f3dbea7c4068",
+      "notionPageId": "3986c3d3-6a7f-8171-a429-c6382c84f43a",
       "titleZh": "誰在英國大獎賽中給評審留下深刻印象？",
-      "summaryZh": "了解在英國大獎賽週末後，誰登上了權力排名榜的首位。",
+      "summaryZh": "了解在英國大獎賽周末後，誰在實力排名中名列前茅。",
       "titleOrig": "Who impressed our judges at the British Grand Prix?",
       "sourceUrl": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-british-grand-prix.4Cbwre9wcEdxSE2IY8NLNe",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8152-8ae1-d9dadc9030e9",
-      "titleZh": "PALMER：勒克萊爾如何在銀石反擊奪冠",
-      "summaryZh": "在一段艱難的表現後，Charles Leclerc 以在英國大獎賽的勝利回擊，展現了最佳狀態。前 Renault F1 車手及 F1 TV 分析師 Jolyon Palmer 探討了他是如何做到的。",
+      "notionPageId": "3986c3d3-6a7f-81f6-a737-dfb98cb7d8bb",
+      "titleZh": "PALMER：勒克萊爾如何在銀石賽道反擊奪冠",
+      "summaryZh": "在一段艱難的表現後，Charles Leclerc 以在英國大獎賽的勝利以最好的方式反擊。前 Renault F1 車手及 F1 TV 分析師 Jolyon Palmer 解析了他是如何做到的。",
       "titleOrig": "PALMER: How Leclerc hit back with victory at Silverstone",
       "sourceUrl": "https://www.formula1.com/en/latest/article/jolyon-palmer-how-leclerc-hit-back-with-victory-at-silverstone.28VjLLVEhJM6N0v8NXFRyn",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-07-08T08:00:00.000+08:00"
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-810f-8d06-d04e79c131ea",
-      "titleZh": "F1 奧地利大獎賽：Russell 擋住 Verstappen 獲勝，縮小 Antonelli 的冠軍領先",
-      "summaryZh": "George Russell 在 2026 年 F1 賽季中獲得第二場勝利，從桿位出發贏得奧地利大獎賽，並縮小了 Kimi Antonelli 的冠軍領先。這位 Mercedes 車手以 1.6 秒的優勢越過終點線，領先於 Red Bull 車手 Verstappen，而 Russell 的隊友及冠軍競爭對手 Antonelli 則完成了頒獎台。這是 Russell 自 ... 以來的首場勝利。",
-      "titleOrig": "F1 Austrian GP: Russell holds off Verstappen to win and cut Antonelli’s championship lead",
-      "sourceUrl": "https://www.autosport.com/f1/news/f1-austrian-gp-race-report-/10834502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-28T22:44:00.000+08:00"
+      "notionPageId": "3986c3d3-6a7f-81eb-9d68-ecb40045336c",
+      "titleZh": "銀石首圈碰撞「是我的錯」－阿爾本",
+      "summaryZh": "亞歷克斯·阿爾本在週日的比賽中遭遇挫折，因為首圈事故讓他需要更換前翼，最終退賽，整個下午的比賽變成了一場測試賽。",
+      "titleOrig": "First lap crash at Silverstone ‘was on me’ – Albon",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/albon-takes-blame-for-first-lap-silverstone-crash-after-tough-williams-weekend.2tVYDdIl8fYtR0qetrgTYi",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8175-a906-f206b90676dd",
-      "titleZh": "Piastri 在 F1 奧地利大獎賽中逃過懲罰",
-      "summaryZh": "Oscar Piastri 在被召喚至 F1 奧地利大獎賽裁判處後逃過懲罰，因為他在偵查圈中 allegedly 駕駛速度過慢。這位 McLaren 車手在紅牛環道完成比賽，最終獲得第四名，但他和一名車隊代表於當地時間下午 5:10 被送往裁判處。這是因為 Piastri 被指控超過了時間限制。",
-      "titleOrig": "Piastri escapes punishment at F1 Austrian GP",
-      "sourceUrl": "https://www.autosport.com/f1/news/oscar-piastri-summoned-to-f1-austrian-gp-stewards/10834540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-28T23:13:00.000+08:00"
+      "notionPageId": "3986c3d3-6a7f-81be-9ea1-e6ab3f2b1eac",
+      "titleZh": "Bortoleto 讚揚 Audi 在銀石的進步，成功獲得積分",
+      "summaryZh": "Gabriel Bortoleto 在星期日的銀石賽道上，將他的 P11 排位轉換為第八名，並因此為 Audi 贏得自澳洲以來的首個積分，重申「團隊值得這樣的成就」，在一連串的可惜情況後。",
+      "titleOrig": "Bortoleto hails Audi progress after Silverstone points finish",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/bortoleto-believes-silverstone-points-underlined-audis-f1-potential.69racmFDwWzn2ZQjhoVaJx",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81c3-8d02-eed9ae82b077",
-      "titleZh": "漢密爾頓與勒克萊爾對法拉利在奧地利大獎賽的糟糕速度感到困惑",
-      "summaryZh": "路易斯·漢密爾頓和查爾斯·勒克萊爾正在尋找答案，針對他們的法拉利在炎熱的F1奧地利大獎賽中遭遇的嚴重後輪胎磨損，導致兩位車手都出現滑退的情況。漢密爾頓從第三位起步，希望在超過隊友勒克萊爾後對領跑的喬治·拉塞爾施加壓力，並在早期與紅牛的馬克斯·維斯塔潘展開了一場精彩的對決。但...繼續閱讀",
-      "titleOrig": "Hamilton and Leclerc confused by woeful Ferrari pace in Austrian GP",
-      "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-confused-by-woeful-ferrari-race-pace-in-austria/10834669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-29T01:47:00.000+08:00"
+      "notionPageId": "3986c3d3-6a7f-81a7-84de-cef27ce90c19",
+      "titleZh": "測驗：法拉利重要的 F1 勝利",
+      "summaryZh": "查爾斯·勒克萊爾於週日的銀石賽道上為法拉利贏得了第250場 F1 世界錦標賽的勝利。",
+      "titleOrig": "QUIZ: Landmark Ferrari Grand Prix wins",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/quiz-landmark-ferrari-grand-prix-wins.6VeIbt0pHz9ALhZMmXt9GH",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-818b-8439-ef89578a344f",
-      "titleZh": "沃爾夫：維斯塔潘是紅牛在奧地利GP對抗梅賽德斯的關鍵因素",
-      "summaryZh": "馬克斯·維斯塔潘在奧地利賽事中距離本賽季首勝近在咫尺。這位紅牛車手在斯皮爾堡的排位賽中以第五名起步，在F1奧地利大獎賽中成為喬治·拉塞爾的主要追擊者，最終以1.6秒的差距完賽。紅牛在奧地利帶來了一次重大升級，旨在縮小與梅賽德斯和法拉利之間的差距，這兩支車隊似乎在...繼續閱讀",
-      "titleOrig": "Wolff: Verstappen factor behind Red Bull's Austrian GP fight against Mercedes",
-      "sourceUrl": "https://www.autosport.com/f1/news/toto-wolff-points-to-max-verstappen-factor-behind-red-bulls-austria-pace/10834670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-06-29T01:49:00.000+08:00"
+      "notionPageId": "3986c3d3-6a7f-81ca-83c3-e6525c41857e",
+      "titleZh": "法拉利在銀石的16場勝利",
+      "summaryZh": "查爾斯·勒克萊爾上週末在英國大獎賽終於結束了他的勝利荒，讓法拉利再次站上銀石的最高頒獎台。",
+      "titleOrig": "All of Ferrari's 16 wins at Silverstone",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/gonzalez-and-ascari-to-sainz-and-leclerc-all-of-ferraris-16-wins-at-silverstone.302fSi10PoDv2DRngSf3tv",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ca-92b1-cd0f643aa01d",
+      "notionPageId": "3986c3d3-6a7f-8109-923e-c698e8ac80bd",
+      "titleZh": "凱迪拉克如何展現他們在 F1 中游的進步",
+      "summaryZh": "凱迪拉克本賽季進軍 F1，充分意識到在這個快速變化的運動中競爭是多麼艱難。他們最初預期會位於後方，雖然這在很大程度上是事實，但該車隊已經顯示出真正的進步跡象。",
+      "titleOrig": "How Cadillac have showed they are gaining on the F1 midfield",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/how-cadillacs-improved-pace-at-silverstone-showed-the-team-are-gaining-on-the-midfield.9DiBODtRYffbvVjMcsRad",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-8147-8a64-e43bbc613d0f",
+      "titleZh": "「終於！」– Fisichella 談 Antonelli 迄今在 F1 的成功",
+      "summaryZh": "Giancarlo Fisichella 從九十年代中期到二零零年代末，一直是意大利車手在 F1 的代表。他在這段期間贏得了三場比賽，並且是最後一位贏得意大利大獎賽的意大利車手，直到 Kimi Antonelli 在二零二六年初刷新了這一紀錄。",
+      "titleOrig": "‘Finally!’ – Fisichella on Antonelli’s F1 success so far",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/fisichella-confident-antonelli-can-handle-title-pressure-after-ending-italys-long-wait-for-f1-win.45pqh6OsMsCcMlfOZk7as6",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-07-09T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-81a0-989c-fd30b4f45c62",
       "titleZh": "梅賽德斯老闆質疑法拉利在預算上限時代的「無限」F1升級",
-      "summaryZh": "自從F1強制的四月休賽期以來，在巴林和沙烏地阿拉伯大獎賽取消後，似乎幾乎每個比賽週末法拉利都在為其SF-26增添升級。由於F1現在在預算上限下運作，開發成為許多支出領域中受到嚴格控制的一項。過去領先車隊至少擁有兩個風洞的日子已經一去不復返。",
+      "summaryZh": "自從F1在四月強制休賽後，隨著巴林和沙烏地阿拉伯大獎賽的取消，似乎幾乎每個比賽週末法拉利都在為其SF-26添加升級。由於F1現在在預算上限下運作，開發成為許多支出領域中受到嚴格控制的一項。領先車隊擁有至少兩台風洞的日子早已一去不復返。",
       "titleOrig": "Mercedes boss questions Ferrari's \"limitless\" F1 upgrades amid budget cap era ",
       "sourceUrl": "https://www.autosport.com/f1/news/mercedes-boss-questions-how-ferrari-can-afford-limitless-f1-upgrades/10834765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -152,9 +112,9 @@
       "publishedAt": "2026-06-29T15:33:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ec-b8fb-c03bdd9628b8",
+      "notionPageId": "3986c3d3-6a7f-818a-9465-c3426620f34b",
       "titleZh": "拉塞爾為了贏得 F1 奧地利大獎賽採用了「不尋常」的駕駛風格",
-      "summaryZh": "喬治·拉塞爾表示，他仍在努力與 2026 年的梅賽德斯 F1 車輛磨合，並嘗試了一種「不尋常」的駕駛風格，以確保在奧地利大獎賽中獲勝。拉塞爾在週六取得桿位，並在週日將其轉化為本賽季的第二場勝利，目標是追趕冠軍領跑者基米·安東內利。隨著這位意大利車手最終排名第三，拉塞爾現在將前往他的家鄉銀石賽道...持續關注",
+      "summaryZh": "喬治·拉塞爾表示他仍在努力與 2026 年的梅賽德斯 F1 車輛磨合，並嘗試了一種「不尋常」的駕駛風格來確保在奧地利大獎賽的勝利。拉塞爾在週六獲得桿位，並在週日將其轉化為本賽季的第二場勝利，目標是追趕冠軍領跑者基米·安東內利。隨著這位意大利車手最終名列第三，拉塞爾現在將前往他的銀石主場...持續關注",
       "titleOrig": "How Russell resorted to \"abnormal\" driving style to win F1 Austrian GP",
       "sourceUrl": "https://www.autosport.com/f1/news/how-russell-resorted-to-abnormal-driving-style-to-win-f1-austrian-gp/10834814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -162,9 +122,9 @@
       "publishedAt": "2026-06-29T17:33:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8151-9097-ff1ed6e85138",
-      "titleZh": "為什麼 Verstappen 在英國大獎賽模擬器測試中爆笑",
-      "summaryZh": "在幾個歐洲的 F1 週末中，車手們的能量管理似乎變得更加自然，但 Max Verstappen 期待英國大獎賽將會是完全不同的故事。摩納哥是迄今為止最自然的體驗，車手們可以在排位賽中全力以赴，因為有許多慢彎和煞車區域。根據 Verstappen 的說法，Red Bull Ring ... 繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-810b-becd-fd0efd15c8f8",
+      "titleZh": "為什麼 Verstappen 在英國 GP 模擬賽中爆笑",
+      "summaryZh": "在幾個歐洲的 F1 賽事中，車手們的能量管理似乎變得更加自然，但 Max Verstappen 預期英國大獎賽將會是完全不同的故事。摩納哥是迄今為止最自然的體驗，車手們可以在排位賽中全力以赴，因為那裡有許多慢彎和制動區。根據 Verstappen 的說法，Red Bull Ring ...繼續閱讀",
       "titleOrig": "Why Verstappen burst out laughing during British GP simulator runs",
       "sourceUrl": "https://www.autosport.com/f1/news/why-max-verstappen-burst-out-laughing-during-silverstone-f1-simulator-runs/10834845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -172,9 +132,9 @@
       "publishedAt": "2026-06-29T20:55:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-818e-ad92-cdd541fc85c9",
+      "notionPageId": "3986c3d3-6a7f-8147-9fde-cb147e49cc08",
       "titleZh": "Verstappen 駁斥 F1 2026 冠軍挑戰的傳言",
-      "summaryZh": "四屆 Formula 1 世界冠軍 Max Verstappen 對 Red Bull 最近的進步感到振奮，但認為團隊仍缺少幾個要素，無法與 Mercedes 媲美並成為常勝軍。在星期日的奧地利大獎賽中，Verstappen 以微弱差距屈居 George Russell 之後，並且在比賽的前半段，他似乎有能力挑戰 Mercedes 的速度。這是結果的...繼續閱讀",
+      "summaryZh": "四屆 Formula 1 世界冠軍 Max Verstappen 對 Red Bull 最近的進步感到振奮，但認為團隊仍缺少一些要素，無法與 Mercedes 媲美並成為常勝軍。在星期日的奧地利大獎賽中，Verstappen 以微弱差距屈居 George Russell 之後，並且在比賽的前半段，他似乎有足夠的速度來挑戰 Mercedes。這是結果的...持續關注。",
       "titleOrig": "Verstappen dismisses talk of title challenge in F1 2026",
       "sourceUrl": "https://www.autosport.com/f1/news/verstappen-dismisses-f1-title-challenge/10835012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -182,9 +142,9 @@
       "publishedAt": "2026-06-30T16:26:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8198-8b3c-e859c317125d",
+      "notionPageId": "3986c3d3-6a7f-81a7-91bb-e6b1c0af94cf",
       "titleZh": "Newey 希望能讓 Alonso 在 Aston Martin 繼續參賽至 F1 2027",
-      "summaryZh": "Aston Martin 總監 Adrian Newey 認為，為匈牙利大獎賽所計畫的改款賽車足以說服 Fernando Alonso 留在 2027 年的 F1 賽季。44 歲的 Alonso 未來充滿不確定性，因為他開始面臨時間的壓力，無法讓陷入困境的 Aston Martin 項目取得成功，而該隊的表現已遠遠落後於新來的 Cadillac，成為 F1 中最慢的車隊之一。",
+      "summaryZh": "Aston Martin 總監 Adrian Newey 認為，團隊為匈牙利大獎賽計劃的改良車型足以說服 Fernando Alonso 留在 2027 年的 F1 賽季。44 歲的 Alonso 未來充滿不確定性，因為他開始感到時間不夠，無法讓陷入困境的 Aston Martin 項目成功，該隊已經遠遠落後於新進的 Cadillac，成為 F1 中速度最慢的車隊之一。",
       "titleOrig": "Newey hoping to keep Alonso at Aston Martin for F1 2027",
       "sourceUrl": "https://www.autosport.com/f1/news/newey-alonso-aston-martin-f1-2027/10835021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -192,9 +152,9 @@
       "publishedAt": "2026-06-30T16:40:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8138-9f0e-fd61822289bd",
+      "notionPageId": "3986c3d3-6a7f-8154-a9d9-fc8e20cd2bdc",
       "titleZh": "Verstappen 加入 McLaren 是真實的可能性嗎？",
-      "summaryZh": "Max Verstappen 仍然與 Red Bull 簽約至 2028 年底，但就像一年前一樣，他的未來仍然是 F1 賽道上的主要話題之一。今年年初，主要問題是這位荷蘭車手是否會因對技術規則的不滿而離開 F1。然而，由於逐步調整的...繼續閱讀",
+      "summaryZh": "Max Verstappen 仍與 Red Bull 簽約至 2028 年底，但和一年前一樣，他的未來仍然是 F1 競技場中的主要話題之一。今年初，主要問題是這位荷蘭車手是否會因對技術規則的不滿而選擇離開 F1。然而，隨著逐步調整的進展，...繼續閱讀",
       "titleOrig": "Is Verstappen to McLaren a genuine possibility?",
       "sourceUrl": "https://www.autosport.com/f1/news/verstappen-to-mclaren-f1-talks/10835116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -202,9 +162,9 @@
       "publishedAt": "2026-06-30T21:25:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8107-9a48-d7f20c705fbf",
+      "notionPageId": "3986c3d3-6a7f-817f-838f-e2acf8d38453",
       "titleZh": "Williams 計畫在阿塞拜疆大獎賽推出「幾乎全新車款」",
-      "summaryZh": "Williams 車隊負責人 James Vowles 表示，將在九月底的 F1 阿塞拜疆大獎賽前推出一輛「幾乎全新車款」。這支位於 Grove 的車隊在 F1 新時代的開局表現不佳，特別是去年將大部分精力集中在準備 2026 年賽季，導致 FW48 完成得晚且超重。車輛的重量問題以及缺乏速度...",
+      "summaryZh": "Williams 車隊負責人 James Vowles 表示，將在九月底的 F1 阿塞拜疆大獎賽前推出一款「幾乎全新車款」。這支位於 Grove 的車隊在 F1 新時代的開局表現不佳，特別是去年花費大量精力準備 2026 年的計畫，導致 FW48 的完成時間延遲且超重。這些重量問題以及缺乏速度的情況...",
       "titleOrig": "Williams plans “almost entirely new car” by Azerbaijan GP",
       "sourceUrl": "https://www.autosport.com/f1/news/williams-plans-almost-entirely-new-car-by-azerbaijan-gp/10835267/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -212,9 +172,9 @@
       "publishedAt": "2026-07-01T17:47:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8168-b690-e161ac098b95",
+      "notionPageId": "3986c3d3-6a7f-81dc-a9c6-c6532e26a85a",
       "titleZh": "Autosport Retro 影片：回顧1987年英國大獎賽",
-      "summaryZh": "1987年英國大獎賽上演了威廉姆斯車隊隊友及冠軍對手Nelson Piquet與Nigel Mansell之間的激烈對決，最終演變成F1歷史上最偉大的超車之一。在我們最新一集的《從檔案中》系列中，主持人Kevin Turner邀請了Maurice Hamilton和Damien Smith兩位嘉賓，他們在1987年7月那天都在現場，但經歷卻截然不同...繼續閱讀",
+      "summaryZh": "1987年英國大獎賽上演了威廉姆斯車隊隊友及冠軍對手Nelson Piquet與Nigel Mansell之間的激烈對決，最終演變成F1歷史上最偉大的超車之一。在我們的《從檔案中》系列最新一集中，主持人Kevin Turner邀請了Maurice Hamilton和Damien Smith兩位嘉賓，他們在1987年7月那天都在現場，但經歷卻截然不同...繼續閱讀",
       "titleOrig": "Autosport Retro video: Remembering the 1987 British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/autosport-retro-video-remembering-the-1987-british-gp/10835271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -222,9 +182,9 @@
       "publishedAt": "2026-07-01T18:01:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8136-8c4b-e942f4f80b34",
-      "titleZh": "McLaren 仍需調查為何在直道上輸給 Mercedes，儘管使用相同的動力單元",
-      "summaryZh": "McLaren F1 車隊負責人 Andrea Stella 表示，該隊將調查為何在直道上輸給 Mercedes 約「一個半十」的原因，儘管使用的是相同的動力單元。Stella 解釋了 MCL40 與目前領先冠軍的 W17 之間的差距，他估計兩輛車之間的差距約為每圈三到四個十，並且...",
+      "notionPageId": "3986c3d3-6a7f-8173-97d3-f660900b901c",
+      "titleZh": "McLaren 仍在調查為何在直道上輸給 Mercedes，儘管使用相同的動力單元",
+      "summaryZh": "McLaren F1 車隊負責人 Andrea Stella 表示，車隊將調查為何在直道上輸給 Mercedes 約「一個半十」的原因，儘管使用的是相同的動力單元。Stella 解釋了 MCL40 在目前領先冠軍的 W17 之間的差距，他估計兩輛車之間的差距約為每圈三到四個十，並且...",
       "titleOrig": "McLaren still to investigate why it's losing to Mercedes on the straights, despite same PU",
       "sourceUrl": "https://www.autosport.com/f1/news/mclaren-still-to-investigate-why-its-losing-to-mercedes-on-the-straights-despite-same-pu/10835343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -232,9 +192,9 @@
       "publishedAt": "2026-07-01T23:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8127-9115-cad5c274e192",
-      "titleZh": "投票：2026年6月 Autosport 月度最佳",
-      "summaryZh": "歡迎參加我們全新的每月投票活動，讀者們可以選擇過去一個月全球賽車賽事中最佳的車手和時刻。您只需點擊這個連結即可投票。我們的「Autosport 月度最佳」投票有幾個類別，每個類別提供四個選項。您可以選擇最令人印象深刻的...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-81f1-b23f-cfa90e1f6519",
+      "titleZh": "投票：2026年6月Autosport最佳選擇",
+      "summaryZh": "歡迎參加這個令人興奮的新每月投票活動，讀者們將有機會選擇過去一個月全球賽事中最佳的車手和時刻。您可以通過點擊這個連結來投票。我們的「Autosport最佳選擇」投票有幾個類別，每個類別提供四個選項。您可以選擇最令人印象深刻的...繼續閱讀",
       "titleOrig": "Vote: Autosport Best of the Month for June 2026",
       "sourceUrl": "https://www.autosport.com/general/news/vote-autosport-best-of-the-month-for-june-2026/10835386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -242,9 +202,9 @@
       "publishedAt": "2026-07-02T01:08:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-815e-90a6-fd92cea60f61",
-      "titleZh": "F1 車手將在英國大獎賽中駕駛樂高迷你車",
-      "summaryZh": "F1 車手將在本週末的英國大獎賽遊行圈中駕駛樂高迷你車，這是繼去年邁阿密大獎賽樂高車手遊行成功後的延續。所有 22 位車手將擁有由 28,000 塊樂高積木製成的獨特迷你車，參加在銀石賽道的傳統車手遊行圈，這是在星期日大獎賽之前的活動。這些迷你車是由 20 位設計師建造的，...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-81a2-a33d-cce79e15ec82",
+      "titleZh": "F1 車手將在英國大獎賽駕駛樂高迷你車",
+      "summaryZh": "F1 車手將在本週末的英國大獎賽遊行圈中駕駛樂高迷你車，這是繼去年邁阿密大獎賽樂高車手遊行成功之後的延續。所有 22 位車手將擁有由 28,000 塊樂高積木製成的個別迷你車，參加在銀石賽道的傳統車手遊行圈，為週日的正賽做準備。這些迷你車由 20 位設計師建造，...繼續閱讀",
       "titleOrig": "F1 drivers to take to Lego minicars at British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-drivers-to-take-to-lego-minicars-at-british-gp/10835478/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -252,9 +212,9 @@
       "publishedAt": "2026-07-02T18:27:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-810f-a40c-f19377e9d59c",
+      "notionPageId": "3986c3d3-6a7f-81ae-bf48-c487a279555d",
       "titleZh": "Motorsport UK 與 BRDC 聯手培養年輕英國車手",
-      "summaryZh": "英國兩大賽車組織即將攜手合作，幫助下一代英國車手的發展。Motorsport UK 和英國賽車手俱樂部（BRDC）將於 2027 年啟動一個新的國家學院，為年輕賽車手創造一條統一的發展路徑，進入單座賽車、運動賽車等領域。這個計畫被稱為 BRDC 車手學院 ... 繼續閱讀",
+      "summaryZh": "英國兩大賽車組織即將攜手合作，協助下一代英國車手的發展。Motorsport UK 和英國賽車手俱樂部（BRDC）將於 2027 年啟動一個新的全國學院，為年輕賽車手創造一條統一的發展路徑，進入單座賽車、運動賽車等領域。這個計畫被稱為 BRDC 車手學院。",
       "titleOrig": "Motorsport UK and BRDC unite to develop young British drivers",
       "sourceUrl": "https://www.autosport.com/national/news/motorsport-uk-and-brdc-unite-to-develop-young-british-drivers/10835534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -262,9 +222,9 @@
       "publishedAt": "2026-07-02T21:35:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-818f-bb93-f7e25ef1c4b7",
-      "titleZh": "阿隆索：2026 年 F1 汽車在銀石賽道將「開起來不有趣」",
-      "summaryZh": "銀石賽道獨特的快速流暢佈局讓 F1 車手和車迷都感到愉悅，但今年可能不太如此，因為最新汽車的能量需求威脅到這種壯觀的表現。馬克斯·維斯塔潘上週末在奧地利表示，他在模擬器中嘗試銀石賽道時忍不住笑出聲。而這已成為其他車手的共同主題。",
+      "notionPageId": "3986c3d3-6a7f-81e5-b09c-fadab53b3a37",
+      "titleZh": "阿隆索：2026年F1賽車在銀石賽道駕駛將「不有趣」",
+      "summaryZh": "銀石賽道獨特的快速流暢佈局讓F1車手和車迷都感到愉悅，但今年可能不再如此，因為最新賽車的能量需求威脅到這種壯觀的表現。馬克斯·維斯塔潘上週末在奧地利表示，他在模擬器中嘗試銀石賽道時忍不住笑了出來。這已成為其他車手的重複主題……",
       "titleOrig": "Alonso: Silverstone will be \"not fun to drive\" with 2026 F1 cars",
       "sourceUrl": "https://www.autosport.com/f1/news/fernando-alonso-silverstone-will-be-very-different-and-not-fun-to-drive-in-2026-f1-cars/10835549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -272,9 +232,9 @@
       "publishedAt": "2026-07-02T22:14:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ee-a0f8-fbaa6bfdd7b7",
+      "notionPageId": "3986c3d3-6a7f-818c-8495-f279a2fa7b8a",
       "titleZh": "阿隆索否認阿斯頓馬丁匈牙利大獎賽升級將決定他的F1未來的說法",
-      "summaryZh": "費爾南多·阿隆索確認他的F1未來並不依賴於阿斯頓馬丁即將推出的升級，車隊老闆阿德里安·紐維希望這能說服他留下。這支來自銀石的車隊在2026年規則的開局表現糟糕，在前八輪比賽中僅獲得一分，並且有時落後其他車隊一秒鐘。這在很大程度上是因為阿斯頓未能適應...繼續閱讀",
+      "summaryZh": "費爾南多·阿隆索確認他的F1未來並不依賴於阿斯頓馬丁即將推出的升級，車隊老闆阿德里安·紐維希望這能說服他留下。這支來自銀石的車隊在2026年規則的開局表現糟糕，在前八輪比賽中僅獲得一分，並且有時落後其他車隊一秒鐘。這在很大程度上是因為阿斯頓馬丁未能適應...",
       "titleOrig": "Alonso denies claim that Aston Martin's Hungarian GP upgrade will decide his F1 future",
       "sourceUrl": "https://www.autosport.com/f1/news/fernando-alonso-denies-claim-that-aston-martins-f1-hungarian-gp-upgrade-will-decide-his-future/10835579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -282,9 +242,9 @@
       "publishedAt": "2026-07-02T23:24:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8191-b397-d932e063429f",
-      "titleZh": "2026 年 F1 的「充電站」銀石賽道將會有何不同",
-      "summaryZh": "如果你認為因為在邁阿密所採取的臨時修補措施以及 2027 年所同意的更大變革，F1 最受歡迎的話題——能源管理會消失，那就再想想吧。最近在一些能源限制較少的賽道上進行的比賽，或許讓人們對能源管理的討論暫時冷卻。但標誌性的銀石賽道被標籤為「最大的...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-819f-aa8a-eacd2aac99e7",
+      "titleZh": "2026 年 F1 的「充電站」Silverstone 將會有什麼不同",
+      "summaryZh": "如果你以為因為在邁阿密所採取的臨時措施以及為 2027 年所達成的更大變革，F1 對於能源管理的討論已經消失，那你就錯了。最近在那些對能源限制較少的賽道上進行的比賽，或許讓人們暫時放下了對能源管理的煩惱。但標誌性的 Silverstone 賽道被稱為「最大的 ... 繼續閱讀",
       "titleOrig": "How \"charging station\" Silverstone will really look different in F1 2026",
       "sourceUrl": "https://www.autosport.com/f1/news/how-charging-station-silverstone-will-really-look-different-in-f1-2026/10835608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -292,9 +252,9 @@
       "publishedAt": "2026-07-03T00:50:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81e5-a9bc-ed6a26759c49",
+      "notionPageId": "3986c3d3-6a7f-8150-8868-d3eacca80470",
       "titleZh": "為何法拉利擔心在銀石和斯帕對梅賽德斯的差距可能會加倍",
-      "summaryZh": "在路易斯·漢密爾頓於巴塞羅那獲勝後，人們對法拉利能成為今年F1冠軍爭奪戰的真正競爭者充滿希望，但這位七屆世界冠軍堅持認為仍有很長的路要走。這部分是因為漢密爾頓所描述的他前雇主梅賽德斯的「驚人」實力，但也因為法拉利仍然缺乏絕對的引擎性能...持續關注",
+      "summaryZh": "在路易斯·漢密爾頓於巴塞隆納獲勝後，人們對法拉利能成為今年F1冠軍爭奪戰的真正競爭者充滿期待，但這位七屆世界冠軍堅持認為仍有很長的路要走。這部分是因為漢密爾頓所形容的他前雇主梅賽德斯的「驚人」實力，但也因為法拉利仍然缺乏絕對的引擎性能...持續關注",
       "titleOrig": "Why Ferrari fears \"deficit could be twice as big\" to Mercedes at Silverstone and Spa",
       "sourceUrl": "https://www.autosport.com/f1/news/deficit-could-be-twice-as-big-why-ferrari-expects-tough-f1-weekends-at-silverstone-and-spa/10835616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -302,9 +262,9 @@
       "publishedAt": "2026-07-03T01:08:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-817f-9bf8-c19f33f4c7e0",
-      "titleZh": "為何 Russell 認為能量匱乏的 Silverstone 將會有更好的比賽 - 像澳洲和中國一樣",
-      "summaryZh": "George Russell 對於預期在 F1 英國大獎賽上出現的能量匱乏問題不以為然，他表示，儘管車手們可能會覺得增加的能量管理挑戰性較高，但這將創造出「更好的比賽」。2026 賽季在墨爾本的開幕賽獲得了褒貶不一的評價；雖然有些人喜歡新賽車帶來的混亂「溜溜球」式比賽...",
+      "notionPageId": "3986c3d3-6a7f-81ac-a1fc-dfab8cde08d0",
+      "titleZh": "為何 Russell 相信能量匱乏的 Silverstone 將會有更好的比賽 - 如同澳洲和中國",
+      "summaryZh": "George Russell 對於預期在 F1 英國大獎賽中出現的能量匱乏問題不以為然，他表示，儘管車手們可能會覺得增加的能量管理挑戰性較高，但這將創造出「更好的比賽」。2026 賽季在墨爾本的開幕賽獲得了褒貶不一的評價；雖然有些人享受新賽季帶來的混亂「溜溜球」式比賽，但...",
       "titleOrig": "Why Russell believes energy-starved Silverstone will have better racing - like Australia and China ",
       "sourceUrl": "https://www.autosport.com/f1/news/george-russell-energy-starved-silverstone-will-have-better-racing-like-australia-and-china/10835718/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -312,9 +272,9 @@
       "publishedAt": "2026-07-03T17:17:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81bc-96b4-f91cf7cc8cf6",
-      "titleZh": "F1 英國大獎賽：漢密爾頓擊敗安東內利，奪得銀石練習賽最快",
-      "summaryZh": "七次世界冠軍 Lewis Hamilton 在英國大獎賽的週末中展現出色表現，在練習賽中跑出最快圈速。這位 Ferrari 車手在軟胎上以 1分29.260秒的成績，比他的梅賽德斯接班人及冠軍領跑者 Kimi Antonelli 快了 0.213秒，而 Antonelli 在大部分時間內都處於領先地位。由於這是唯一的衝刺賽練習賽，賽事一開始就充滿了動作。",
+      "notionPageId": "3986c3d3-6a7f-8139-83b5-fe540ee77a31",
+      "titleZh": "F1 英國大獎賽：Hamilton 擊敗 Antonelli 在 Silverstone 練習賽中奪冠",
+      "summaryZh": "Lewis Hamilton 在英國大獎賽週末展現出色的表現，這位七次世界冠軍在練習賽中跑出最快圈速。這位 Ferrari 車手在軟胎上以 1 分 29.260 秒的成績，比他的 Mercedes 接班人及冠軍領跑者 Kimi Antonelli 快了 0.213 秒，而 Antonelli 在大部分時間內都處於領先地位。這場練習賽是這次衝刺賽唯一的練習環節，從一開始就充滿了動作...",
       "titleOrig": "F1 British GP: Hamilton beats Antonelli to top Silverstone practice ",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-british-gp-lewis-hamilton-leads-kimi-antonelli-in-sole-silverstone-practice-/10835802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -322,9 +282,9 @@
       "publishedAt": "2026-07-03T20:44:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81a1-a542-f196accd8d4f",
+      "notionPageId": "3986c3d3-6a7f-81ee-89a1-e6c64220c28f",
       "titleZh": "漢密爾頓對樂高英國大獎賽車手遊行的擔憂背後原因",
-      "summaryZh": "在去年邁阿密大獎賽成功首秀後，樂高再次回歸，推出最新的車手遊行活動，為英國大獎賽的遊行圈建造了22輛獨立的卡丁車供車手使用。這家丹麥玩具巨頭組裝了時速25公里的卡丁車，使用了28,000塊樂高積木和其他元件，使其可駕駛，並在11位車手的意見下進行設計。...繼續閱讀",
+      "summaryZh": "在去年邁阿密大獎賽成功首秀後，樂高再次回歸，推出最新的車手遊行活動，為英國大獎賽的遊行圈打造了22輛獨立的卡丁車供車手使用。這家丹麥建構玩具巨頭組裝了時速25公里的卡丁車，使用了28,000塊樂高積木和其他元件，使其可行駛，並在11位車手的意見下進行設計。",
       "titleOrig": "What's behind Hamilton's Lego British GP drivers' parade concerns",
       "sourceUrl": "https://www.autosport.com/f1/news/whats-behind-lewis-hamiltons-lego-british-gp-drivers-parade-concerns/10835849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -332,9 +292,9 @@
       "publishedAt": "2026-07-03T22:30:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-811b-9930-daea335887d7",
-      "titleZh": "Vasseur 反擊 Wolff 對法拉利 F1 升級「作弊」的指控",
-      "summaryZh": "法拉利總監 Fred Vasseur 對 Toto Wolff 對法拉利在整個 F1 賽季中不斷帶來升級的驚訝做出了激烈回應，認為他的梅賽德斯對手在指控「作弊」。在 2026 賽季的前八輪中，法拉利積極進行車輛更新，作為第二名的車隊試圖縮小與領先者的差距...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-818f-b4e9-c526d072193d",
+      "titleZh": "Vasseur 對 Wolff 指控法拉利 F1 升級「作弊」做出反擊",
+      "summaryZh": "法拉利總監 Fred Vasseur 對 Toto Wolff 對法拉利在整個 F1 賽季持續帶來升級的驚訝做出了激烈回應，認為他的梅賽德斯對手提出了「作弊」的指控。在 2026 賽季的前八輪比賽中，法拉利積極進行車輛更新，作為排名第二的車隊，試圖縮小與領先者的差距。",
       "titleOrig": "Vasseur bites back against Wolff’s Ferrari F1 upgrade \"cheating\" claims",
       "sourceUrl": "https://www.autosport.com/f1/news/fred-vassuer-hits-back-against-toto-wolffs-cheating-claims-on-ferraris-f1-upgrades/10835880/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -342,8 +302,8 @@
       "publishedAt": "2026-07-03T23:24:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81e5-a042-db883ab9aa51",
-      "titleZh": "為何 McLaren 是唯一在 Silverstone 沒有最新動力單元的 Mercedes 車隊",
+      "notionPageId": "3986c3d3-6a7f-810f-a221-e45179ee10cf",
+      "titleZh": "為什麼 McLaren 是唯一一支在 Silverstone 沒有最新動力單元的 Mercedes 車隊",
       "summaryZh": "雖然 Audi 和 Ferrari 分別在巴塞隆納和斯皮爾堡推出了本賽季的首個 ADUO 升級，但 Mercedes 也在奧地利帶來了新的動力單元規格。然而，對於 Mercedes 來說，這並不是 ADUO 的進步，而是針對本賽季早期多次退賽的可靠性升級，Kimi Antonelli 在巴塞隆納的退賽是最近的一個例子。",
       "titleOrig": "Why McLaren is the only Mercedes team without the latest power unit at Silverstone",
       "sourceUrl": "https://www.autosport.com/f1/news/why-mclaren-wont-have-mercedes-new-power-unit-for-f1-british-grand-prix/10835889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -352,9 +312,9 @@
       "publishedAt": "2026-07-03T23:33:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ce-99ee-d05eaaf61380",
-      "titleZh": "F1 英國大獎賽：Hamilton 擊敗 Antonelli 獲得銀石衝刺賽桿位",
-      "summaryZh": "七次世界冠軍 Lewis Hamilton 在 F1 英國大獎賽衝刺賽中獲得桿位，成功抵擋了他的梅賽德斯接班人 Kimi Antonelli 的挑戰。在軟胎的單圈較量中，Antonelli 設定了暫時最快的時間，但 Hamilton 以僅僅 0.011 秒的優勢超越了這位意大利車手，贏得自去年中國大獎賽以來的首個衝刺賽桿位。",
+      "notionPageId": "3986c3d3-6a7f-81c4-a5f7-cb2d493fde51",
+      "titleZh": "F1 英國大獎賽：Hamilton 擊敗 Antonelli 獲得 Silverstone 衝刺賽桿位",
+      "summaryZh": "七次世界冠軍 Lewis Hamilton 在 F1 英國大獎賽衝刺賽中奪得桿位，成功抵擋了他的梅賽德斯接班人 Kimi Antonelli 的挑戰。在軟胎的單圈較量中，Antonelli 設定了暫時最快的時間，但 Hamilton 以僅僅 0.011 秒的微弱差距超越了這位義大利車手，奪得自去年中國大獎賽以來的首個衝刺賽桿位。",
       "titleOrig": "F1 British GP: Hamilton pips Antonelli to Silverstone sprint pole",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-british-gp-lewis-hamilton-claims-sprint-pole-ahead-of-kimi-antonelli/10835906/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -362,9 +322,9 @@
       "publishedAt": "2026-07-04T00:27:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81f4-bf19-e24c5af1db82",
-      "titleZh": "「他們昨天讓我感到害怕」– Hamilton 期待 Ferrari 在 Silverstone 落後六十分之一",
-      "summaryZh": "Lewis Hamilton 表示 Ferrari 的預測讓他感到「害怕」，因為他們在 Silverstone 的直道上可能會落後「六十分之一」，但他卻意外地在英國大獎賽的衝刺賽中取得了桿位。在英國大獎賽的媒體日上，即使在本週末唯一的練習賽之後，Ferrari 仍然保持著謹慎的期待。Hamilton 在 Silverstone 擁有九場勝利，他知道情況不會那麼簡單...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-8197-8426-e6e9f7b062f1",
+      "titleZh": "「他們昨天讓我感到害怕」－ Hamilton 期待 Ferrari 在 Silverstone 落後六十分之一",
+      "summaryZh": "Lewis Hamilton 表示，Ferrari 的預測讓他感到「害怕」，因為他們在 Silverstone 的直道上可能會落後六十分之一，隨後他意外地獲得英國大獎賽衝刺賽的桿位。在英國大獎賽的媒體日上，即使在本週末唯一的練習賽後，Ferrari 仍然保持謹慎的預期。Hamilton 在 Silverstone 擁有九場勝利，他知道得更清楚……繼續閱讀",
       "titleOrig": "\"They scared me yesterday\" – Hamilton expected Ferrari to be six tenths off at Silverstone",
       "sourceUrl": "https://www.autosport.com/f1/news/they-scared-me-yesterday-lewis-hamilton-expected-ferrari-to-be-six-tenths-off-at-silverstone/10835962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -372,9 +332,9 @@
       "publishedAt": "2026-07-04T01:52:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8174-80c3-c47b50ea0eed",
+      "notionPageId": "3986c3d3-6a7f-8155-8362-e79240a13e5e",
       "titleZh": "霍納將出席 F1 英國大獎賽，準備推出回憶錄",
-      "summaryZh": "前 Red Bull F1 首席 Christian Horner 將於本週末出席在 Silverstone 舉行的英國大獎賽，這是他自去年七月離開車隊以來的首場比賽，同時宣布他的第一本書。去年的英國大獎賽是霍納在 Red Bull 長期任期的最後一場比賽，因為在比利時大獎賽之前，他因車隊表現不佳而被解除職務。",
+      "summaryZh": "前 Red Bull F1 總監 Christian Horner 將於本週末出席在 Silverstone 舉行的英國大獎賽，這是他自去年七月離開車隊以來的首場比賽，同時也宣布了他的第一本書。去年的英國大獎賽是霍納在 Red Bull 長期任期的最後一場比賽，因為在比利時大獎賽之前，他因車隊表現不佳而被解除職務。",
       "titleOrig": "Horner to attend F1 British GP, set to launch memoir",
       "sourceUrl": "https://www.autosport.com/f1/news/christian-horner-to-attend-f1-british-gp-set-to-launch-memoir/10836115/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -382,9 +342,9 @@
       "publishedAt": "2026-07-04T18:13:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8142-9ccb-d73656bc7db4",
+      "notionPageId": "3986c3d3-6a7f-8174-a580-e46f434c8a16",
       "titleZh": "F1 英國大獎賽：Antonelli 超越 Hamilton 贏得銀石衝刺賽",
-      "summaryZh": "F1 冠軍領跑者 Kimi Antonelli 在銀石贏得了一場激烈的英國大獎賽衝刺賽，這是他 2026 賽季的首場週六勝利。他的 Mercedes 車隊車手以 2.7 秒的優勢超越七次世界冠軍 Hamilton，這場比賽中 Antonelli 和 Hamilton 對其他車手展現了壓倒性的優勢。McLaren 的 Lando Norris 完成了比賽...",
+      "summaryZh": "F1 冠軍領跑者 Kimi Antonelli 在銀石贏得了2026賽季的首場星期六勝利，擊敗了 Lewis Hamilton，贏得了激烈的英國大獎賽衝刺賽。這位 Mercedes 車手以 2.7 秒的優勢衝過終點，超越了這位七次世界冠軍，兩人在比賽中對其他車手展現了壓倒性的優勢。McLaren 的 Lando Norris 完成了比賽...",
       "titleOrig": "F1 British GP: Antonelli overtakes Hamilton to win Silverstone sprint race",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-beats-hamilton-for-win/10836148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -392,9 +352,9 @@
       "publishedAt": "2026-07-04T19:43:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8173-b3cc-c44649bd041e",
-      "titleZh": "拉塞爾和漢密爾頓的合約續約揭露了維斯塔潘-麥克拉倫的傳聞為無稽之談",
-      "summaryZh": "兩個在F1車手市場上最受追捧的席位已經被填滿，但不會有官方公告，也不會有與車隊老闆和主要贊助商的握手合影的新聞稿。原因很簡單：沒有簽署新的合約。相反，已經包含在現有協議中的選項被啟用——因此從法律的角度來看，...",
+      "notionPageId": "3986c3d3-6a7f-81c7-8d47-f0a04fb46405",
+      "titleZh": "拉塞爾與漢密爾頓的合約續約揭示了維斯塔潘與麥克拉倫的傳聞為無稽之談",
+      "summaryZh": "F1 車手市場上兩個最受追捧的席位已經被填滿，但不會有官方公告，也不會有與車隊老闆和主要贊助商的握手合影的新聞稿。原因很簡單：沒有簽署新的合約。相反，已經包含在現有協議中的選項被啟用，因此從法律角度來看，...",
       "titleOrig": "Russell and Hamilton contract renewals reveal the Verstappen-McLaren rumours to be nonsense",
       "sourceUrl": "https://www.autosport.com/f1/news/george-russell-and-lewis-hamilton-contract-renewals-reveal-the-max-verstappen-mclaren-rumours-to-be/10836173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -402,9 +362,9 @@
       "publishedAt": "2026-07-04T20:23:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8171-b75a-f32b53dd4d42",
-      "titleZh": "F1 車手批評英國 GP 衝刺賽中的「危險」搖擺賽事",
-      "summaryZh": "「第一圈簡直是一片混亂，能量使用非常不穩定，」麥克拉倫的 Oscar Piastri 在週六於銀石賽道的衝刺賽中完成第七名後表示。「老實說，在某些時候相當危險，但這就是我們面對的情況……之後跟隨其他車輛的過程中，保持對車輛的掌控非常困難。」「有一些需要檢討的地方，這是肯定的，但在...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-812d-89e8-dce0b22b1a1e",
+      "titleZh": "F1 車手批評英國大獎賽衝刺賽中的‘危險’搖擺賽事",
+      "summaryZh": "“第一圈就充滿混亂，能量使用上非常困難，”麥克拉倫的 Oscar Piastri 在周六的衝刺賽中以第七名完賽後表示。“老實說，在某些時候相當危險，但這就是我們目前的狀況……之後跟隨其他車輛時，保持對車輛的掌控非常困難。“有一些問題需要檢視，但...”}",
       "titleOrig": "F1 drivers criticise ‘dangerous’ yo-yo racing in British GP sprint race",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-drivers-criticise-dangerous-yo-yo-racing-in-british-gp-sprint-race/10836223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -412,9 +372,9 @@
       "publishedAt": "2026-07-04T22:01:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8138-a412-d6e0b27f5ca1",
+      "notionPageId": "3986c3d3-6a7f-818f-a59e-ca3e13bc3977",
       "titleZh": "F1 英國大獎賽：Antonelli 拿下桿位，Russell 排在第四",
-      "summaryZh": "梅賽德斯車手 Kimi Antonelli 在英國大獎賽上奪得了2026年F1賽季的第五個桿位，擊敗了法拉利的 Charles Leclerc，當時銀石賽道陽光明媚，而 George Russell 則表現不佳。Antonelli 在 Q3 的第一次嘗試中有所提升，成功拿下自一個月前摩納哥大獎賽以來的首個桿位，這對他來說是一次急需的進步，因為 Leclerc 也找到了不少時間，奪得第二名。",
+      "summaryZh": "梅賽德斯車手 Kimi Antonelli 在英國大獎賽上奪下了他在 2026 年 F1 賽季的第五個桿位，在陽光明媚的銀石賽道上擊敗了法拉利的 Charles Leclerc，而 George Russell 則表現不佳，最終排在第四。Antonelli 在 Q3 的第一次計時中有所提升，成功拿下自一個月前摩納哥大獎賽以來的首個桿位，這對他來說是一次急需的進步，因為 Leclerc 也找到了時間，奪得第二名。",
       "titleOrig": "F1 British GP: Antonelli takes pole position, Russell down in fourth",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-british-gp-antonelli-takes-pole-position-russell-down-in-fourth/10836277/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -422,9 +382,9 @@
       "publishedAt": "2026-07-05T00:25:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-819e-ad6f-d4864543a816",
-      "titleZh": "沃爾夫：情緒化的瓦薇爾誤解了對法拉利的評論",
-      "summaryZh": "托托·沃爾夫認為「非常情緒化」的弗雷德·瓦薇爾未能正確解讀他對法拉利及其在2026年F1賽季升級的評論。這在英國大獎賽上成為一個持續發展的故事，因為沃爾夫上週末在奧地利透露，他對法拉利今年持續帶來升級的方式感到驚訝。",
+      "notionPageId": "3986c3d3-6a7f-818e-832d-d7cd9a95c696",
+      "titleZh": "沃爾夫：情緒化的瓦薩誤解了對法拉利的評論",
+      "summaryZh": "托托·沃爾夫認為「非常情緒化」的弗雷德·瓦薩未能正確解讀他對法拉利及其在2026年F1賽季升級的評論。這在英國大獎賽上成為一個持續發展的故事情節，因為沃爾夫在上週末的奧地利賽事中透露，他對法拉利今年持續帶來升級的方式感到驚訝。",
       "titleOrig": "Wolff: \"Emotional\" Vasseur misunderstood comments on Ferrari",
       "sourceUrl": "https://www.autosport.com/f1/news/wolff-emotional-vasseur-misunderstood-comments-on-ferrari/10836333/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -432,9 +392,9 @@
       "publishedAt": "2026-07-05T01:47:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ab-8bd4-eadc9ad23d52",
-      "titleZh": "「他們不應該再問我這個了」– 為什麼 Verstappen 不相信 Red Bull 會再度反彈",
-      "summaryZh": "在奧地利賽事中以第二名完賽後的一週——在那裡 Max Verstappen 甚至可能因為不同的策略而贏得比賽——這個週末的情況看起來相當黯淡。在 Silverstone 的排位賽中，Verstappen 遇到了動力單元的問題，但即使沒有這個問題，他也認為 Red Bull 只是缺乏與前方競爭的速度，因為他只能將 RB22 提升到...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-814b-b116-d23d87b3b700",
+      "titleZh": "「他們不應該再問我這個問題」– 為什麼 Verstappen 不相信 Red Bull 會再度反撲",
+      "summaryZh": "在奧地利賽事中以第二名完賽一週後——在那裡 Max Verstappen 可能還能透過不同策略獲勝——這個週末的情況看起來相當黯淡。在 Silverstone 的排位賽中，Verstappen 遭遇了動力單元的問題，但即使沒有這個問題，他也認為 Red Bull 根本缺乏與前方競爭的速度，因為他只能將 RB22 提升到...繼續閱讀",
       "titleOrig": "“They shouldn't ask me that anymore” – Why Verstappen doesn't believe in another Red Bull comeback",
       "sourceUrl": "https://www.autosport.com/f1/news/they-shouldnt-ask-me-that-anymore-why-verstappen-doesnt-believe-in-another-red-bull-comeback/10836448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -442,9 +402,9 @@
       "publishedAt": "2026-07-05T16:21:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8161-9fcf-e6f026b720a2",
+      "notionPageId": "3986c3d3-6a7f-8167-9745-e83f3b8422b8",
       "titleZh": "F1 將在暑假前決定恢復中東賽事",
-      "summaryZh": "F1 設定了暑假前的最後期限，以恢復其中一場被延期的中東賽事，仍然希望將巴林或沙烏地阿拉伯加入賽季行程。這兩場中東賽事在三月因美國和以色列對伊朗的攻擊而取消，近期持續的敵對行動使得系列賽必須制定應急計劃，以備賽季結束的賽事在卡塔爾和阿布達比出現問題。",
+      "summaryZh": "F1 設定了暑假前的截止日期，以恢復其中一場延期的中東賽事，仍然希望將巴林或沙烏地阿拉伯加入賽程。這兩場中東賽事在三月因美國和以色列對伊朗的攻擊而取消，最近幾個月的持續衝突使得賽事系列需要制定應急計畫，以防賽季結束的賽事在卡塔爾和阿布達比出現問題。",
       "titleOrig": "F1 to decide before summer break on recovering Middle Eastern race",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-to-decide-before-summer-break-on-recovering-middle-eastern-race/10836469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -452,9 +412,9 @@
       "publishedAt": "2026-07-05T16:49:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-819b-b70f-c80d21d7d2bf",
-      "titleZh": "F1 英國大獎賽：Leclerc 震驚 Mercedes 贏得冠軍，Antonelli 遇到麻煩",
-      "summaryZh": "Charles Leclerc 領先 George Russell 和 Lewis Hamilton 贏得英國大獎賽，而 F1 冠軍領跑者 Kimi Antonelli 則因為晚期的可靠性問題失去了第二名。Leclerc 在比賽開始時從桿位選手 Kimi Antonelli 手中奪走了領先，第三位發車的 Hamilton 也緊隨其後，跟隨他的 Ferrari 隊友。當 Leclerc 進行唯一一次進站時，Antonelli ...持續閱讀",
+      "notionPageId": "3986c3d3-6a7f-813b-9203-d487db4dcebd",
+      "titleZh": "F1 英國大獎賽：Leclerc 以勝利震驚 Mercedes，Antonelli 遇上麻煩",
+      "summaryZh": "Charles Leclerc 領先 George Russell 和 Lewis Hamilton 贏得英國大獎賽，而 F1 冠軍領跑者 Kimi Antonelli 在最後時刻因可靠性問題失去第二名。Leclerc 在比賽開始時從桿位選手 Kimi Antonelli 手中奪下領先，第三位發車的 Hamilton 也隨著他的 Ferrari 隊友而過去。當 Leclerc 進行唯一的進站時，Antonelli ... 繼續閱讀",
       "titleOrig": "F1 British GP: Leclerc shocks Mercedes with win as Antonelli hits trouble",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-british-gp-leclerc-shocks-mercedes-with-win-as-antonelli-hits-trouble/10836608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -462,9 +422,9 @@
       "publishedAt": "2026-07-05T23:53:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ff-95ed-da2470792e5f",
-      "titleZh": "漢密爾頓在英國大獎賽後被召喚，預計將失去頒獎台名額",
-      "summaryZh": "路易斯·漢密爾頓和一名法拉利車隊代表被英國大獎賽的裁判召喚，解釋可能違反F1黃旗規則的情況。國際汽車聯盟的召喚文件並未具體說明涉嫌違規的確切時間，儘管比賽控制在比賽期間表示，這涉及在 BST 時間 4:03:34 發生的事件。這是在奧迪車手尼科之後不久的事情。",
+      "notionPageId": "3986c3d3-6a7f-81b3-9dd3-c365854f5bfb",
+      "titleZh": "漢密爾頓在英國 GP 被傳喚，預期將失去頒獎台",
+      "summaryZh": "路易斯·漢密爾頓和一名法拉利車隊代表被英國大獎賽的裁判傳喚，解釋可能違反了F1的黃旗規定。國際汽聯的傳喚文件並未具體說明涉嫌違規的確切時間，不過比賽控制在比賽期間指出，這涉及到在 BST 時間 4:03:34 發生的事件。這是在奧迪車手尼科...之後不久。",
       "titleOrig": "Hamilton summoned after F1 British GP, expects to lose podium",
       "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-summoned-after-f1-british-gp-expects-to-lose-podium/10836640/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -472,9 +432,9 @@
       "publishedAt": "2026-07-06T00:36:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8133-ac50-ca6a2853208f",
-      "titleZh": "FIA 解釋 F1 英國大獎賽的安全車結束方式",
-      "summaryZh": "FIA 解釋了一個「軟體錯誤」導致了爭議性的 F1 英國大獎賽結束方式，安全車最初被召回進行最後一圈的對決，但隨後決定被撤回。在比賽還剩六圈時，Max Verstappen 發生碰撞，安全車被部署，這引發了 Silverstone 賽事的瘋狂結局。一旦 Verstappen 的 Red Bull 被拖回...",
+      "notionPageId": "3986c3d3-6a7f-819a-b469-ee82cc8b9a1b",
+      "titleZh": "FIA 解釋 F1 英國大獎賽的安全車結束",
+      "summaryZh": "FIA 解釋了一個「軟體錯誤」導致了爭議性的 F1 英國大獎賽結束，安全車最初被召回進行最後一圈的衝刺賽，隨後這一決定被推翻。在比賽還剩六圈時，Max Verstappen 發生撞車事故，安全車被部署，這引發了銀石賽道的緊張結局。一旦 Verstappen 的 Red Bull 被拖離賽道...",
       "titleOrig": "FIA explains safety car finish at F1 British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-explains-safety-car-finish-at-f1-british-gp/10836645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -482,9 +442,9 @@
       "publishedAt": "2026-07-06T00:43:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-811b-88f4-daa881e80602",
+      "notionPageId": "3986c3d3-6a7f-8177-85f5-cd4f63de3bc2",
       "titleZh": "Verstappen 對 Red Bull 問題感到厭倦，揭示英國 GP 事故原因",
-      "summaryZh": "英國大獎賽對 Red Bull F1 車手 Max Verstappen 來說變得特別奇怪。這位四屆世界冠軍表示，他仍在與動力單元和車輛平衡問題作鬥爭，儘管面臨這些困難，他在事故發生前似乎正朝著本賽季第三次頒獎台的方向前進。在排位賽後，Verstappen 呼籲 Red Bull 更換動力單元。",
+      "summaryZh": "英國大獎賽對 Red Bull F1 車手 Max Verstappen 來說變得特別奇怪。這位四屆世界冠軍表示，他仍在與動力單元和車輛平衡問題作鬥爭，儘管面臨這些問題，他看似有望在本賽季獲得第三個頒獎台名次，但最終卻發生了事故。在排位賽後，Verstappen 呼籲 Red Bull 更換動力單元。",
       "titleOrig": "Verstappen \"fed up\" with Red Bull issues as he reveals cause of British GP crash",
       "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-fed-up-with-red-bull-issues-as-he-reveals-cause-of-british-gp-crash/10836707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -492,9 +452,9 @@
       "publishedAt": "2026-07-06T01:58:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81a1-b8ed-d72a370e506e",
-      "titleZh": "漢密爾頓逃過黃旗處罰 保住英國大獎賽頒獎台",
-      "summaryZh": "路易斯·漢密爾頓在F1英國大獎賽中保持第三名，因為他因黃旗違規僅受到警告。漢密爾頓因在銀石賽道的黃旗區域內超速，經過停在那裡的尼科·霍肯堡的奧迪而被FIA賽事裁判調查。視頻證據顯示，漢密爾頓在第9彎進入黃旗區域時...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-8117-9e8e-d5b97bdc3627",
+      "titleZh": "漢密爾頓在逃過黃旗處罰後保住英國GP頒獎台",
+      "summaryZh": "路易斯·漢密爾頓在F1英國大獎賽中保住第三名，因為他因黃旗違規僅受到警告。漢密爾頓因在銀石賽道的黃旗區域內超速，經過停擺的尼科·霍肯堡的奧迪而受到FIA賽事裁判的調查。視頻證據顯示，漢密爾頓在第9彎進入黃旗區域時...持續閱讀",
       "titleOrig": "Hamilton keeps British GP podium after escaping yellow-flag sanction",
       "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-keeps-british-gp-podium-after-escaping-yellow-flag-sanction/10836714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -502,9 +462,9 @@
       "publishedAt": "2026-07-06T02:01:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-814c-8393-f2091bf34ee2",
-      "titleZh": "為什麼梅賽德斯不會對安東內利在英國大獎賽的賽道限制罰款提出異議",
-      "summaryZh": "梅賽德斯不會對基米·安東內利在英國大獎賽的五秒罰款提出異議，因為這位F1冠軍領跑者最終未能進入得分區。在銀石賽道，安東內利當時位居第二，並且在輪胎壽命上對領跑的查爾斯·勒克萊爾有明顯優勢，但這位意大利車手開始遭遇梅賽德斯W17的嚴重操控問題。團隊兩次召喚安東內利進站以嘗試解決...",
+      "notionPageId": "3986c3d3-6a7f-818f-b75e-ec342c288e17",
+      "titleZh": "為什麼梅賽德斯不會對安東內利在英國大獎賽的賽道限制處罰提出上訴",
+      "summaryZh": "梅賽德斯不會對基米·安東內利在英國大獎賽的五秒處罰提出上訴，因為這位F1冠軍領跑者最終未能進入得分區。在銀石賽道，安東內利當時排名第二，並且在輪胎壽命上對領跑的查爾斯·勒克萊爾有明顯優勢，但隨後他開始出現嚴重的操控問題，導致梅賽德斯W17的表現受損。車隊兩次召回安東內利以嘗試解決問題...",
       "titleOrig": "Why Mercedes won't contest Antonelli's British GP track limits penalty",
       "sourceUrl": "https://www.autosport.com/f1/news/mercedes-wont-contest-kimi-antonellis-british-gp-track-limits-penalty/10836732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -512,9 +472,9 @@
       "publishedAt": "2026-07-06T02:33:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8187-bd3e-e0dc3ee50145",
-      "titleZh": "為何 Verstappen 在另一個「超危險」的翼片故障後「生氣是對的」",
-      "summaryZh": "Max Verstappen 在英國大獎賽後提出了一連串的抱怨，當時他的 Red Bull 在比賽剩下六圈時於 Stowe 角落失控衝入砂石區。儘管在此期間面臨著操控平衡不佳、電力部署和變速箱問題的挑戰，Verstappen 當時仍在爭奪第三名。賽後，他表達了自己的挫折感，不僅因為翼片故障而感到不滿……",
+      "notionPageId": "3986c3d3-6a7f-813a-82e1-fd40cd68ba61",
+      "titleZh": "為何 Verstappen 在另一個「超危險」的翼故障後「生氣是對的」",
+      "summaryZh": "Max Verstappen 在英國大獎賽後提出了一連串的抱怨，當時他的 Red Bull 在比賽剩下六圈時於 Stowe 角落失控衝入砂石區。儘管在此之前他一直在爭奪第三名，但卻面臨著處理平衡不佳、電力部署和變速箱問題的挑戰。賽後，他表達了自己的挫折感，不僅是對於翼故障的失望...",
       "titleOrig": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
       "sourceUrl": "https://www.autosport.com/f1/news/why-verstappen-is-right-to-be-angry-after-another-super-dangerous-wing-failure/10836765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -522,9 +482,9 @@
       "publishedAt": "2026-07-06T03:40:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8165-bfcf-e38e7fa10472",
-      "titleZh": "賽恩斯在 F1 英國大獎賽後遭到前所未有的懲罰",
-      "summaryZh": "卡洛斯·賽恩斯在 2026 年英國大獎賽後遭到罕見的懲罰，因為威廉斯 F1 車手在最後的安全車階段錯誤地解圈。第 46 圈，馬克斯·維斯塔潘在斯托韋發生碰撞，導致週日的銀石賽事在最後六圈內以安全車條件進行，查爾斯·勒克萊爾為法拉利贏得比賽。但他的前隊友卻遭遇了更大的麻煩。",
+      "notionPageId": "3986c3d3-6a7f-8176-ba99-fc7461044fd6",
+      "titleZh": "Sainz 在 F1 英國大獎賽後遭遇前所未有的懲罰",
+      "summaryZh": "Carlos Sainz 在 2026 年英國大獎賽後遭遇罕見的懲罰，原因是 Williams 車手在最後的安全車期間錯誤地解圈。第 46 圈，Max Verstappen 在 Stowe 發生碰撞，導致週日的 Silverstone 比賽在最後六圈內都在安全車條件下進行，最終 Charles Leclerc 為 Ferrari 贏得比賽。但他的前隊友卻遭遇了更大的麻煩...",
       "titleOrig": "Sainz handed unprecedented penalty after F1 British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/carlos-sainz-handed-unprecedented-penalty-after-f1-british-gp/10836835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -532,9 +492,9 @@
       "publishedAt": "2026-07-06T13:04:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8166-a665-ca1ca15e2abd",
+      "notionPageId": "3986c3d3-6a7f-8169-9ac5-f5a491946c53",
       "titleZh": "沃爾夫：我希望2021年阿布達比的處理方式能像F1英國大獎賽一樣",
-      "summaryZh": "英國大獎賽在安全車後結束，讓許多在銀石的車迷感到失望。看台上響起了嘲諷的聲音，儘管部分反應是由於溝通錯誤所引起。計時屏幕短暫顯示了「安全車結束」的訊息，但這後來被證實為錯誤。國際汽車聯合會隨後澄清，該訊息本不應出現。",
+      "summaryZh": "英國大獎賽在安全車後結束，讓許多在銀石的球迷感到失望。看台上響起了嘘聲，雖然部分反應是由於溝通錯誤所引起。計時屏幕短暫顯示了「安全車結束」的訊息，但這後來證明是錯誤的。國際汽車聯合會隨後澄清，該訊息根本不應該出現...繼續閱讀",
       "titleOrig": "Wolff: I wish Abu Dhabi 2021 had been handled like the F1 British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/toto-wolff-i-wish-abu-dhabi-2021-had-been-handled-like-the-f1-british-gp/10836909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -542,9 +502,9 @@
       "publishedAt": "2026-07-06T18:08:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8125-a196-e9755e685136",
+      "notionPageId": "3986c3d3-6a7f-81c2-9314-e564d926c297",
       "titleZh": "梅賽德斯在排位賽中獲得優勢的巧妙電氣技巧",
-      "summaryZh": "在英國大獎賽週末的兩場排位賽中，有一個引人注目的細節引起了注意：兩位梅賽德斯車手在過終點線前幾米完全放開油門。這種行為並不尋常，因為車手通常會試圖在油門全開的情況下過線，以榨取每一分每一秒。儘管看似矛盾，但這...繼續閱讀",
+      "summaryZh": "在英國大獎賽週末的兩場排位賽中，有一個引人注目的細節引起了注意：兩位梅賽德斯車手在過終點線前幾米處完全放開油門。這種行為不尋常，因為車手通常會試圖在油門全開的情況下過線，以榨取每一分每一秒。儘管看似矛盾，但這...繼續閱讀",
       "titleOrig": "The clever electrical trick that gives Mercedes an edge in qualifying",
       "sourceUrl": "https://www.autosport.com/f1/news/the-clever-electrical-trick-that-gives-mercedes-an-edge-in-qualifying/10837016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -552,9 +512,9 @@
       "publishedAt": "2026-07-06T22:52:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81a0-83fa-f85722a059da",
+      "notionPageId": "3986c3d3-6a7f-8199-a09f-e24754c0e31d",
       "titleZh": "F1 可能在 2031 年停止使用客戶動力單元",
-      "summaryZh": "國際汽車聯盟（FIA），F1 的管理機構，正在考慮從 2031 年起為客戶車隊提供第三方引擎供應，因為該系列賽似乎將轉向更便宜的 V8 動力單元。FIA 會長 Mohammed Ben Sulayem 和 F1 總裁 Stefano Domenicali 一直支持該系列賽在下一個規則週期中轉向更便宜、更輕、更響亮的動力單元，這一週期應該在 2031 年開始。",
+      "summaryZh": "國際汽車聯盟（FIA），F1 的管理機構，正在考慮從 2031 年起為客戶車隊提供第三方引擎供應，因為該系列賽看起來將轉向更便宜的 V8 動力單元。FIA 會長 Mohammed Ben Sulayem 和 F1 首席執行官 Stefano Domenicali 一直支持該系列賽在下一個規則週期中轉向更便宜、更輕、更響亮的動力單元，該週期應該在 2031 年開始。",
       "titleOrig": "F1 could move away from customer power units in 2031",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-could-move-away-from-customer-power-units-in-2031/10837045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -562,9 +522,9 @@
       "publishedAt": "2026-07-07T01:21:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8162-9821-da5d2feb9534",
+      "notionPageId": "3986c3d3-6a7f-81fe-b659-e5111ba2416a",
       "titleZh": "紅牛調查Verstappen的後翼故障，Spa賽事「所有選項皆開放」",
-      "summaryZh": "在連續第二個比賽週末中，Max Verstappen因為紅牛的後翼問題而發生碰撞，儘管這位四屆世界冠軍立即強調這兩起故障是由不同問題造成的。Verstappen解釋道：「可以說是不同的故障，但結果相同。」在斯皮爾堡的碰撞後，Verstappen在Q3結束時出局，紅牛表示...持續關注。",
+      "summaryZh": "在連續第二個比賽週末中，Max Verstappen因紅牛的後翼問題而撞車，儘管這位四屆世界冠軍立即強調這兩次故障是由不同的問題造成的。Verstappen解釋道：「可以說是不同的故障，但結果相同。」在斯皮爾堡的撞車事件後，Verstappen在Q3結束時失控，紅牛表示他們...持續關注。",
       "titleOrig": "Red Bull investigates Verstappen’s rear wing failure, “all options open” for Spa",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-investigates-max-verstappens-rear-wing-failure-all-options-open-for-spa/10837118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -572,9 +532,9 @@
       "publishedAt": "2026-07-07T17:34:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8103-a6c6-d3ce2f59b168",
-      "titleZh": "為什麼 Vasseur 不想談論 Ferrari 的冠軍之爭",
-      "summaryZh": "Ferrari F1 車隊負責人 Fred Vasseur 表示，由於車隊表現起伏不定，他不想聽到 Scuderia 的冠軍機會。西班牙的一次大型升級包讓車隊在巴塞隆納大獎賽中意外獲勝，這也是 Lewis Hamilton 在紅色車隊的首勝。而在上週末的英國大獎賽中，他的隊友 Charles Leclerc 也終於打開得分帳，從艱難的情況中反彈過來。",
+      "notionPageId": "3986c3d3-6a7f-81d5-86c1-f925cf1cea05",
+      "titleZh": "為什麼 Vasseur 不想談論 Ferrari 的冠軍爭奪戰",
+      "summaryZh": "Ferrari F1 車隊負責人 Fred Vasseur 表示，考慮到車隊表現起伏不定，他不想聽到 Scuderia 的冠軍機會。西班牙的大規模升級包讓車隊在巴塞隆納大獎賽中意外獲勝，這也是 Lewis Hamilton 首次以紅色車隊的身份登上頒獎台。而在上週末的英國大獎賽中，他的隊友 Charles Leclerc 也終於打開得分帳，從艱難的情況中反彈過來。",
       "titleOrig": "Why Vasseur doesn't want to talk about a Ferrari title fight",
       "sourceUrl": "https://www.autosport.com/f1/news/fred-vasseur-dismisses-ferrari-f1-title-talk-lets-focus-on-spa/10837169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -582,9 +542,9 @@
       "publishedAt": "2026-07-07T20:29:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81a7-9b5d-ddc89d162d2a",
-      "titleZh": "英國大獎賽的結局是否應該改變 F1 安全車規則？",
-      "summaryZh": "2026 年的 F1 英國大獎賽以非常平淡的結局收場，車手們在安全車條件下越過終點線，這引發了銀石賽道觀眾的嘲諷聲。這一切發生在 Max Verstappen 在比賽還剩六圈時於 Stowe 失控撞車，當他的 Red Bull 被清理後，賽事控制依照標準程序允許車輛自行解圈。那些車輛是...繼續閱讀",
+      "notionPageId": "3986c3d3-6a7f-819e-835c-e9ded8816a98",
+      "titleZh": "英國大獎賽結束是否應該改變 F1 安全車規則？",
+      "summaryZh": "2026 年 F1 英國大獎賽以非常平淡的方式結束，車手們在安全車條件下越過終點線，這引發了銀石賽道觀眾的嘲諷聲。這一切發生在 Max Verstappen 在比賽剩下六圈時於 Stowe 失控撞車，當他的 Red Bull 被清理後，賽事控制按照標準程序允許其他車輛解除圈數限制。那些車輛是...繼續閱讀",
       "titleOrig": "Should the British GP ending cause a change in F1 safety car rules?",
       "sourceUrl": "https://www.autosport.com/f1/news/should-the-british-gp-ending-cause-a-change-in-f1-safety-car-rules/10837212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -592,9 +552,9 @@
       "publishedAt": "2026-07-07T22:15:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81fd-a806-d1948faf0d63",
+      "notionPageId": "3986c3d3-6a7f-8102-989f-d2c05801173b",
       "titleZh": "影響 Hamilton 英國大獎賽的賽前調整",
-      "summaryZh": "法拉利在英國大獎賽的週末開始時並不樂觀，工程師估計在直道上與 F1 霸主梅賽德斯的差距可能達到六十分之一。但隨後情況出現了完全意想不到的轉變，甚至讓車手們感到驚訝，路易斯·漢密爾頓上週五在衝刺賽中意外奪得桿位。儘管最終勝利歸屬於梅賽德斯...",
+      "summaryZh": "法拉利在英國大獎賽的週末開始時並不樂觀，工程師估計在直道上可能落後於 F1 的主導車隊梅賽德斯六十分之一秒。但隨後情況出現了完全意想不到的轉變，甚至讓車手們感到驚訝，路易斯·漢密爾頓上週五在衝刺賽中意外奪得桿位。儘管最終勝利屬於梅賽德斯……",
       "titleOrig": "The pre-race tweak that hampered Hamilton's British GP",
       "sourceUrl": "https://www.autosport.com/f1/news/the-pre-race-tweak-that-hampered-lewis-hamiltons-british-gp/10837237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -602,209 +562,179 @@
       "publishedAt": "2026-07-08T00:14:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81e2-810a-d0f2d73e153c",
-      "titleZh": "Adrian Newey 在英國大獎賽檢查 Red Bull RB22",
-      "summaryZh": "Adrian Newey 上週末在銀石賽道忙碌不已。",
-      "titleOrig": "Adrian Newey holds Red Bull RB22 inspection at British Grand Prix",
-      "sourceUrl": "https://www.planetf1.com/news/adrian-newey-red-bull-rb22-british-grand-prix-2026",
+      "notionPageId": "3986c3d3-6a7f-8115-a168-fe7c1346e67d",
+      "titleZh": "FIA 正在調查 Red Bull 和 Ferrari 的旋轉 F1 翼",
+      "summaryZh": "在 Red Bull 對 Max Verstappen 的 Silverstone 事故展開調查後，車隊負責人 Laurent Mekies 強調將不遺餘力，FIA 也要求提供更多資訊。據 Autosport 獲悉，這個監管機構已聯繫 Ferrari 和 Red Bull，詢問有關他們的旋轉後翼，這些翼被稱為 'Macarena wing' ...持續關注",
+      "titleOrig": "FIA looking into Red Bull and Ferrari's rotating F1 wings after Verstappen crashes",
+      "sourceUrl": "https://www.autosport.com/f1/news/fia-looking-into-red-bull-and-ferraris-rotating-f1-wings-after-max-verstappens-crashes/10837335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-07-08T16:20:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-814f-979f-e3fe1a2f2a3d",
+      "titleZh": "更技術性的 F1 2026 規則如何阻礙客戶車隊",
+      "summaryZh": "國際汽聯保證客戶方的 F1 車隊能夠獲得與官方車隊相同的動力單元規格，但 2026 系統的複雜性使得經驗變得至關重要。在 McLaren 與其引擎合作夥伴 Mercedes 的案例中，真正的差異不再在於硬體，而在於如何有效地利用這些資源。在 F1 的歷史中，成為一支...持續閱讀",
+      "titleOrig": "How the more technical F1 2026 regulations hinder customer teams",
+      "sourceUrl": "https://www.autosport.com/f1/news/how-the-more-technical-f1-2026-regulations-hinder-customer-teams/10837358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-07-08T19:07:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-8162-af52-f4e1f0d6c07e",
+      "titleZh": "勒克萊爾自加入 Ferrari 以來首次更改方向盤軟體",
+      "summaryZh": "上週末的英國大獎賽勝利對查爾斯·勒克萊爾來說幾乎是一種解脫，他一直在尋找在衝刺賽後引入的設置變更的答案，以努力找回他在 SF‑26 上失去的感覺。這場勝利的意義遠比他在頒獎台上的微笑所暗示的更深遠，因為他的目光落在一座幾乎因艱難的幾週而沉重的獎盃上……繼續閱讀",
+      "titleOrig": "How Leclerc has changed his steering wheel software for the first time since joining Ferrari",
+      "sourceUrl": "https://www.autosport.com/f1/news/how-charles-leclerc-has-changed-his-steering-wheel-software-for-the-first-time-since-joining-ferrari/10837406/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-07-08T23:40:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-81a1-ac82-c708fbbb05e8",
+      "titleZh": "為何 Red Bull 和 Verstappen 在 Silverstone 遇到困難 – 以及在 Spa 也預期會如此",
+      "summaryZh": "儘管 Red Bull 在最初的內燃機排名中名列前茅，這部分是因為各個製造商在 2026 年開幕的 F1 比賽中選擇運行其動力單元的方式，但這家新進車隊在電力方面似乎仍然有所欠缺。根據 Max Verstappen 的說法，這在能量匱乏的賽道上尤為明顯，因為能量管理在這些賽道上扮演著重要角色。",
+      "titleOrig": "Why Red Bull and Verstappen struggled at Silverstone – and expect the same at Spa",
+      "sourceUrl": "https://www.autosport.com/f1/news/why-red-bull-and-max-verstappen-struggled-at-silverstone-and-expect-the-same-at-spa/10837433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-07-09T00:32:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-81f7-a5ec-e1bf73f879e0",
+      "titleZh": "馬蒂亞·比諾托在英國大獎賽檢查紅牛 RB22",
+      "summaryZh": "阿德里安·紐維並不是在銀石賽道上唯一活躍的車隊負責人。",
+      "titleOrig": "Mattia Binotto holds Red Bull RB22 inspection at British Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/mattia-binotto-red-bull-rb22-british-grand-prix-2026-investigation",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T13:03:00.000+08:00"
+      "publishedAt": "2026-07-08T13:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-814f-874d-d49499b1d830",
-      "titleZh": "法拉利確認路易斯·漢密爾頓在 FIA 嚴厲處罰後的調查結果",
-      "summaryZh": "路易斯·漢密爾頓在銀石賽道遭到五秒鐘的懲罰。",
-      "titleOrig": "Ferrari confirms Lewis Hamilton findings after ‘harsh’ FIA punishment",
-      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-british-grand-prix-2026-penalty",
+      "notionPageId": "3986c3d3-6a7f-81ce-9b72-c1bd6194748d",
+      "titleZh": "費爾南多·阿隆索回應「非常重要」的阿德里安·紐維聲明",
+      "summaryZh": "「我不能說這真的有關聯...」",
+      "titleOrig": "Fernando Alonso responds after ‘very important’ Adrian Newey claim",
+      "sourceUrl": "https://www.planetf1.com/news/adrian-newey-fernando-alonso-aston-martin-amr26-upgrade",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T14:00:00.000+08:00"
+      "publishedAt": "2026-07-08T14:02:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8135-aed3-ea2a55253e44",
-      "titleZh": "麥克拉倫被問及馬克斯·維斯塔潘 隨著 F1 2027 論壇升溫",
-      "summaryZh": "最近幾週，馬克斯·維斯塔潘與麥克拉倫的轉會傳聞愈演愈烈。",
-      "titleOrig": "McLaren grilled on Max Verstappen as F1 2027 rumours enter overdrive",
-      "sourceUrl": "https://www.planetf1.com/news/mclaren-max-verstappen-zak-brown-f1-2027-rumours",
+      "notionPageId": "3986c3d3-6a7f-81e2-920c-ff24092a551f",
+      "titleZh": "McLaren 公布縮小與 Mercedes 和 Ferrari 差距的重大升級時間表",
+      "summaryZh": "McLaren 在賽季初期表現不佳，仍有許多進步空間。",
+      "titleOrig": "McLaren reveal timeline to ‘close the gap’ to Mercedes and Ferrari with major upgrades",
+      "sourceUrl": "https://www.planetf1.com/news/mclaren-reveal-timeline-close-the-gap-mercedes-ferrari-major-upgrades",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T14:13:00.000+08:00"
+      "publishedAt": "2026-07-08T14:58:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-816e-becb-e5dff63746f6",
-      "titleZh": "‘可怕’ – 英國大獎賽後未播出的 Max Verstappen 團隊無線電",
-      "summaryZh": "‘我們在這種廢話上浪費了太多時間！’",
-      "titleOrig": "‘Horrendous’ – Untelevised Max Verstappen team radio after troubled British GP",
-      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-british-grand-prix-2026-team-radio",
+      "notionPageId": "3986c3d3-6a7f-8133-8dce-ffedb0bd0903",
+      "titleZh": "Lewis Hamilton 預測梅賽德斯將面臨罰款，因為可靠性趨勢令人擔憂",
+      "summaryZh": "'我相信在某個時候一定會有罰款...'",
+      "titleOrig": "Lewis Hamilton predicts Mercedes penalties after worrying reliability trend",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-predicts-mercedes-penalties-after-worrying-reliability-trend",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T15:29:00.000+08:00"
+      "publishedAt": "2026-07-08T15:54:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8146-b742-c10a21b8b608",
-      "titleZh": "喬治·拉塞爾承認基米·安東內利在「正確」的積分差距上「做得更好」",
-      "summaryZh": "喬治·拉塞爾在銀石賽道縮小了與基米·安東內利的積分差距，但仍然有相當大的差距。",
-      "titleOrig": "George Russell admits Kimi Antonelli ‘done a better job’ for ‘correct’ points deficit",
-      "sourceUrl": "https://www.planetf1.com/news/george-russell-kimi-antonelli-british-grand-prix-2026-admission",
+      "notionPageId": "3986c3d3-6a7f-8132-8d73-d5999dd9f15f",
+      "titleZh": "F1 安全車爭議再度升溫，Button 和 Brundle 提出不同解決方案",
+      "summaryZh": "英國大獎賽的結束再次引發了對 F1 安全車規則的討論。『阿布達比 2021 誰還記得？』",
+      "titleOrig": "F1 Safety Car controversy reignited as Button and Brundle propose different fixes",
+      "sourceUrl": "https://www.planetf1.com/news/f1-safety-car-rules-jenson-button-martin-brundle-fix",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T16:27:00.000+08:00"
+      "publishedAt": "2026-07-08T16:44:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8137-a868-d14755efe58f",
-      "titleZh": "Fernando Alonso 對神秘的形成圈故障「無法回答」",
-      "summaryZh": "Fernando Alonso 的賽車在形成圈時停下，讓他看起來在比賽開始前就已經結束了。",
-      "titleOrig": "Fernando Alonso has ‘no answer’ behind mystery formation lap breakdown",
-      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-no-answer-behind-mystery-formation-lap-breakdown",
+      "notionPageId": "3986c3d3-6a7f-8160-8111-d106ce8e971d",
+      "titleZh": "最後一輛由 Adrian Newey 設計的 Red Bull 將於 Goodwood 首秀",
+      "summaryZh": "Adrian Newey 將再次駕駛他設計的賽車，出現在 Goodwood。",
+      "titleOrig": "Final Adrian Newey-designed Red Bull set for Goodwood debut",
+      "sourceUrl": "https://www.planetf1.com/news/red-bull-rb17-debut-goodwood-festival-of-speed",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T17:00:00.000+08:00"
+      "publishedAt": "2026-07-08T16:59:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-819e-ba66-e092098ca6a0",
-      "titleZh": "Red Bull 總裁對 Max Verstappen 不滿的反應：承認感到失望",
-      "summaryZh": "Max Verstappen 在 Stowe 失控，當時他正朝著今年的第三座頒獎台邁進。",
-      "titleOrig": "Red Bull boss reacts to Max Verstappen unhappiness in ‘let down’ admission",
-      "sourceUrl": "https://www.planetf1.com/news/red-bull-boss-reacts-max-verstappen-unhappiness-let-down-admission",
+      "notionPageId": "3986c3d3-6a7f-81d1-b7b1-f7569201257f",
+      "titleZh": "聰明的 Lando Norris 想法在未播出的 McLaren 團隊無線電中被駁回",
+      "summaryZh": "Lando Norris：'真可惜。'",
+      "titleOrig": "Clever Lando Norris idea shut down in untelevised McLaren team radio",
+      "sourceUrl": "https://www.planetf1.com/news/lando-norris-mclaren-british-grand-prix-2026-team-radio",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T18:00:00.000+08:00"
+      "publishedAt": "2026-07-08T18:40:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8165-8653-f5f9faac98bf",
-      "titleZh": "穆罕默德·本·蘇萊姆提議恢復加油及獨立FIA引擎供應",
-      "summaryZh": "FIA主席在英國大獎賽週末提出了他的提議，並談及F1引擎的未來。",
-      "titleOrig": "Mohammed Ben Sulayem proposes refuelling return and independent FIA engine supply",
-      "sourceUrl": "https://www.planetf1.com/news/mohammed-ben-sulayem-proposes-refuelling-return-independent-fia-engine-supply",
+      "notionPageId": "3986c3d3-6a7f-811c-9512-c27ad41f76bd",
+      "titleZh": "為什麼 Red Bull 拒絕了 Max Verstappen 在英國大獎賽的請求",
+      "summaryZh": "Max Verstappen：'我們應該就照我昨天所說的去做。'",
+      "titleOrig": "Why Red Bull denied Max Verstappen’s request at British Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-red-bull-british-grand-prix-2026-request",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T19:00:00.000+08:00"
+      "publishedAt": "2026-07-08T19:32:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81cf-a6d9-ed2debf622be",
-      "titleZh": "Carlos Sainz 擔心 Williams 存在「嚴重問題」，發展擔憂加劇",
-      "summaryZh": "Carlos Sainz 在最近四場比賽中都未能進入得分區。",
-      "titleOrig": "Carlos Sainz fears Williams has ‘serious issues’ as development concerns grow",
-      "sourceUrl": "https://www.planetf1.com/news/carlos-sainz-williams-serious-issues-upgrades",
+      "notionPageId": "3986c3d3-6a7f-81ec-a3eb-f4dc8a1d8eb0",
+      "titleZh": "未播出的 George Russell 與 Toto Wolff 在英國大獎賽後的無線電對話",
+      "summaryZh": "George Russell：'還沒結束，Toto。'",
+      "titleOrig": "Untelevised George Russell, Toto Wolff team radio exchange after British Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/george-russell-toto-wolff-british-grand-prix-2026-team-radio",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T19:52:00.000+08:00"
+      "publishedAt": "2026-07-08T19:45:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8118-8edf-e67534e554e0",
-      "titleZh": "Fred Vasseur 在 Charles Leclerc 英國大獎賽獲勝後向 Ferrari 提出請求",
-      "summaryZh": "在最近三場比賽中取得兩場勝利，但 Fred Vasseur 不希望大家對 Ferrari 的機會過於樂觀。",
-      "titleOrig": "Fred Vasseur makes Ferrari request after Charles Leclerc British GP win",
-      "sourceUrl": "https://www.planetf1.com/news/fred-vasseur-makes-ferrari-request-charles-leclerc-british-gp-win",
+      "notionPageId": "3986c3d3-6a7f-810b-b092-c53fd9076a75",
+      "titleZh": "F1 衝刺賽有增設的可能性，Domenicali 告訴粉絲們「敬請期待」",
+      "summaryZh": "Stefano Domenicali 告訴粉絲們要關注 2027 年的賽季日曆。",
+      "titleOrig": "F1 Sprint increase in the offing as Domenicali tells fans ‘stay tuned’",
+      "sourceUrl": "https://www.planetf1.com/news/f1-sprint-increase-stefano-domenicali-hint",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T21:00:00.000+08:00"
+      "publishedAt": "2026-07-08T20:48:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81f9-899e-f9753d65daea",
-      "titleZh": "Max Verstappen 接近傳聞中的 McLaren 決定，傳出將離開 Red Bull",
-      "summaryZh": "PlanetF1.com 獲悉，隨著 Verstappen 考慮啟動他的 Red Bull 逃脫條款，談判已經顯著進展...",
-      "titleOrig": "Max Verstappen closes in on alleged McLaren decision in rumoured Red Bull exit",
-      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-mclaren-move-red-bull-exit-clause-contract-talks",
+      "notionPageId": "3986c3d3-6a7f-819a-ac5d-c77b0996ce6f",
+      "titleZh": "一項邁克爾·舒馬赫的特質可能改變基米·安東內利",
+      "summaryZh": "銀石賽道突顯了基米·安東內利在某一方面仍有進步的空間。",
+      "titleOrig": "One Michael Schumacher trait could transform Kimi Antonelli",
+      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-michael-schumacher-skill-british-grand-prix-otmar-szafnauer",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-07T21:51:00.000+08:00"
+      "publishedAt": "2026-07-08T22:15:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81fc-857f-ee911c0e367b",
-      "titleZh": "FIA 標記首個年度反對網路霸凌日",
-      "summaryZh": "FIA 正在尋求對抗網路霸凌的行動。",
-      "titleOrig": "FIA marks first annual United Against Online Abuse Day",
-      "sourceUrl": "https://www.planetf1.com/news/fia-united-against-online-abuse-day",
+      "notionPageId": "3986c3d3-6a7f-818d-a01b-e6ecb6f8b2b7",
+      "titleZh": "Liam Lawson 被詢問 F1 未來，新的 Red Bull 人才浮現",
+      "summaryZh": "Liam Lawson 在 Racing Bulls 擁有穩定的賽季，但一名 Red Bull 青年車手也在 Formula 2 中展現實力。",
+      "titleOrig": "Liam Lawson quizzed on F1 future as new Red Bull talent emerges",
+      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-f1-future-update-2027-campaign",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-08T00:23:00.000+08:00"
+      "publishedAt": "2026-07-09T01:02:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8142-958f-e933904cc33b",
-      "titleZh": "揭露：英國大獎賽後 Lawson 與 Lindblad 的隊伍無線電消息背後的真相",
-      "summaryZh": "情況已經得到澄清。",
-      "titleOrig": "Revealed: The truth behind Lawson, Lindblad moment after British GP team radio messages",
-      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-arvid-lindblad-british-grand-prix-2026-team-radio",
+      "notionPageId": "3986c3d3-6a7f-8136-bc9d-c35fc1ce0750",
+      "titleZh": "Adrian Newey 將駕駛 Red Bull RB17；Mekies 揭露被拒絕的 Verstappen 請求 – 總覽",
+      "summaryZh": "星期三的 F1 快訊如火如荼，快馬加鞭！",
+      "titleOrig": "Adrian Newey to drive Red Bull RB17; Mekies lifts lid on denied Verstappen request – roundup",
+      "sourceUrl": "https://www.planetf1.com/news/adrian-newey-british-grand-prix-2026-annoucement",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-07-08T01:00:00.000+08:00"
+      "publishedAt": "2026-07-09T02:03:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-813c-8e02-e5caff1598a7",
-      "titleZh": "Verstappen 轉會 McLaren 的傳聞加劇，Red Bull 對 Silverstone 事故做出反應 – F1 新聞總覽",
-      "summaryZh": "讓我們回顧今天所有的 F1 新聞。",
-      "titleOrig": "Verstappen to McLaren rumours intensify as Red Bull react to Silverstone crash – F1 news round-up",
-      "sourceUrl": "https://www.planetf1.com/news/verstappen-to-mclaren-rumours-intensify-red-bull",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-07-08T02:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8105-abe1-f2cd4cc3b3ce",
-      "titleZh": "為何 Hamilton 避免了他預期會受到的英國 GP 處罰",
-      "summaryZh": "Lewis Hamilton 保住了他的英國 GP 頒獎台，儘管他原本預期會失去，因為他僅因違反黃旗規則而受到警告。",
-      "titleOrig": "Why Hamilton avoided British GP penalty he expected to get",
-      "sourceUrl": "https://www.the-race.com/formula-1/lewis-hamilton-keeps-british-gp-f1-podium-yellow-flag-infringement/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-07-06T01:54:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8178-89da-ceb05bb85db7",
-      "titleZh": "梅賽德斯不會挑戰安東內利的罰款",
-      "summaryZh": "梅賽德斯不會試圖推翻基米·安東內利在F1英國大獎賽中因超出賽道限制而受到的罰款，這使他失去了兩個積分。",
-      "titleOrig": "Mercedes won't challenge Antonelli penalty",
-      "sourceUrl": "https://www.the-race.com/formula-1/mercedes-wont-challenge-antonelli-penalty-f1-british-grand-prix/",
-      "sourceName": "The Race",
-      "author": "Josh Suttill",
-      "publishedAt": "2026-07-06T02:59:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-81e4-b3cb-c8fb1656d2d7",
-      "titleZh": "F1 2026 英國大獎賽的贏家與輸家",
-      "summaryZh": "我們從在 Silverstone 突然結束的 F1 英國大獎賽中總結出的贏家與輸家。",
-      "titleOrig": "Winners and losers from F1's 2026 British Grand Prix",
-      "sourceUrl": "https://www.the-race.com/formula-1/winners-and-losers-from-f1s-2026-british-grand-prix/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-07-06T03:24:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8101-a49c-f7bafe4b28da",
-      "titleZh": "‘懲罰圈’? F1 2026 年最奇怪的懲罰解析",
-      "summaryZh": "Williams F1 車手 Carlos Sainz 在英國大獎賽後因為在安全車條件下發生的一連串不尋常事件，被評估為罕見的一圈懲罰。",
-      "titleOrig": "'Penalty lap'? F1's weirdest penalty of 2026 explained",
-      "sourceUrl": "https://www.the-race.com/formula-1/penalty-lap-f1s-weirdest-penalty-of-2026-explained/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-07-06T04:33:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-8177-bee7-cea0c949caeb",
-      "titleZh": "紅牛可能在斯帕停用特殊翼",
-      "summaryZh": "紅牛並未排除在連續兩場比賽中發生第二次後翼故障後，回撤其「倒置」或稱「麥卡倫舞」的後翼設計。",
-      "titleOrig": "Red Bull could park trick wing for Spa after Verstappen incidents",
-      "sourceUrl": "https://www.the-race.com/formula-1/red-bull-could-park-trick-wing-for-spa-after-verstappen-incidents/",
-      "sourceName": "The Race",
-      "author": "Jack Benyon",
-      "publishedAt": "2026-07-06T04:40:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-81ea-a34b-c773726644d0",
-      "titleZh": "讓 Leclerc 再度成為 F1 冠軍的關鍵 Ferrari 調整",
-      "summaryZh": "我們了解到一些有趣的細節，關於 Charles Leclerc 如何在 F1 的 Silverstone 賽事中逆轉局勢，最終擊敗 Lewis Hamilton 贏得勝利。",
-      "titleOrig": "The crucial Ferrari tweaks that made Leclerc an F1 winner again",
-      "sourceUrl": "https://www.the-race.com/formula-1/the-crucial-details-leclerc-took-from-hamilton-to-end-his-f1-win-drought/",
-      "sourceName": "The Race",
-      "author": "Ben Anderson",
-      "publishedAt": "2026-07-06T13:06:00.000+08:00"
-    },
-    {
-      "notionPageId": "3976c3d3-6a7f-81c8-9ce4-e0dfffdc142f",
+      "notionPageId": "3986c3d3-6a7f-8155-862f-d383921c8a75",
       "titleZh": "KTM 公布 2027 MotoGP 工廠陣容",
-      "summaryZh": "KTM 宣布 Alex Marquez 和 Fabio Di Giannantonio 為其 2027 MotoGP 工廠車隊成員。",
+      "summaryZh": "KTM 宣布 Alex Marquez 和 Fabio Di Giannantonio 將成為其 2027 MotoGP 工廠車隊成員。",
       "titleOrig": "KTM unveils 2027 MotoGP factory line-up",
       "sourceUrl": "https://www.the-race.com/motogp/ktm-unveils-2027-motogp-factory-line-up/",
       "sourceName": "The Race",
@@ -812,9 +742,9 @@
       "publishedAt": "2026-07-06T18:08:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-813b-8ba8-f3956f272029",
+      "notionPageId": "3986c3d3-6a7f-81d0-abca-f16fe1c0e633",
       "titleZh": "Edd Straw 2026 英國大獎賽 F1 車手排名",
-      "summaryZh": "英國大獎賽週末的變化如何影響 Edd Straw 的 F1 車手排名？哪位本土車手最終名列榜首？",
+      "summaryZh": "英國大獎賽週末的變化如何影響 Edd Straw 的 F1 車手排名？哪位本土車手最終奪得第一名？",
       "titleOrig": "Edd Straw's 2026 British Grand Prix F1 driver rankings",
       "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-british-grand-prix-driver-rankings-edd-straw/",
       "sourceName": "The Race",
@@ -822,8 +752,8 @@
       "publishedAt": "2026-07-06T21:27:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8178-9f9d-c9c465f07cda",
-      "titleZh": "我們從 F1 英國大獎賽學到了什麼",
+      "notionPageId": "3986c3d3-6a7f-815e-99f2-d0e2cf55b516",
+      "titleZh": "我們從 F1 英國大獎賽中學到了什麼",
       "summaryZh": "從 Red Bull 和 Mercedes 的持續問題到一位明星中游車手日益增長的擔憂，這就是我們在 F1 2026 英國大獎賽中學到的內容。",
       "titleOrig": "Everything we learned from F1's British Grand Prix",
       "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-british-grand-prix-everything-we-learned/",
@@ -832,7 +762,7 @@
       "publishedAt": "2026-07-06T22:49:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-818c-ab9c-e9613b20bd10",
+      "notionPageId": "3986c3d3-6a7f-815b-b178-fdadcf636bc2",
       "titleZh": "F1 新獨立 V8 引擎製造商計畫曝光",
       "summaryZh": "The Race 是少數幾家媒體之一，與 FIA 主席 Mohammed Ben Sulayem 討論了 F1 的 V8 引擎計畫。以下是我們所知道的內容。",
       "titleOrig": "F1's plan for new independent V8 engine builder revealed",
@@ -842,8 +772,8 @@
       "publishedAt": "2026-07-07T00:00:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-817d-bb6f-f456930c8064",
-      "titleZh": "「沒有價值」- 雷諾老闆批評名人投資者對 Alpine F1 的影響",
+      "notionPageId": "3986c3d3-6a7f-81e0-b769-eee45dc0f0d9",
+      "titleZh": "「毫無價值」- 雷諾老闆批評名人投資者對 Alpine F1 的影響",
       "summaryZh": "Alpine F1 車隊的擁有者雷諾表示，與少數股東 Otro Capital 的合作「並不成功」。",
       "titleOrig": "'No value' - Renault boss criticises celebrity Alpine F1 investors",
       "sourceUrl": "https://www.the-race.com/formula-1/no-value-renault-boss-criticises-celebrity-alpine-f1-investors/",
@@ -852,7 +782,7 @@
       "publishedAt": "2026-07-07T18:44:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81c8-91c0-d994157383fe",
+      "notionPageId": "3986c3d3-6a7f-81d0-bb49-d2ffc0f4c9ce",
       "titleZh": "MotoGP 最新冠軍的獨特之處 - 以及他的重大決策",
       "summaryZh": "隨著轉隊至 Yamaha，Ai Ogura 在 MotoGP 中持續走出一條不尋常的道路。",
       "titleOrig": "What's unique about MotoGP's newest winner - and his big decisions",
@@ -862,9 +792,9 @@
       "publishedAt": "2026-07-07T18:52:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-812d-bb7a-e41eaede7357",
-      "titleZh": "法拉利將在馬德里 F1 新賽道進行拍攝日以提前了解",
-      "summaryZh": "法拉利將透過舉行拍攝日，提前了解西班牙新馬德林 F1 賽道。",
+      "notionPageId": "3986c3d3-6a7f-819a-9a56-ca386dce8489",
+      "titleZh": "法拉利將在馬德里新 F1 賽道進行拍攝日以提前熟悉",
+      "summaryZh": "法拉利將透過舉辦拍攝日，提前了解西班牙新馬德里 F1 賽道的特性。",
       "titleOrig": "Ferrari to get early run on new Madrid F1 track with filming day",
       "sourceUrl": "https://www.the-race.com/formula-1/ferrari-to-get-early-run-on-new-madrid-f1-track-with-filming-day/",
       "sourceName": "The Race",
@@ -872,9 +802,9 @@
       "publishedAt": "2026-07-07T19:15:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-8170-a15a-cd07e0b519b6",
-      "titleZh": "獨一無二的 F1 頭盔將拍賣以支持 Make-A-Wish",
-      "summaryZh": "一款獨一無二的迪士尼與 F1 頭盔，將由在 Silverstone 的車手簽名，並進行拍賣以籌集資金支持 Make-A-Wish International。",
+      "notionPageId": "3986c3d3-6a7f-8173-92fc-c6a0ad4a7db7",
+      "titleZh": "獨一無二的 F1 安全帽將拍賣以支持 Make-A-Wish",
+      "summaryZh": "一頂獨一無二的迪士尼與 F1 安全帽，已由車手在 Silverstone 簽名，將進行拍賣以籌集資金支持 Make-A-Wish International。",
       "titleOrig": "One-of-a-kind F1 helmet to be auctioned in aid of Make-A-Wish",
       "sourceUrl": "https://www.the-race.com/extra/one-of-a-kind-f1-helmet-to-be-auctioned-in-aid-of-make-a-wish/",
       "sourceName": "The Race",
@@ -882,14 +812,74 @@
       "publishedAt": "2026-07-07T21:18:00.000+08:00"
     },
     {
-      "notionPageId": "3976c3d3-6a7f-81ba-8714-ec75a1a2fdfa",
-      "titleZh": "兩個 'Macarena' F1 翼遭 FIA 安全調查",
+      "notionPageId": "3986c3d3-6a7f-812e-9669-f74d687b37e8",
+      "titleZh": "兩個 'Macarena' F1 翼受 FIA 安全調查",
       "summaryZh": "FIA 正在與 Red Bull 和 Ferrari 進行安全會談，討論他們的 'Macarena' 旋轉 F1 後翼設計。",
       "titleOrig": "Two 'Macarena' F1 wings subject to FIA safety probe",
       "sourceUrl": "https://www.the-race.com/formula-1/ferrari-red-bull-fia-safety-talks-macarena-f1-rear-wings/",
       "sourceName": "The Race",
       "author": "Jon Noble",
       "publishedAt": "2026-07-07T23:42:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-812b-80bd-ea200192ac92",
+      "titleZh": "Gary Anderson：Red Bull 高速撞車問題的真正原因",
+      "summaryZh": "Red Bull 翻轉的後翼並不是造成 Max Verstappen 出界的主要問題。",
+      "titleOrig": "Gary Anderson: The real reason Red Bull has a high-speed crash problem",
+      "sourceUrl": "https://www.the-race.com/formula-1/the-real-reason-red-bull-has-a-high-speed-crash-problem/",
+      "sourceName": "The Race",
+      "author": "Gary Anderson",
+      "publishedAt": "2026-07-08T16:14:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-8149-8cfb-f59fbb3a7483",
+      "titleZh": "為什麼 F1 成為 Lego 最重要的夥伴關係之一",
+      "summaryZh": "從迷你賽車到成為全球最大的輪胎製造商，Lego 解釋了為什麼 F1 現在是其全球產品組合中的重要一環。",
+      "titleOrig": "Why F1 is becoming one of Lego's most important partnerships",
+      "sourceUrl": "https://www.the-race.com/business/why-f1-is-becoming-one-of-lego-most-important-partnerships/",
+      "sourceName": "The Race",
+      "author": "Fleur Mealing",
+      "publishedAt": "2026-07-08T16:14:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-81f0-a605-ebb098c29977",
+      "titleZh": "Lotus Formula E 車隊？最新製造商興趣解析",
+      "summaryZh": "中國汽車巨頭吉利正在認真考慮進軍 Formula E，若獲得綠燈，Lotus 名字可能會重返頂級賽車運動。",
+      "titleOrig": "Lotus Formula E team? Latest manufacturer interest explained",
+      "sourceUrl": "https://www.the-race.com/formula-e/lotus-formula-e-team-latest-manufacturer-interest-explained/",
+      "sourceName": "The Race",
+      "author": "Sam Smith",
+      "publishedAt": "2026-07-08T17:36:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-8142-a8f7-c1e6c632656a",
+      "titleZh": "F1 大反高潮問題的解決方案",
+      "summaryZh": "安全車結束有時是必須接受的情況。但肯定有辦法解決一個延遲 F1 比賽重新開始的問題。",
+      "titleOrig": "The solution to F1's big anti-climax problem",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-safety-car-race-finish-anti-climax-solution/",
+      "sourceName": "The Race",
+      "author": "Charley Williams",
+      "publishedAt": "2026-07-08T20:27:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-8120-8b9e-c6378b90bfff",
+      "titleZh": "將行動滑板車改造成 F1 車的 Ferrari 粉絲",
+      "summaryZh": "這款受 Ferrari 啟發的行動滑板車成為 Silverstone 最受矚目的景點之一",
+      "titleOrig": "The Ferrari fan who turned his mobility scooter into an F1 car",
+      "sourceUrl": "https://www.the-race.com/extra/ferrari-fan-turned-mobility-scooter-into-f1-car/",
+      "sourceName": "The Race",
+      "author": "Fleur Mealing",
+      "publishedAt": "2026-07-08T20:59:00.000+08:00"
+    },
+    {
+      "notionPageId": "3986c3d3-6a7f-817d-b03f-c9508f3541dc",
+      "titleZh": "選擇 MotoGP 車手陣容與 F1 的不同之處",
+      "summaryZh": "前 F1 車隊老闆 Guenther Steiner 首次選擇 MotoGP 車手陣容，這是一個截然不同的體驗。",
+      "titleOrig": "How picking MotoGP rider line-ups differs from F1",
+      "sourceUrl": "https://www.the-race.com/motogp/how-picking-motogp-rider-line-ups-differs-from-f1/",
+      "sourceName": "The Race",
+      "author": "Valentin Khorounzhiy",
+      "publishedAt": "2026-07-08T21:35:00.000+08:00"
     }
   ]
 }
