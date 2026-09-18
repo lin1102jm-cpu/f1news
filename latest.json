@@ -1,140 +1,110 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "articles": [
     {
-      "notionPageId": "3de6c3d3-6a7f-810b-912c-de908781d444",
-      "titleZh": "Mekies 評估 Lawson 在 Red Bull 的表現",
-      "summaryZh": "Red Bull 車隊負責人 Laurent Mekies 在西班牙大獎賽後對替補車手 Liam Lawson 讚譽有加。",
-      "titleOrig": "Mekies assesses Lawson's Red Bull stint after Madrid",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/mekies-praises-lawsons-very-strong-red-bull-stint-after-sixth-in-madrid.2LEwblt3NqOTvbiH6ccqwW",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81c2-93b8-c10fa9b67f82",
-      "titleZh": "Tsunoda 評估在馬德里出賽後的情況，遭遇「重大損傷」",
-      "summaryZh": "Yuki Tsunoda 在馬德里未能得分，為 Racing Bulls 完賽時名列第 14。",
-      "titleOrig": "Tsunoda reviews Madrid outing after sustaining 'big damage'",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/tsunoda-reviews-spanish-gp-outing-after-sustaining-big-damage-in-sainz-clash.B03pmyjJHXsN2i88kXOSs",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-8186-b757-f5d959312d29",
-      "titleZh": "薩因斯在馬德里的主場賽事如何崩潰",
-      "summaryZh": "卡洛斯·薩因斯在馬德里未能看到方格旗，這位西班牙車手在主場賽事中遭遇了艱難的比賽。",
-      "titleOrig": "How Sainz’s home race in Madrid unravelled",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/how-sainzs-home-race-in-madrid-unravelled-as-williams-struggle.31dSI72gYFXpOTfpr37Jp0",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-8164-9866-d26ea6e77731",
-      "titleZh": "誰在馬德里讓我們的權力排名評審印象深刻？",
-      "summaryZh": "在西班牙大獎賽中，Kimi Antonelli 獲得勝利，因為虛擬安全車的時機影響了 Lando Norris 的努力。但在全新的 Madring 賽道上，誰在整個週末讓我們的權力排名評審印象深刻呢？請查看最新的分數和總排行榜...",
-      "titleOrig": "Who impressed our Power Rankings judges in Madrid?",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-spanish-grand-prix.1WDmXXNVzYQTsurO3RJpUe",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81b0-8c61-cf738c707df9",
-      "titleZh": "Victoria Farfus 在 2026 F1 ACADEMY 新秀測試中創下最佳成績",
-      "summaryZh": "2026 F1 ACADEMY 新秀測試在西班牙的納瓦拉賽道舉行，為年輕車手提供了展示他們才華的機會。",
-      "titleOrig": "Victoria Farfus sets the pace in 2026 F1 ACADEMY Rookie Test ",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/victoria-farfus-sets-the-pace-in-2026-f1-academy-rookie-test.6sNjU097nnpCHhFWTl9Lcu",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81ad-8b70-f4cccbbf2e13",
-      "titleZh": "麥克拉倫在虛擬安全車後進站諾里斯的決策毫無意義",
-      "summaryZh": "前雷諾F1車手及F1 TV分析師Jolyon Palmer解釋了為何麥克拉倫在虛擬安全車後進站諾里斯只會「鞏固」在馬德里的比賽失利。",
-      "titleOrig": "'McLaren’s call to pit Norris after the VSC made no sense'",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/jolyon-palmer-why-mclarens-call-to-pit-norris-after-the-vsc-made-no-sense.591nDyPP1oQBkgU8n738QD",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81f5-919d-f48ee363ded4",
-      "titleZh": "F1 公布 2027 賽季賽程",
-      "summaryZh": "2027 年 F1 賽季的完整賽程已經確認，共有 24 回合將展開另一場精彩的賽季。",
-      "titleOrig": "Formula 1 reveals calendar for 2027 season",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/formula-1-reveals-calendar-for-2027-season-with-10-sprint-events.5J8ePLyjRuMyWEIDNUKgY4",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81cd-b63a-d9bd014336c4",
-      "titleZh": "2027 F1 賽季日曆的所有重點",
-      "summaryZh": "Lawrence Barretto 盤點了 2027 F1 賽季日曆中的亮點。",
-      "titleOrig": "Everything you need to know about the 2027 F1 calendar",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/everything-you-need-to-know-about-the-2027-f1-calendar.B8HW7bYE1DhRm4Ib1nlqT",
-      "sourceName": "Formula1.com",
-      "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-819b-ac99-f85c59ba2287",
+      "notionPageId": "3df6c3d3-6a7f-816d-abcd-d266e04fd930",
       "titleZh": "2027 年 F1 衝刺賽有什麼新變化？",
-      "summaryZh": "2027 年的 F1 賽程已經公布，衝刺賽的場次將增加到 10 場。",
+      "summaryZh": "2027 年的 F1 賽季日曆已經公布，衝刺賽的場次將增加到 10 場。",
       "titleOrig": "What's new with the F1 Sprint in 2027?",
       "sourceUrl": "https://www.formula1.com/en/latest/article/whats-new-with-the-f1-sprint-in-2027.6UiqFIVYRoMSgPvAA8yiiZ",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8161-9c06-f800232f5106",
-      "titleZh": "投票選出你最期待的2027年賽事，贏取大獎賽門票",
+      "notionPageId": "3df6c3d3-6a7f-8138-9e10-cd97042cc190",
+      "titleZh": "投票選出你最喜愛的2027賽事，贏取大獎賽門票",
       "summaryZh": "",
-      "titleOrig": "Vote for the 2027 race you are most excited for to win Grand Prix tickets",
+      "titleOrig": "Vote for your favourite 2027 race to win Grand Prix tickets",
       "sourceUrl": "https://www.formula1.com/en/latest/article/Unlocked-2027-Calendar-competition.1C6hmNQLKIz9Ntzve5cSuC",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-09-17T08:00:00.000+08:00"
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81b3-814c-f0f12405c43c",
-      "titleZh": "Verstappen 說「紅牛車像是用紙做的」的背後原因",
-      "summaryZh": "在週五的練習賽中，Max Verstappen 體驗到車輛平衡的「脫節」，他已經預感到在蒙扎的 F1 排位賽將會困難，結果在隔天的賽事中證實了這一點。這位紅牛車手在週六的排位賽中只跑出第六快的成績，幾乎落後驚喜桿位得主 Pierre Gasly 將近三分之一秒，但這並不能完全說明整個情況。當車隊負責人 Laurent ...繼續閱讀",
-      "titleOrig": "Verstappen's \"Red Bull car made out of paper\" comment explained",
-      "sourceUrl": "https://www.autosport.com/f1/news/verstappens-red-bull-car-made-out-of-paper-comment-explained/10852703/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-09-06T01:30:00.000+08:00"
+      "notionPageId": "3df6c3d3-6a7f-81fd-9b38-d6a560326a64",
+      "titleZh": "Verstappen 如何贏得他賽車生涯中的「最大賽事」",
+      "summaryZh": "在西班牙大獎賽獲得頒獎台名次的幾天後，Max Verstappen 來到另一個賽道，尋找另一座獎盃——這位四屆 F1 世界冠軍參加了 Red Bull 特別舉辦的「Max vs 100」卡丁車賽。",
+      "titleOrig": "How Verstappen won the ‘biggest race’ of his motorsport career",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/how-verstappen-won-the-biggest-race-of-his-motorsport-career.7mtHfExYDWL6bpKtCCkddg",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8128-a118-e312276a9b3e",
-      "titleZh": "皮亞斯特里的 Q3 失誤讓諾里斯在義大利 GP 排位賽中損失「半秒鐘」",
-      "summaryZh": "蘭多·諾里斯相信，如果他的隊友奧斯卡·皮亞斯特里在義大利大獎賽排位賽的最後時刻沒有犯錯，他本可以在蒙扎的排位賽中創造更快的圈速，這可能實際上讓這位衛冕的 F1 世界冠軍在起跑格上損失了幾個位置。諾里斯在排位賽中名列第九，他的最佳 Q3 圈速是在第一次嘗試時創造的，1分22.256秒讓他排在第七位。",
-      "titleOrig": "How Piastri's Q3 mistake denied Norris \"half a second\" in Italian GP qualifying",
-      "sourceUrl": "https://www.autosport.com/f1/news/how-oscar-piastris-q3-mistake-denied-lando-norris-half-a-second-in-italian-gp-qualifying/10852750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-09-06T02:23:00.000+08:00"
+      "notionPageId": "3df6c3d3-6a7f-81e2-b484-ef95f4c8ddf5",
+      "titleZh": "紅牛仍在努力修正的 RB22 問題",
+      "summaryZh": "Mark Hughes 和 Giorgio Piola 更深入地探討了紅牛在 RB22 上遇到的問題，儘管近期取得了一些優異的成績。",
+      "titleOrig": "The issue Red Bull are still trying to correct on the RB22",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/the-issue-red-bull-are-still-trying-to-correct-on-the-rb22.55y0Ac2ZKjt0JGJ9tg5YlZ",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81d9-8453-f73b4031619b",
-      "titleZh": "「我們不需要尊重」- Alpine 對意大利大獎賽勝利充滿信心，Gasly 驚人桿位",
-      "summaryZh": "在進入意大利大獎賽之前，所有的故事情節和敘述中，完全沒有涉及到 Pierre Gasly 和 Alpine。這並不是對這位法國車手或 Enstone 車隊的輕視，但 Ferrari 在主場競爭，並有相當的勝算，加上 Kimi Antonelli 領跑冠軍爭奪，這些話題本來就會佔據所有的版面。",
-      "titleOrig": "\"We don't need to be respectful\" - Alpine bullish about Italian GP win after Gasly’s shock pole",
-      "sourceUrl": "https://www.autosport.com/f1/news/alpine-is-bullish-about-winning-the-italian-gp-after-pierre-gaslys-shock-pole/10852766/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-09-06T15:13:00.000+08:00"
+      "notionPageId": "3df6c3d3-6a7f-8118-bf24-da79622a7017",
+      "titleZh": "Danielsson 確認為 F1 ACADEMY 奧斯汀賽事的外卡車手",
+      "summaryZh": "Alexia Danielsson 將作為 2026 F1 ACADEMY 賽季第五輪在奧斯汀的外卡參賽者。",
+      "titleOrig": "Danielsson confirmed as Wild Card for F1 ACADEMY Austin round",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/alexia-danielsson-confirmed-as-teamviewers-wild-card-driver-for-f1-academy-austin-round.5S04NLFlH5TOPbdQBFhyk7",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81e1-bb88-ff6561da16dc",
-      "titleZh": "Alpine 在意大利大獎賽重返可摺疊後翼，Gasly 獲得桿位",
-      "summaryZh": "有些日子是神奇的，但也有些地方是特別的。蒙扎對於 Pierre Gasly 來說就是其中之一。在與 AlphaTauri 一同獲勝六年後，這場被譽為最不可預測的 F1 比賽之一，這位法國車手以最意想不到的方式獲得了職業生涯的第一個桿位。甚至連 Alpine 自己也未曾預測能參與爭奪最高榮譽的戰鬥……繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8154-9314-c7c6bcc27dd5",
+      "titleZh": "Alpine 宣布 Mike Elliott 擔任首席技術官",
+      "summaryZh": "曾在梅賽德斯工作的 Mike Elliott 將重返 F1 賽場，加入 Alpine 車隊。",
+      "titleOrig": "Alpine announce Mike Elliott as Chief Technical Officer",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/alpine-announce-mike-elliott-as-chief-technical-officer.1ZFQGVhmwtjyec9icP1YHr",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-814f-8457-d7f17c226e09",
+      "titleZh": "F1 歷史上獲勝次數最多的動力單元製造商",
+      "summaryZh": "在梅賽德斯與 Kimi Antonelli 在 Madring 增加勝利數後，我們查看了獲得 F1 最高勝利次數的引擎製造商。",
+      "titleOrig": "The power unit manufacturers with the most wins in F1 history",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/the-10-power-unit-manufacturers-with-the-most-wins-in-f1-history.6Xvo6nQOtd57NRY674wJg2",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81ef-8a94-fe9cfd3f3036",
+      "titleZh": "Tsunoda 揭露他在 Red Bull 的最大失誤",
+      "summaryZh": "Yuki Tsunoda 在 2026 年意外地參加了三場比賽，替代因 Isack Hadjar 受傷而缺席的 Liam Lawson，加入 Racing Bulls。雖然目前尚不清楚 Tsunoda 是否會在本賽季再度出賽，但這位日本車手無疑充分利用了他意外的回歸機會。",
+      "titleOrig": "Tsunoda reveals his biggest mistake at Red Bull in 2025",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/tsunoda-on-his-biggest-mistake-in-2025-and-how-red-bull-struggles-made-him-a-better-driver.6ZtPZyQvEGoMCEhos8HcfY",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8175-b4f4-fb534d298af4",
+      "titleZh": "領導 Cadillac 的「有點震撼的體驗」– Budkowski",
+      "summaryZh": "Marcin Budkowski 承認，回到 F1 賽場的經歷對他來說「有點震撼」，因為他被任命為 Cadillac 車隊的負責人。",
+      "titleOrig": "'Bit of a shock to the system' leading Cadillac – Budkowski",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/bit-of-a-shock-to-the-system-budkowski-reveals-first-impressions-leading-cadillac.3TVLBIbjLRuB1YYONrqkwv",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8128-9c5e-ee302eb138a1",
+      "titleZh": "Mekies 更新 Hadjar 的傷勢恢復情況",
+      "summaryZh": "Isack Hadjar 自夏季休息結束以來已缺席三場比賽，缺席了 Zandvoort、Monza 和 Madrid，因為他正在恢復訓練中受傷的情況。這位法國車手在三週的休息期間傷到了手腕，從那時起就一直在場邊觀戰。",
+      "titleOrig": "Mekies offers update on Hadjar's injury recovery",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/nothing-wrong-with-isacks-recovery-mekies-on-when-hadjar-will-return.5VYeVNlvMTpwjhT0zPCwX8",
+      "sourceName": "Formula1.com",
+      "author": " Formula 1 ",
+      "publishedAt": "2026-09-18T08:00:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8116-b308-e3c456524933",
+      "titleZh": "Alpine 在義大利大獎賽重返可摺疊後翼，Gasly 獲得桿位",
+      "summaryZh": "有些日子是神奇的，但也有些地方是特別的。蒙扎就是皮埃爾·加斯利的其中一個特別之地。在與 AlphaTauri 一同獲得勝利的六年後，這位法國車手以最意想不到的方式取得了職業生涯的第一個桿位，這場比賽被認為是 F1 歷史上最不可預測的賽事之一。甚至連 Alpine 自己也未曾預料到能夠參與爭奪最高榮譽的競爭……繼續閱讀",
       "titleOrig": "Alpine brings back folding rear wing at Italian GP as Gasly grabs pole",
       "sourceUrl": "https://www.autosport.com/f1/news/alpine-brings-back-folding-rear-wing-ahead-of-pierre-gaslys-monza-pole/10852931/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -142,9 +112,9 @@
       "publishedAt": "2026-09-06T18:56:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81c5-9e45-e9809b34b846",
+      "notionPageId": "3df6c3d3-6a7f-81b7-a511-efe49dd20a09",
       "titleZh": "巨大的撞擊讓 Leclerc 退出 F1 意大利大獎賽",
-      "summaryZh": "法拉利 F1 車手 Charles Leclerc 在意大利大獎賽中發生撞擊，導致比賽在蒙扎賽道的兩圈後出現紅旗。在第二圈結束時，Leclerc 正在防守來自 McLaren 的 Oscar Piastri 的第四名位置，這時他遭遇了過度轉向，失去了法拉利的後部，並在快速的 Parabolica 右彎處打轉。Leclerc 在外側旋轉...繼續閱讀",
+      "summaryZh": "法拉利 F1 車手 Charles Leclerc 在意大利大獎賽中發生撞擊，導致比賽在蒙扎進行兩圈後出現紅旗。在第二圈結束時，Leclerc 正在防守第四名的位置，抵擋麥克拉倫的 Oscar Piastri，但這位法拉利車手卻遭遇了過度轉向，失去了法拉利的後部，並在快速的 Parabolica 右彎中打轉。Leclerc 在外側打轉...",
       "titleOrig": "Huge crash knocks Leclerc out of F1 Italian GP",
       "sourceUrl": "https://www.autosport.com/f1/news/huge-crash-knocks-charles-leclerc-out-of-f1-italian-gp/10852998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -152,9 +122,9 @@
       "publishedAt": "2026-09-06T21:19:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8186-ab2b-df33f073679d",
-      "titleZh": "勒克萊爾在意大利大獎賽重創後需要進一步健康檢查",
-      "summaryZh": "查爾斯·勒克萊爾表示，他在意大利大獎賽的碰撞後需要「幾項額外檢查」，以確保下週能夠參加F1的馬德里站。勒克萊爾在第二圈結束時於Parabolica高速失控，重重撞上牆壁，導致比賽出現紅旗。這位摩納哥車手被送往醫療中心進行檢查。",
+      "notionPageId": "3df6c3d3-6a7f-81e4-8188-c116f249a07f",
+      "titleZh": "勒克萊爾在意大利大獎賽重摔後需進一步健康檢查",
+      "summaryZh": "查爾斯·勒克萊爾表示，在他的意大利大獎賽事故後，他需要「幾項額外的檢查」，以確保下週能夠參加F1馬德里站的比賽。勒克萊爾在第二圈的帕拉博利卡高速失控，撞上牆壁，造成紅旗。這位摩納哥車手被送往醫療中心進行檢查。",
       "titleOrig": "Leclerc needs further health checks after heavy Italian GP crash",
       "sourceUrl": "https://www.autosport.com/f1/news/leclerc-needs-further-health-checks-after-heavy-italian-gp-crash/10853016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -162,9 +132,9 @@
       "publishedAt": "2026-09-06T22:41:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-819b-90fb-e00437ceeb20",
-      "titleZh": "F1 意大利大獎賽：Antonelli 從第19位驚艷逆轉奪冠",
-      "summaryZh": "F1 世界錦標賽領袖 Kimi Antonelli 在意大利大獎賽上以驚人的表現從第19位起步，擊敗梅賽德斯隊友 George Russell，成功在主場奪冠。在這場充滿動作的比賽中，Antonelli克服了排位罰則和中途進站的挑戰，迅速穿越賽道，最終超越長期領跑的 Russell，Max Verstappen 也在...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-818b-ae06-eb0ad921bfa0",
+      "titleZh": "F1 意大利大獎賽：Antonelli 從第19位驚人逆轉奪冠",
+      "summaryZh": "F1 世界冠軍領導者 Kimi Antonelli 在意大利大獎賽上取得了驚人的主場勝利，從第19位起步擊敗了梅賽德斯隊友 George Russell。在這場充滿動作的比賽中，Antonelli 克服了排位罰款和中途進站的挑戰，迅速穿越車隊，最終超越長期領跑的 Russell，Max Verstappen 也在...繼續閱讀",
       "titleOrig": "F1 Italian GP: Antonelli stuns from 19th on the grid to win home race",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-italian-gp-antonelli-stuns-from-19th-on-the-grid-to-win-home-race/10853010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -172,9 +142,9 @@
       "publishedAt": "2026-09-06T23:12:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81d6-85fe-c00187d1c795",
-      "titleZh": "在 Antonelli 贏得義大利 GP 之後，F1 冠軍爭奪戰結束了嗎？我們的撰稿人有話要說",
-      "summaryZh": "Kimi Antonelli 從第19位起步贏得義大利大獎賽，這是一場具有宣示意義的表現，並將他在 F1 世界錦標賽的領先優勢擴大至 66 分。在剩下最多 10 圈的情況下——視卡塔爾和阿布達比 GP 以及中東局勢而定——這位義大利車手處於極其有利的地位，有望鎖定 2026 年的世界冠軍。",
+      "notionPageId": "3df6c3d3-6a7f-81c5-b4f7-f77754722e55",
+      "titleZh": "在 Antonelli 贏得義大利 GP 之後，F1 冠軍之爭結束了嗎？我們的撰稿人有話要說",
+      "summaryZh": "Kimi Antonelli 從第 19 位起步贏得義大利大獎賽，這是一場具有宣示意義的表現，並將他在 F1 世界冠軍的領先優勢擴大至 66 分。在剩下最多 10 場比賽的情況下——受卡塔爾和阿布達比 GP 以及中東局勢的影響——這位義大利車手正處於一個極其有利的位置，以鎖定 2026 年的世界冠軍頭銜。",
       "titleOrig": "After Antonelli’s Italian GP win, is the F1 title fight over? Our writers have their say",
       "sourceUrl": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -182,9 +152,9 @@
       "publishedAt": "2026-09-07T00:44:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81c2-aa48-e2ccaf5c8c66",
-      "titleZh": "為什麼梅賽德斯在意大利大獎賽中沒有讓拉塞爾進站",
-      "summaryZh": "基米·安東內利在意大利大獎賽中從最後一位逆轉奪冠，除了出色的表現外，或許也得益於策略的幫助和及時的虛擬安全車。這位意大利車手是比賽中唯一一位進站的梅賽德斯車手，最終擊敗了他的隊友及冠軍對手喬治·拉塞爾。梅賽德斯在其策略上做出了分歧...",
+      "notionPageId": "3df6c3d3-6a7f-81b3-833c-dd900a7092ab",
+      "titleZh": "為何梅賽德斯在意大利大獎賽中不讓拉塞爾在虛擬安全車下進站",
+      "summaryZh": "基米·安東內利在意大利大獎賽中從最後一位起步驚人奪冠，這得益於他的出色表現，但也可能有策略上的幫助以及適時的虛擬安全車。這位意大利車手是比賽中唯一一位在賽道上進站的梅賽德斯車手，最終擊敗了他的隊友及冠軍對手喬治·拉塞爾。梅賽德斯在策略上對車手進行了分配...",
       "titleOrig": "Why Mercedes didn't pit Russell under virtual safety car in Italian GP",
       "sourceUrl": "https://www.autosport.com/f1/news/why-mercedes-didnt-pit-george-russell-under-virtual-safety-car-in-italian-gp-we-didnt-know-which-st/10853147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -192,9 +162,9 @@
       "publishedAt": "2026-09-07T01:34:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8194-ad82-f961c518a8c6",
-      "titleZh": "Audi 表示將對 Tsunoda 在意大利大獎賽的無處罰提出上訴",
-      "summaryZh": "Audi F1 車隊已通知 FIA，計劃對 Yuki Tsunoda 在意大利大獎賽的無處罰提出上訴。在第六圈重啟時，由於不清楚他應該停在哪裡，Tsunoda 停在正確的第14格，但角度朝向內側牆壁。賽事總監 Rui Marques 對 Tsunoda 的位置感到「不安」，因此施加了額外的隊形...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8129-8424-d1b203d138a6",
+      "titleZh": "Audi 對 Tsunoda 在意大利大獎賽的非懲罰提出上訴",
+      "summaryZh": "Audi F1 車隊已通知 FIA，計劃對 Yuki Tsunoda 在意大利大獎賽的非懲罰提出上訴。在第六圈重啟時，Tsunoda 對於應該排在哪裡感到困惑，最終停在正確的第 14 格，但角度朝向內側牆壁。比賽總監 Rui Marques 對 Tsunoda 的位置感到 '不安'，因此施加了額外的編隊...",
       "titleOrig": "Audi signals appeal over Tsunoda’s Italian GP non-penalty",
       "sourceUrl": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -202,9 +172,9 @@
       "publishedAt": "2026-09-07T03:58:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-817c-a4ed-dbc57f2d67ad",
-      "titleZh": "漢密爾頓表示法拉利在F1冠軍爭奪中支持他已經「太晚了」",
-      "summaryZh": "義大利大獎賽可能是車手之間爭執最糟糕的場地，但這正是發生在蒙札的情況，因為路易斯·漢密爾頓在查爾斯·勒克萊爾於開賽首圈將他撞入砂石區後，最終僅名列第六。勒克萊爾隨後在第二圈結束時以高速衝進Parabolica的護欄，導致紅旗出現。本週末的結果是...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8167-8d72-d4e7eccdaa6f",
+      "titleZh": "漢密爾頓表示法拉利在F1冠軍爭奪戰中支持他已經'太晚了'",
+      "summaryZh": "意大利大獎賽可能是車隊隊友之間發生爭執的最糟糕場地，但這正是發生在蒙扎的情況，因為路易斯·漢密爾頓在查爾斯·勒克萊爾在開賽首圈將他撞入沙石後，最終以遙遠的第六名完賽。勒克萊爾隨後在第二圈結束時高速衝出賽道撞上Parabolica的護欄，導致紅旗出現。本週末的結果是...繼續閱讀",
       "titleOrig": "Hamilton says Ferrari has left it \"too late\" to back him in F1 title fight",
       "sourceUrl": "https://www.autosport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-f1-title-fight/10853218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -212,9 +182,9 @@
       "publishedAt": "2026-09-07T04:03:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8177-98fa-d50b70f37a35",
-      "titleZh": "Hamilton 與 Leclerc 在意大利大獎賽碰撞的荒謬之處",
-      "summaryZh": "查爾斯·勒克萊爾和路易斯·漢密爾頓在週日的賽道上和賽道外的表現，對於一級方程式或更廣泛的賽車運動來說，其實並沒有什麼特別新穎的地方。車隊隊友之間的碰撞在某些情況下已經達到了緊張的程度，使得兩位法拉利車手在蒙扎的事件看起來相對輕微。但在這個特定的案例中……繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-81f1-9f25-f66044d52535",
+      "titleZh": "漢密爾頓與勒克萊爾在義大利GP碰撞的荒謬之處",
+      "summaryZh": "查爾斯·勒克萊爾和路易斯·漢密爾頓在週日的賽道上和賽道外的表現，對於F1或更廣泛的賽車運動來說，並沒有特別新的地方。車隊隊友之間的碰撞在某些情況下已經達到了緊張的程度，使得兩位法拉利車手在蒙扎的事件看起來相對輕微。但在這個特定的案例中……繼續閱讀",
       "titleOrig": "What doesn't make sense about Hamilton and Leclerc's Italian GP clash",
       "sourceUrl": "https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -222,9 +192,9 @@
       "publishedAt": "2026-09-07T18:35:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-810b-b375-cc6b0051ceb3",
-      "titleZh": "蒙扎如何將類橢圓形的尾流賽事引入 F1",
-      "summaryZh": "在 2026 年的 F1 規則中，有幾個例子顯示出這些規則徹底改變了賽季中 24 條賽道的比賽風格，但蒙扎的尾流盛宴是迄今為止最戲劇性的例子。今年的新名詞「溜溜球賽事」用來形容這場盛會，車輛能輕鬆利用電池提供的額外動力完成超車，但...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-81f7-82e3-c61f3a712ce3",
+      "titleZh": "蒙札如何將類橢圓形的尾流賽事引入 F1",
+      "summaryZh": "在 2026 年的 F1 規則中，有幾個例子顯著改變了賽季中 24 條賽道的比賽風格，但蒙札的尾流嘉年華是迄今為止最戲劇性的例子。今年新創的術語是所謂的 yo-yo 賽事，車輛能夠輕鬆利用電池提供的額外動力完成超車，但...",
       "titleOrig": "How Monza introduced oval-like slipstream racing to F1",
       "sourceUrl": "https://www.autosport.com/f1/news/how-monza-introduced-oval-like-slipstream-racing-to-f1/10853410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -232,9 +202,9 @@
       "publishedAt": "2026-09-07T19:42:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-818c-8f93-edfb1b160125",
+      "notionPageId": "3df6c3d3-6a7f-8134-87de-c6a8a52893d9",
       "titleZh": "Hadjar 因傷缺席第三場 F1 比賽",
-      "summaryZh": "Isack Hadjar 需要更多時間來恢復他的手腕傷勢，這將使這位法國車手在本週末的西班牙大獎賽中缺席第三場連續的比賽。Liam Lawson 將重返 RB22，與 Max Verstappen 搭檔，而 Yuki Tsunoda 則將再次與 Racing Bulls 參賽。'這個決定是在 Isack 的恢復持續進展的情況下做出的...繼續閱讀",
+      "summaryZh": "Isack Hadjar 需要更多時間來恢復他的手腕傷勢，這將使這位法國車手在本週末的西班牙 F1 大獎賽中連續缺席第三場比賽。Liam Lawson 將重返 RB22 與 Max Verstappen 搭檔，而 Yuki Tsunoda 則將再次與 Racing Bulls 參賽。'這個決定是在 Isack 的恢復持續進展的情況下做出的...繼續閱讀",
       "titleOrig": "Hadjar to miss third F1 race due to injury",
       "sourceUrl": "https://www.autosport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -242,9 +212,9 @@
       "publishedAt": "2026-09-08T01:15:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8198-9a8d-e0cc6652dced",
-      "titleZh": "為何沃夫在意大利大獎賽勝利後將安東內利比喻為「AI代理」",
-      "summaryZh": "梅賽德斯車隊老闆托托·沃夫承認，即使是他也對基米·安東內利在2026年F1賽季中的快速成長感到驚訝，將他比喻為一個不斷進步的「AI代理」。這位20歲的意大利車手在2025年路易斯·漢密爾頓離開銀箭後，被迅速提升至頂級賽事，這是他第二個F1賽季。",
+      "notionPageId": "3df6c3d3-6a7f-8116-8601-c3f2c96eb925",
+      "titleZh": "為何沃爾夫在義大利GP勝利後將安東內利比喻為“AI代理人”",
+      "summaryZh": "梅賽德斯車隊總監托托·沃爾夫承認，即使是他也對基米·安東內利在2026年F1賽季中展現出的快速成長感到驚訝，並將他比喻為一個不斷進步的“AI代理人”。這位20歲的義大利車手在2025年路易斯·漢密爾頓離開銀箭後被迅速提升至F1頂級賽事，這是他第二個F1賽季。",
       "titleOrig": "Why Wolff compared Antonelli to an “AI agent\" after Italian GP win",
       "sourceUrl": "https://www.autosport.com/f1/news/why-wolff-compared-antonelli-to-an-ai-agent-after-italian-gp-win/10853713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -252,9 +222,9 @@
       "publishedAt": "2026-09-08T23:30:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81fa-bde9-ea558f484f38",
-      "titleZh": "馬德里 F1 回歸的期待",
-      "summaryZh": "馬德里將接手西班牙大獎賽，這個為期 10 年的賽事將取代現在每兩年舉辦一次的巴塞隆納賽事，這是 F1 最新的努力，旨在將賽事帶入城市人口中心。比賽將在一個雙頭怪物賽道上進行 57 輪，這將需要車手和車隊一些時間來適應這個複雜的工程挑戰。初步的概念渲染圖顯示了所謂的...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8133-9caa-df60c0f7251d",
+      "titleZh": "馬德里即將重返F1，期待什麼？",
+      "summaryZh": "馬德里為期10年的西班牙大獎賽將取代現在每兩年舉辦一次的巴塞隆納賽事，這是F1最新的努力，旨在將賽事帶入城市人口中心。比賽將在一條複雜的賽道上進行57圈，這對車手和車隊來說需要一些時間來適應其工程設計。初步的概念渲染圖顯示了這條賽道的樣貌……繼續閱讀",
       "titleOrig": "What to expect with Madrid set to make F1 return ",
       "sourceUrl": "https://www.autosport.com/f1/news/what-to-expect-with-madrid-set-to-make-f1-return/10853800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -262,9 +232,9 @@
       "publishedAt": "2026-09-09T16:42:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8141-b980-f60fde143074",
-      "titleZh": "雅克·維倫紐夫從吉爾學到了什麼：\"我能做到，你不能\"",
-      "summaryZh": "當明星英年早逝時，他們不可避免地會在大眾意識中被困在永恆的青春狀態，體現出浪漫化的英雄高貴與犧牲的觀念。對於賽車迷來說，吉爾·維倫紐夫那種壯觀而激進的風格成為了賽車手應有的典範。他在1982年比利時排位賽中去世，年僅32歲...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-81e7-87a2-c4c40911aa4e",
+      "titleZh": "雅克·維倫紐夫從吉爾學到了什麼：『我可以做到，你不行』",
+      "summaryZh": "當明星英年早逝時，他們不可避免地會在大眾意識中被困在永恆的青春狀態中，體現出浪漫化的英雄高貴與犧牲的概念。對於賽車迷來說，吉爾·維倫紐夫那種壯觀且激進的風格成為了賽車手應有的典範。他在1982年比利時排位賽中去世，享年32歲...繼續閱讀",
       "titleOrig": "What Jacques Villeneueve really learned from Gilles: “I can do this, you can’t”",
       "sourceUrl": "https://www.autosport.com/f1/news/the-learnings-jacques-villeneuve-still-carries-from-father-gilles/10853895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -272,9 +242,9 @@
       "publishedAt": "2026-09-09T22:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81b3-a9dc-cd2fa77e0d46",
-      "titleZh": "在這一天：舒馬赫於蒙扎宣布F1退休",
-      "summaryZh": "2006年9月10日是F1歷史上較具意義的一天，因為爭冠者及七次世界冠軍的Michael Schumacher宣布退休。這位法拉利英雄在蒙扎的意大利大獎賽結束後不久做出了這個決定。桿位僅以0.002秒之差被McLaren的Kimi Raikkonen奪走，面對熱情的 tifosi，舒馬赫的賽車則較重...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8112-be4e-ea0c534f198d",
+      "titleZh": "在這一天：舒馬赫於蒙扎宣布F1退役",
+      "summaryZh": "2006年9月10日是F1歷史上較具意義的一天，因為爭冠者及七次世界冠軍的Michael Schumacher宣布退役。這位法拉利英雄在蒙扎的義大利大獎賽結束後不久做出了這個決定。桿位僅以0.002秒之差被麥克拉倫的Kimi Raikkonen奪走，面對熱情的 tifosi，舒馬赫的賽車則較重...繼續閱讀",
       "titleOrig": "On this day: Schumacher announces F1 retirement at Monza",
       "sourceUrl": "https://www.autosport.com/f1/news/schumacher-announces-f1-retirement-on-this-day/10853937/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -282,9 +252,9 @@
       "publishedAt": "2026-09-10T14:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81ef-b086-caebc1452c73",
-      "titleZh": "Verstappen 指出 Lawson 和 Tsunoda 是 F1 2026 太簡單的證據",
-      "summaryZh": "Max Verstappen 認為，F1 的新動力單元讓駕駛挑戰減少了許多，以至於高水平的表現變得有些輕鬆。Verstappen 可能是對 F1 新機械最為直言不諱的批評者，他早期形容這些裝備為「類似於加強版的 Formula E」，因為需要的能量管理導致了非常不同的駕駛風格。",
+      "notionPageId": "3df6c3d3-6a7f-81ca-b02b-d96611b6d9b7",
+      "titleZh": "Verstappen 指出 Lawson 和 Tsunoda 作為 F1 2026 太簡單的證據",
+      "summaryZh": "Max Verstappen 認為，F1 新的動力單元已經大幅降低了駕駛挑戰，使得高水平的表現變得相對輕鬆。Verstappen 可能是對 F1 新機械最具批評聲音的人，他早期形容這些設備為「類似於加強版的 Formula E」，因為需要的能量管理導致了非常不同的駕駛風格。",
       "titleOrig": "Verstappen points to Lawson and Tsunoda as proof F1 2026 is too easy",
       "sourceUrl": "https://www.autosport.com/f1/news/verstappen-points-to-lawson-and-tsunoda-as-proof-f1-2026-is-too-easy/10854029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -292,9 +262,9 @@
       "publishedAt": "2026-09-10T17:31:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8138-92e7-cf317885a7ee",
-      "titleZh": "Audi 決定對 Tsunoda 在意大利 GP 的結果提出上訴",
-      "summaryZh": "根據 Autosport 的報導，Audi F1 車隊將會繼續執行對於 Yuki Tsunoda 在意大利大獎賽中因造成額外的暖胎圈而未受到懲罰的上訴意圖。Tsunoda 在蒙扎賽事重啟時造成了一個額外的暖胎圈，因為比賽總監 Rui Marques 對這位日本車手在發車格內的排位方式感到不安，導致他斜向...",
+      "notionPageId": "3df6c3d3-6a7f-8141-9d4b-dca7db08f202",
+      "titleZh": "Audi 決定對 Tsunoda 在義大利 GP 的結果提出上訴",
+      "summaryZh": "據 Autosport 報導，Audi F1 車隊將堅持對 Yuki Tsunoda 在義大利大獎賽中因造成額外的暖胎圈而未受到懲罰的決定提出上訴。Tsunoda 在蒙扎賽事重啟時造成了額外的暖胎圈，因為賽事總監 Rui Marques 對這位日本車手在起跑格內的排位方式感到不安，車輛呈現傾斜狀態。",
       "titleOrig": "Audi commits to appeal against Tsunoda's Italian GP result",
       "sourceUrl": "https://www.autosport.com/f1/news/audi-commits-to-appeal-against-tsunodas-italian-gp-result/10854082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -302,9 +272,9 @@
       "publishedAt": "2026-09-10T19:26:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8108-a4b6-df7e9f8d8645",
+      "notionPageId": "3df6c3d3-6a7f-8149-88d9-cfe9a75844ff",
       "titleZh": "McLaren 放棄 H-wing 概念參加 F1 西班牙大獎賽",
-      "summaryZh": "McLaren 將在本週末的西班牙大獎賽中擱置其 H-wing 概念，計畫在巴庫重返其版本的旋轉 F1 後翼。這支位於沃金的車隊一直在研究自己的後翼解釋，該後翼在角落模式和直線模式之間旋轉 180 度，靈感來自於法拉利在冬季測試中先行推出的概念。",
+      "summaryZh": "McLaren 將在本週末的西班牙大獎賽中停用其 H-wing 概念，並計劃在巴庫重返其旋轉式 F1 後翼。這支位於沃金的車隊在冬季測試中看到 Ferrari 首創該概念後，開始研究自己版本的後翼，該後翼在轉彎模式和直線模式之間旋轉 180 度。隨著一個...繼續閱讀",
       "titleOrig": "McLaren drops H-wing concept for F1 Spanish GP",
       "sourceUrl": "https://www.autosport.com/f1/news/mclaren-drops-upside-down-h-wing-concept-for-f1-spanish-gp/10854141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -312,9 +282,9 @@
       "publishedAt": "2026-09-10T20:35:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-815f-8434-eeacee3ebfa0",
-      "titleZh": "Vasseur 否認法拉利內部危機的說法，為車隊辯護",
-      "summaryZh": "Fred Vasseur 並不否認在蒙扎賽道上，Charles Leclerc 與 Lewis Hamilton 之間有需要澄清的事情，這位法拉利車隊負責人在意大利大獎賽後已與兩位車手進行了交談，針對賽道上發生的情況以及一些言論進行了討論。然而，Vasseur 否認的是這一情況所引發的規模，該事件在短時間內變得...持續關注。",
+      "notionPageId": "3df6c3d3-6a7f-814c-9499-d16a917d1334",
+      "titleZh": "Vasseur 駁斥法拉利內部危機的說法，為車隊辯護",
+      "summaryZh": "Fred Vasseur 並不否認在蒙扎賽道上，Charles Leclerc 與 Lewis Hamilton 之間有需要澄清的事情，這位法拉利車隊負責人在意大利大獎賽後已與兩位車手進行了交談，討論了賽道上的情況以及一些發言。不過，Vasseur 駁斥了這一事件所引發的規模，認為情況並沒有被誇大。",
       "titleOrig": "Vasseur rejects Ferrari internal crisis claims as he defends team",
       "sourceUrl": "https://www.autosport.com/f1/news/vasseur-rejects-ferrari-internal-crisis-claims-as-he-defends-team/10854216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -322,9 +292,9 @@
       "publishedAt": "2026-09-10T22:56:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8177-b83e-f8d1b5553b8d",
-      "titleZh": "勒克萊爾承認在義大利GP與漢密爾頓相撞的責任：‘我走得太遠’",
-      "summaryZh": "查爾斯·勒克萊爾承認在F1義大利大獎賽的開場連續彎道中與路易斯·漢密爾頓交鋒時，他的行為‘走得太遠’，並表示他與漢密爾頓已經就此事件和解。勒克萊爾和漢密爾頓在開場連續彎道中並肩而行，但這位摩納哥車手試圖在第二彎的出口處採取標準賽道線，結果導致了...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-815c-957b-f6377ed20eb6",
+      "titleZh": "勒克萊爾承認在意大利GP與漢密爾頓的碰撞中有責任：‘我超越了界限’",
+      "summaryZh": "查爾斯·勒克萊爾承認在F1意大利大獎賽的開場彎道與路易斯·漢密爾頓交鋒時，他的行為‘超越了界限’，並表示他與漢密爾頓已經就此事件和解。勒克萊爾和漢密爾頓在開場彎道並肩而行，但這位摩納哥車手試圖在第二彎的出口採取標準賽道線，最終導致了碰撞。",
       "titleOrig": "Leclerc accepts blame for Italian GP clash with Hamilton: \"I went too far\"",
       "sourceUrl": "https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -332,9 +302,9 @@
       "publishedAt": "2026-09-10T23:21:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81a8-b0a1-f1b78ee04294",
-      "titleZh": "車手們對於「瘋狂」的馬德里 F1 賽道的看法",
-      "summaryZh": "當被問及對於 F1 新的馬德里街道賽道的看法時，Pierre Gasly 表示：「我敢打賭會有紅旗，這是肯定的。」風險和難度一直是車手們談論西班牙大獎賽賽道及其佈局時的共同主題。或許 Lance Stroll 不太這麼認為，但至少他對這個話題有些遠遠的看法，他說：「我想我們會...繼續閱讀。",
+      "notionPageId": "3df6c3d3-6a7f-8139-97a3-c6ea62a6c3ad",
+      "titleZh": "車手們對於「瘋狂」的馬德里 F1 賽道有何看法",
+      "summaryZh": "當被問及對於 F1 新的馬德里街道賽道的看法時，Pierre Gasly 表示：「我敢打賭會有紅旗，這是肯定的。」風險和難度一直是車手們在談論西班牙大獎賽賽道及其佈局時的共同話題。或許 Lance Stroll 不太這麼認為，但至少他對這個話題有些遠觀，他說：「我想我們會...繼續閱讀。",
       "titleOrig": "What the drivers think of the \"crazy\" Madrid F1 circuit",
       "sourceUrl": "https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -342,9 +312,9 @@
       "publishedAt": "2026-09-10T23:34:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81b1-88b5-e4718afd040f",
+      "notionPageId": "3df6c3d3-6a7f-81da-800f-df66d4d65b79",
       "titleZh": "漢密爾頓：我不想要法拉利的特別待遇",
-      "summaryZh": "路易斯·漢密爾頓表示，儘管他在2026年有潛力成為F1冠軍競爭者，但他並不希望法拉利對隊友查爾斯·勒克萊爾給予特別待遇。勒克萊爾在意大利大獎賽的退賽意味著他目前落後於冠軍領跑者基米·安東內利112分，剩下的10輪比賽最多可以獲得258分——假設...",
+      "summaryZh": "路易斯·漢密爾頓表示，儘管他在2026年有潛力成為F1冠軍競爭者，但他並不希望法拉利對隊友查爾斯·勒克萊爾給予特別待遇。勒克萊爾在意大利大獎賽的退賽意味著他目前落後於冠軍領跑者基米·安東內利112分，而在最後10輪比賽中，他最多可以獲得258分的積分。",
       "titleOrig": "Hamilton: I don’t want preferential treatment from Ferrari",
       "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-i-dont-want-preferential-treatment-from-ferrari/10854275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -352,9 +322,9 @@
       "publishedAt": "2026-09-11T00:20:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81b5-b8c5-d55aba9f60e6",
-      "titleZh": "拉塞爾將因梅賽德斯引入動力單元升級而遭受F1引擎罰款",
-      "summaryZh": "喬治·拉塞爾表示，當梅賽德斯推出升級版的F1動力單元時，他將接受引擎罰款。兩位梅賽德斯車手都已超過或預計將超過2026賽季的動力單元配額。基米·安東內利上週末在蒙扎就已經如此，他在起跑時受到罰款，卻從第19位逆襲奪得歷史性勝利。拉塞爾...持續關注",
+      "notionPageId": "3df6c3d3-6a7f-8171-a9de-d57cbd61f77f",
+      "titleZh": "拉塞爾將因梅賽德斯引入動力單元升級而接受 F1 引擎罰款",
+      "summaryZh": "喬治·拉塞爾表示，當梅賽德斯推出升級版的 F1 動力單元時，他將接受引擎罰款。兩位梅賽德斯車手都已超過或預計將超過 2026 賽季的動力單元配額。基米·安東內利上週末在蒙扎就已經如此，他在起跑時被罰至最後一位，卻從第 19 位一路超越，歷史性地獲得勝利。拉塞爾...持續關注",
       "titleOrig": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
       "sourceUrl": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -362,9 +332,9 @@
       "publishedAt": "2026-09-11T16:57:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81d8-8619-db1a0d0d942f",
-      "titleZh": "阿隆索對未來的隱晦評論背後有何原因？",
-      "summaryZh": "每週四，賽車棚的媒體日都會以 Mike Krack 和本田首席工程師 Orihara Shintaro 的圓桌會議開始。除了關於動力單元可駕駛性和潛在升級的常見問題外，每個賽週末都有一個話題重複出現：我們何時可以期待關於費爾南多·阿隆索未來的公告？Krack 在蒙扎已經表示，車隊並不急於此事，而阿隆索...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-8104-b140-e08480f730a0",
+      "titleZh": "阿隆索對未來的神秘評論背後有什麼？",
+      "summaryZh": "每週四，賽道的媒體日都以 Mike Krack 和本田首席工程師織原慎太郎的圓桌會議開始。除了關於動力單元可駕駛性和潛在升級的常見問題外，每個比賽週末都有一個話題重複出現：我們何時可以期待關於費爾南多·阿隆索未來的公告？Krack 已經在蒙札表示，車隊不急於做出決定，而阿隆索...繼續閱讀",
       "titleOrig": "What's behind Alonso's cryptic comments about his F1 future?",
       "sourceUrl": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -372,9 +342,9 @@
       "publishedAt": "2026-09-11T18:07:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-818e-86f1-d727f7e7ae2d",
-      "titleZh": "F1 西班牙大獎賽：梅賽德斯在 FP1 中奪冠，拉塞爾在馬德林賽道最快",
-      "summaryZh": "梅賽德斯的喬治·拉塞爾在全新馬德林賽道的首場 F1 練習賽中最快，這是西班牙大獎賽的首次練習。22輛賽車中有20輛在練習賽開始的前100秒內就駛上全新賽道，尼科·霍肯堡和法蘭科·科拉平托稍晚才出場。最初的飛行圈數據略顯謹慎，大部分車手的表現都在...",
+      "notionPageId": "3df6c3d3-6a7f-81ef-8068-f39f50200edb",
+      "titleZh": "F1 西班牙大獎賽：梅賽德斯在 FP1 中領先，拉塞爾在馬德林賽道最快",
+      "summaryZh": "梅賽德斯的喬治·拉塞爾在全新馬德林賽道的首場 F1 練習賽中成為最快車手，這是西班牙大獎賽的首次練習。22輛賽車中有20輛在練習賽開始的前100秒內駛上全新賽道，尼科·霍肯堡和法蘭科·科拉平托稍晚才出場。最初的飛行圈有些謹慎，大多數車手的表現...",
       "titleOrig": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-spanish-gp-fp1-report/10854512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -382,9 +352,9 @@
       "publishedAt": "2026-09-11T20:40:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-814d-87d3-f83712899f3f",
+      "notionPageId": "3df6c3d3-6a7f-8164-acdf-eca88e28a7eb",
       "titleZh": "為何 Leclerc 在西班牙大獎賽不使用最新的 Ferrari ADUO2 引擎",
-      "summaryZh": "Charles Leclerc 仍然感受到上週末意大利大獎賽在 Parabolica 出口撞牆的痛苦，這次事故的結果是他將無法在西班牙大獎賽中使用 Ferrari 最新的 F1 引擎規格。據了解，Ferrari 工程師認為裝配了 FIA 允許的第二套修改包的 067/6 單元是安全的...繼續閱讀",
+      "summaryZh": "Charles Leclerc 仍然感受到上週末意大利大獎賽在 Parabolica 出口撞牆的痛苦，這次事故的結果是他將無法在西班牙大獎賽中使用 Ferrari 最新的 F1 引擎規格。據了解，Ferrari 工程師認為裝配了 FIA 允許的第二套修改包的 067/6 單元是安全的...持續關注",
       "titleOrig": "Why Leclerc isn't using latest Ferrari ADUO2 engine in the Spanish GP",
       "sourceUrl": "https://www.autosport.com/f1/news/why-charles-leclerc-isnt-using-latest-aduo2-engine-in-the-spanish-gp/10854566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -392,9 +362,9 @@
       "publishedAt": "2026-09-11T22:33:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-816c-a7ad-f60f050d1332",
+      "notionPageId": "3df6c3d3-6a7f-81b6-9335-db33bff209d1",
       "titleZh": "F1 西班牙大獎賽：Antonelli 在艱難的第二次練習中領先，Lindblad 失控撞車",
-      "summaryZh": "Kimi Antonelli 在 F1 西班牙大獎賽的第二次練習中表現出色，於週五下午在新的 Madring 賽道上超越了 Ferrari 的 Charles Leclerc，而 Arvid Lindblad 則發生了撞車。Antonelli 在這個一小時的練習賽中於過半時段創下最快單圈成績，車手和車隊持續調整他們在這條極具挑戰性的馬德里賽道上的設定。這條 5.4 公里的賽道...繼續閱讀",
+      "summaryZh": "Kimi Antonelli 在 F1 西班牙大獎賽的第二次練習中表現出色，於週五下午在新的 Madring 賽道上超越了 Ferrari 的 Charles Leclerc，而 Arvid Lindblad 則發生了撞車事故。Antonelli 在這個一小時的練習賽中於過半時段創下最快圈速，車手和車隊在這條極具挑戰性的馬德里賽道上不斷調整他們的設定。這條 5.4 公里的賽道...繼續閱讀",
       "titleOrig": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -402,9 +372,9 @@
       "publishedAt": "2026-09-12T00:14:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81cb-811b-efd7efca739e",
-      "titleZh": "從「風險極高」到「歐洲最佳賽事」- F1 車手分享首次 Madring 印象",
-      "summaryZh": "西班牙大獎賽的 Madring 賽道獲得多位頂尖 F1 車手的讚賞，他們稱讚其高挑戰性的佈局，儘管並非所有人都感到滿意。在模擬器上體驗過這條 5.4 公里的賽道後，車手們準備迎接年度最具挑戰性的週末之一，這條賽道結合了街道賽道的無情特性和豐富的...持續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-81c8-81ac-e23904a05bdc",
+      "titleZh": "從「非常高風險」到「歐洲最佳賽事」 - F1 車手分享首次 Madring 體驗",
+      "summaryZh": "西班牙大獎賽的 Madring 賽道獲得多位頂尖 F1 車手的讚賞，他們稱讚其高挑戰性的佈局，儘管並非所有人都如此印象深刻。在模擬器上體驗過這條 5.4 公里賽道後，車手們準備迎接年度最具挑戰性的賽事之一，這條賽道結合了街道賽道的無情特性以及眾多...持續閱讀",
       "titleOrig": "From \"very high risk\" to the \"best race in Europe\" - F1 drivers share first Madring impressions",
       "sourceUrl": "https://www.autosport.com/f1/news/high-risk-and-a-chance-of-chaos-drivers-open-up-on-f1s-new-madring-circuit/10854707/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -412,9 +382,9 @@
       "publishedAt": "2026-09-12T02:12:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81ae-999f-e7b9ca1fe16a",
+      "notionPageId": "3df6c3d3-6a7f-8177-886f-f2d826f2f2be",
       "titleZh": "F1 西班牙大獎賽：Antonelli 在 FP3 中領先，Hamilton 和 Bearman 造成紅旗",
-      "summaryZh": "F1 冠軍領跑者 Kimi Antonelli 將以最快的時間進入西班牙大獎賽的排位賽，這場挑戰性的 Madring 賽道的最後練習賽因兩起事故而受到影響。這位 Mercedes 車手在馬德里的練習賽中，經過一段長時間的暫停後，成功抵擋了 Ferrari 車手 Charles Leclerc 的挑戰，重新奪回了榜首位置。FP3 被暫停...繼續閱讀",
+      "summaryZh": "F1 冠軍領跑者 Kimi Antonelli 將以最快時間進入西班牙大獎賽挑戰性的 Madring 賽道排位賽，這次的最後練習賽因兩起事故而受到影響。這位 Mercedes 車手在馬德里練習賽中途的長時間停賽後，成功抵擋了 Ferrari 車手 Charles Leclerc 的挑戰，重新奪回了榜首位置。FP3 被暫停...繼續閱讀",
       "titleOrig": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -422,9 +392,9 @@
       "publishedAt": "2026-09-12T20:05:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81e5-a20e-f3e29ba76df5",
-      "titleZh": "F1 西班牙大獎賽：Norris 在最後時刻奪下桿位",
-      "summaryZh": "F1 現任世界冠軍 Lando Norris 在西班牙大獎賽上奪下了 2026 賽季的第三個桿位，擊敗了系列領頭羊 Kimi Antonelli，這場比賽在新開幕的 Madring 賽道進行。Norris 在最後一刻以僅僅 0.011 秒的優勢超越了 Antonelli 的成績，讓 Mercedes 遭遇連續第四場的排位賽失利。這是 F1 歷史上首次在...的排位賽。",
+      "notionPageId": "3df6c3d3-6a7f-8152-8a55-da2251cba37f",
+      "titleZh": "F1 西班牙大獎賽：Norris 在最後時刻奪得桿位",
+      "summaryZh": "F1 現任世界冠軍 Lando Norris 在西班牙大獎賽上奪下了 2026 賽季的第三個桿位，擊敗了系列領頭羊 Kimi Antonelli，這場比賽在新開幕的 Madring 賽道舉行。Norris 在最後一刻以僅 0.011 秒的微弱優勢超越了 Antonelli 的成績，讓 Mercedes 遭遇連續第四場排位賽失利。這是 F1 歷史上首次在該賽道進行的排位賽...",
       "titleOrig": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-spanish-gp-norris-on-pole/10855001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -432,9 +402,9 @@
       "publishedAt": "2026-09-12T23:04:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81ca-b72c-ce8b1fe26593",
-      "titleZh": "F1 車手批評馬德里賽道，Verstappen 笑說：‘我會解決它’",
-      "summaryZh": "儘管在馬德里的 IFEMA 複合體舉行的 Formula 2 和 Formula 3 比賽中發生了幾起撞車事故，但 F1 的混亂目前仍然有限。不過，在西班牙首都的排位賽後，車手們對賽道提出了批評。儘管在單圈飛行圈中，這條賽道被認為相當有趣，但桿位車手 Lando Norris 表示，這種刺激感肯定無法相比...",
+      "notionPageId": "3df6c3d3-6a7f-8192-b005-dcc29349b360",
+      "titleZh": "F1 車手批評馬德里賽道，Verstappen 笑說：‘我會解決的’",
+      "summaryZh": "儘管在馬德里的 IFEMA 複合體舉行的 Formula 2 和 Formula 3 比賽中發生了多起碰撞，但 F1 的混亂目前仍然有限。然而，在西班牙首都的排位賽後，車手們對賽道提出了批評。雖然在單圈飛行圈中，這條賽道被認為相當有娛樂性，但桿位車手 Lando Norris 表示，這種刺激感絕對無法相比……",
       "titleOrig": "F1 drivers criticise Madrid circuit, Verstappen laughs: \"I'll sort it out\"",
       "sourceUrl": "https://www.autosport.com/f1/news/as-drivers-criticise-madring-max-verstappen-calls-for-input-on-new-f1-circuits-ill-sort-it-out/10855154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -442,9 +412,9 @@
       "publishedAt": "2026-09-13T02:18:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-813f-85f4-c8641eec591e",
-      "titleZh": "烏戈丘庫贏得F3冠軍",
-      "summaryZh": "烏戈·烏戈丘庫在週日成為2026年F3冠軍，儘管他在馬德林週末之前被視為黑馬。Campos Racing的烏戈丘庫和Trident的弗雷迪·斯萊特在夏季期間成為兩位冠軍爭奪者，這要歸功於他們在特徵賽中的穩定表現。在賽季的前七輪比賽中——直到夏季休息——斯萊特在六場特徵賽中登上頒獎台...",
+      "notionPageId": "3df6c3d3-6a7f-8163-b4c2-d010b74b3bd9",
+      "titleZh": "烏戈丘庫贏得 F3 冠軍",
+      "summaryZh": "烏戈·烏戈丘庫在週日成為 2026 年的 Formula 3 冠軍，儘管他在馬德林週末之前被視為黑馬。Campos Racing 的烏戈丘庫和 Trident 的弗雷迪·斯萊特在夏季期間成為兩位冠軍爭奪者，這要歸功於他們在特徵賽中的穩定表現。在賽季的前七輪比賽中——直到夏季休息期間——斯萊特在六場特徵賽中都登上了頒獎台。",
       "titleOrig": "Ugochukwu beats Slater to win F3 title",
       "sourceUrl": "https://www.autosport.com/fia-f3/news/ugochukwu-beats-slater-to-win-f3-title/10855297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -452,9 +422,9 @@
       "publishedAt": "2026-09-13T17:05:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-813c-932c-e56667cfb429",
+      "notionPageId": "3df6c3d3-6a7f-8163-ab10-f589ef29c90d",
       "titleZh": "馬德里「六公里長」的維修區將對西班牙大獎賽策略產生的影響",
-      "summaryZh": "馬德里的賽道在首次造訪時為F1車手提供了意外的高抓地力，這在新賽道上並不常見。抓地力的水平讓一些車隊感到驚訝，儘管目前非常高的輪胎磨損也同樣令人意外。'週末開始時有些棘手，因為這條賽道的抓地力非常高，即使它是...繼續閱讀",
+      "summaryZh": "馬德里的賽道在首次造訪時為F1車手提供了意外高水準的抓地力，這在新賽道上並不常見。抓地力的水準讓一些車隊感到驚訝，儘管目前非常高的輪胎磨損也同樣令人意外。'週末開始時有些棘手，因為這條賽道的抓地力非常強，即使是...繼續閱讀",
       "titleOrig": "The impact Madrid's \"six kilometres long\" pitlane will have on Spanish GP strategy",
       "sourceUrl": "https://www.autosport.com/f1/news/spanish-gp-strategy-options-in-madrid/10855301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -462,9 +432,9 @@
       "publishedAt": "2026-09-13T17:31:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81c6-9cc5-cf3f865d50e6",
+      "notionPageId": "3df6c3d3-6a7f-813e-b01a-d864cbf90fe1",
       "titleZh": "Verstappen：在西班牙大獎賽獲勝將會很「艱難」，因為超車機會有限",
-      "summaryZh": "Max Verstappen 表示，如果他想在 F1 的西班牙大獎賽中擊敗 Lando Norris 獲得勝利，他仍需找出超車的時機。Verstappen 在馬德里的新街道賽道上排位第三，僅比桿位得主 Norris 和 Mercedes 的 Kimi Antonelli 慢了超過十分之一。當被問到是否能挑戰 McLaren 獲勝時，這位 Red Bull 車手表示懷疑，因為超車的難度很高...",
+      "summaryZh": "Max Verstappen 表示，如果他想在 F1 西班牙大獎賽中擊敗 Lando Norris 獲得勝利，他仍需找出超車的方式。Verstappen 在馬德里的新街道賽道上排位第三，僅比桿位得主 Norris 和梅賽德斯的 Kimi Antonelli 慢了一點多十分之一。當被問到是否能挑戰 McLaren 獲勝時，這位 Red Bull 車手表示懷疑，因為超車的難度...",
       "titleOrig": "Verstappen: Victory at Spanish GP to be \"tough\" with lack of overtaking opportunities",
       "sourceUrl": "https://www.autosport.com/f1/news/verstappen-pessimistic-for-spanish-gp-win/10855330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -472,9 +442,9 @@
       "publishedAt": "2026-09-13T18:38:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8137-9c54-ee04dca8813e",
+      "notionPageId": "3df6c3d3-6a7f-8118-b8f8-f450b6c2cce7",
       "titleZh": "F1 西班牙大獎賽：Antonelli 在 VSC 下獲勝，Norris 遭遇失利",
-      "summaryZh": "Kimi Antonelli 在西班牙大獎賽中獲勝，這是 F1 在 Madring 的首場比賽，桿位車手 Lando Norris 的比賽因策略而受挫。Norris 在比賽初期輕鬆拉開距離，但在虛擬安全車介入後進站，導致他落後太多，最終失去勝利。前方車手在起步時切角，Pirelli...持續關注。",
+      "summaryZh": "Kimi Antonelli 在西班牙大獎賽中獲勝，這是 F1 首度在 Madring 舉行的比賽，桿位車手 Lando Norris 的比賽因策略而受挫。Norris 在比賽初期輕鬆領先，但在虛擬安全車介入後進站，結果讓他跌至後方，失去了勝利。前方車手因為切彎而出現混亂的起步，Pirelli ... 繼續閱讀",
       "titleOrig": "F1 Spanish GP: Antonelli wins after Norris loses out under VSC",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-wins/10855411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -482,9 +452,9 @@
       "publishedAt": "2026-09-13T22:45:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81f2-9994-c113d1773f21",
-      "titleZh": "紅牛為迫使維斯塔潘讓出兩個名額的決定辯護",
-      "summaryZh": "馬克斯·維斯塔潘在西班牙大獎賽中以第二名完賽，僅次於基米·安東內利，但如果紅牛沒有指示他在比賽中讓出兩個名額，他是否有機會贏得比賽呢？車隊負責人洛朗·梅基斯認為這並不現實。維斯塔潘在首圈超越了安東內利，但到那時他已經注定要讓出那個位置，因為一個...繼續閱讀",
+      "notionPageId": "3df6c3d3-6a7f-81ec-b669-e9e53fb549e8",
+      "titleZh": "紅牛為迫使維斯塔潘讓出兩個位置的決定辯護",
+      "summaryZh": "馬克斯·維斯塔潘在西班牙大獎賽中以第二名完賽，僅次於基米·安東內利，但如果紅牛沒有指示他在比賽中讓出兩個位置，他是否有可能贏得比賽？車隊負責人洛朗·梅基斯認為這並不現實。維斯塔潘在開賽的第一圈超越了安東內利，但到那時他已經注定要讓出那個位置，因為...",
       "titleOrig": "Red Bull defends decision to force Verstappen to give back two positions",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-defends-decision-to-force-verstappen-to-give-back-two-positions/10855497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -492,9 +462,9 @@
       "publishedAt": "2026-09-13T23:58:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8130-9d72-d28346c907cf",
-      "titleZh": "F1 車手呼籲對馬德里賽道進行改變，因西班牙 GP 表現「非常糟糕」：‘我差點睡著’",
-      "summaryZh": "F1 西班牙大獎賽的比賽結果正如大多數車手所擔心的那樣。Max Verstappen 在週六表示，他看不到任何超車的機會，並在接受荷蘭媒體訪問時補充說：‘給我賽道地圖’，以表明他希望進行多項改變。週日，超車幾乎變得不可能，這讓車隊的氣氛變得明顯。",
+      "notionPageId": "3df6c3d3-6a7f-81fe-b789-d834ee1f667a",
+      "titleZh": "F1 車手呼籲對馬德里賽道進行改變，因為西班牙大獎賽「非常糟糕」：『我差點睡著』",
+      "summaryZh": "F1 西班牙大獎賽的比賽結果正如大多數車手所擔心的那樣。Max Verstappen 在週六表示，他看不到任何超車的機會，並在接受荷蘭媒體訪問時補充說：「給我賽道地圖吧」，暗示他會進行多項改變。週日，超車幾乎變得不可能，讓車隊的氣氛變得明顯。",
       "titleOrig": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
       "sourceUrl": "https://www.autosport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -502,9 +472,9 @@
       "publishedAt": "2026-09-14T02:11:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-816d-8459-f08eeea07a79",
+      "notionPageId": "3df6c3d3-6a7f-812b-9a5f-ed63c63ea804",
       "titleZh": "本田在組織調整中更換 F1 動力單元負責人",
-      "summaryZh": "阿斯頓馬丁的引擎合作夥伴本田已經更換了其 F1 動力單元計畫的專案負責人，旨在重新爭取競爭力。這家日本製造商在週一宣布，引擎開發負責人角田哲志將由其現任助理福岡陽一郎接替，自10月1日起生效。本田賽車公司表示，此舉是「計畫中的...」",
+      "summaryZh": "阿斯頓馬丁的引擎夥伴本田已經更換了其 F1 動力單元計畫的專案負責人，目的是希望重新回到競爭行列。這家日本製造商在週一宣布，引擎開發負責人角田哲志將由目前的助理福岡陽一郎接任，自 10 月 1 日起生效。本田賽車公司表示，此舉是「計畫中的...繼續閱讀",
       "titleOrig": "Honda replaces F1 power unit boss in organisation shuffle",
       "sourceUrl": "https://www.autosport.com/f1/news/aston-martin-partner-honda-replaces-f1-power-unit-boss/10855755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -512,9 +482,9 @@
       "publishedAt": "2026-09-14T15:53:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8190-b95e-e64406395b7a",
-      "titleZh": "西班牙大獎賽主辦方承諾在 F1 批評後對 Madring 賽道進行改變",
-      "summaryZh": "西班牙大獎賽的主辦方準備在 2027 年對位於馬德里的 Madring 賽道進行調整，以促進超車，並已經收到 FIA 的建議。這條 5.4 公里的賽道圍繞馬德里的 IFEMA 展覽中心，於上週末首次舉行比賽，獲得了車手和車隊對其設施和駕駛挑戰的讚譽。但儘管這條賽道具有挑戰性……",
+      "notionPageId": "3df6c3d3-6a7f-8114-955b-fa716dedbb43",
+      "titleZh": "西班牙大獎賽主辦方承諾在 F1 批評後對 Madring 賽道進行調整",
+      "summaryZh": "西班牙大獎賽的主辦方已準備在 2027 年對 Madring 賽道進行調整，以促進超車，並已收到 FIA 的建議。這條 5.4 公里長的賽道圍繞著馬德里的 IFEMA 展覽中心，於上週末首次舉辦比賽，受到車手和車隊對其設施及駕駛挑戰的讚譽。但儘管這條賽道具挑戰性，...繼續閱讀",
       "titleOrig": "Spanish GP organisers promise Madring track changes following F1 criticism",
       "sourceUrl": "https://www.autosport.com/f1/news/spanish-gp-organisers-promise-madring-track-changes-following-f1-criticism/10855769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -522,9 +492,9 @@
       "publishedAt": "2026-09-14T17:17:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81e9-b7ac-cce6f8662a5e",
-      "titleZh": "F2 增加巴庫額外特別賽，堅持卡塔爾與阿布達比仍在進行 – 這對 F1 意味著什麼？",
-      "summaryZh": "F2 錦標賽宣布在巴庫的下一輪比賽中將舉辦一場「超級」會議。這一舉措將在阿塞拜疆增加一場特別賽，並且距離賽事週末開始僅有 10 天。這是一個不尋常且晚做的決定，無疑在 F1 賽季結束仍不確定的時候引起關注。目前，卡塔爾和阿布達比的情況仍在持續觀察中。",
+      "notionPageId": "3df6c3d3-6a7f-8153-a3db-f69b487a6194",
+      "titleZh": "F2 增加巴庫特別賽事，並堅持卡塔爾、阿布達比仍然進行 – 這對 F1 意味著什麼？",
+      "summaryZh": "F2 錦標賽宣布在巴庫的下一輪比賽中將舉辦一場「超大型」會議。這一舉措將在阿塞拜疆新增一場特別賽事，而這一決定距離比賽週末開始僅有 10 天。這是一個不尋常且較晚的決定，無疑在 F1 賽季結束仍不確定的時刻引發了關注。目前，卡塔爾和阿布達比的情況仍在持續觀察中。",
       "titleOrig": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on – what does this mean for F1?",
       "sourceUrl": "https://www.autosport.com/formula2/news/f2-bulks-up-baku-schedule-with-extra-feature-race-is-this-a-clue-for-f1s-future/10855898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -532,9 +502,9 @@
       "publishedAt": "2026-09-14T22:55:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81ca-9bf6-c2873433575f",
-      "titleZh": "Norris 完成在 McLaren Le Mans 超跑的首次完整測試",
-      "summaryZh": "現任 F1 冠軍 Lando Norris 於週一在 Portimao 完成了他在 McLaren MCL-HY Le Mans 超跑的首次完整測試。在上週末的西班牙大獎賽中，由於虛擬安全車的時機不佳使他無法獲勝後，Norris 跨越邊界前往葡萄牙進行為期一天的測試。這位英國車手完成了 38 輪的測試。",
+      "notionPageId": "3df6c3d3-6a7f-8171-9373-c836d25b7182",
+      "titleZh": "Norris 完成在 McLaren Le Mans Hypercar 的首次完整測試",
+      "summaryZh": "衛冕的 F1 冠軍 Lando Norris 於週一在 Portimao 完成了他在 McLaren MCL-HY Le Mans Hypercar 的首次完整測試。在上週末的西班牙大獎賽中，由於虛擬安全車的時機不佳使他無法獲勝，Norris 隨後跨越邊界前往葡萄牙進行為期一天的測試。這位英國車手完成了 38 輪的測試...",
       "titleOrig": "Norris completes first full test in McLaren’s Le Mans Hypercar",
       "sourceUrl": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -542,9 +512,9 @@
       "publishedAt": "2026-09-15T02:29:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8122-b98e-dda9e346c0c1",
-      "titleZh": "Slater 將於 2027 年從 F3 升級至 F2",
-      "summaryZh": "F3 亞軍及 Audi F1 青年車手 Freddie Slater 將於 2027 年與 Invicta Racing 一同升上 F2。這位 2024 年義大利 F4 及 2025 年歐洲區域方程式冠軍被 Audi 簽下，以領導其 2026 年的新駕駛發展計畫，同時他也與 Trident 一同參加 F3。四場連續的特徵賽頒獎台讓 Slater 從...奪回了冠軍領先位置。",
+      "notionPageId": "3df6c3d3-6a7f-8149-a8c6-c405d757eb40",
+      "titleZh": "Slater 將於 2027 年從 F3 升上 F2",
+      "summaryZh": "F3 亞軍及 Audi F1 青年車手 Freddie Slater 將於 2027 年與 Invicta Racing 一同升上 F2。這位 2024 年義大利 F4 和 2025 年歐洲地區賽冠軍被 Audi 簽下，以領導其 2026 年的新車手發展計劃，同時他也與 Trident 一同參加 F3。四場連續的特別賽頒獎台表現讓 Slater 奪回了冠軍的領先位置。",
       "titleOrig": "Slater to graduate from F3 to F2 for 2027",
       "sourceUrl": "https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -552,9 +522,9 @@
       "publishedAt": "2026-09-15T17:49:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-814d-94be-ea7a0e88eb37",
+      "notionPageId": "3df6c3d3-6a7f-81b8-b873-f08a7493196f",
       "titleZh": "拉塞爾與漢密爾頓承認 F1 2026 冠軍機會渺茫，安東內利主宰賽事",
-      "summaryZh": "在 F1 賽事中，奇怪的事情時有發生。就問問 Max Verstappen，他無法相信自己的運氣，當 McLaren 將進入 2025 年冠軍爭奪戰的機會端到他面前。儘管他最終以兩分之差輸給 Lando Norris，但他實際上是在一輛劣勢的車輛中單手作戰。不過，今年的競爭感覺截然不同。主導...繼續閱讀",
+      "summaryZh": "在 F1 賽事中，奇怪的事情時有發生。就問問 Max Verstappen，他無法相信自己的運氣，當 McLaren 給了他一個進入 2025 冠軍爭奪戰的機會，簡直像是送上了一個白盤。雖然他最終以兩分之差輸給了 Lando Norris，但他基本上是在一輛劣勢車輛中單手作戰。然而，今年的競爭感覺卻截然不同。主宰...繼續閱讀",
       "titleOrig": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
       "sourceUrl": "https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -562,9 +532,9 @@
       "publishedAt": "2026-09-15T19:40:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-812a-8ea4-eec1e59f630b",
-      "titleZh": "法拉利尚未轉向 2027 F1 汽車的開發",
-      "summaryZh": "法拉利車隊負責人 Fred Vasseur 表示，儘管爭奪冠軍的機會減少，斯庫德利亞仍將繼續開發其 SF-26 F1 汽車。在西班牙大獎賽中，Lewis Hamilton 因煞車問題退賽，這位七次世界冠軍在車手排名中落後冠軍領跑者 Kimi Antonelli 101 分。與此同時，Charles Leclerc 在馬德林僅獲得第四名。",
+      "notionPageId": "3df6c3d3-6a7f-8138-885f-f3eaef4260e4",
+      "titleZh": "法拉利尚未轉向2027年F1賽車的開發",
+      "summaryZh": "法拉利車隊負責人Fred Vasseur表示，儘管奪冠機會逐漸減少，斯庫德利亞仍將繼續開發其SF-26 F1賽車。在西班牙大獎賽中，Lewis Hamilton因煞車問題退賽，這位七次世界冠軍在車手積分榜上落後於冠軍領跑者Kimi Antonelli達101分。與此同時，Charles Leclerc在馬德林僅獲得第四名……繼續閱讀",
       "titleOrig": "Ferrari not yet switching focus to 2027 F1 car",
       "sourceUrl": "https://www.autosport.com/f1/news/ferrari-not-switching-focus-to-f1-2027-car/10856173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -572,9 +542,9 @@
       "publishedAt": "2026-09-15T23:55:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8190-8ed1-c276d752346e",
-      "titleZh": "F1 公布 2027 賽季賽程，摩納哥加入擴增的衝刺賽日程",
-      "summaryZh": "F1 已公布 2027 賽季的 24 場比賽賽程，衝刺賽週末數量增加至 10 場，賽季將在巴林開幕，並在阿布達比結束。2027 賽季預定於 3 月 14 日的巴林大獎賽開始，該賽事回到其通常的開幕位置，並與沙烏地阿拉伯的比賽形成雙賽週，而墨爾本的澳洲大獎賽則成為第三場賽事。",
+      "notionPageId": "3df6c3d3-6a7f-8166-8a68-fc34157ab1fa",
+      "titleZh": "F1 公布 2027 賽季日曆 摩納哥加入擴展的衝刺賽安排",
+      "summaryZh": "F1 已公布 2027 賽季的 24 場比賽日曆，衝刺賽週末數量增加至 10 場，賽季將在巴林開幕，並在阿布達比結束。2027 賽季預定於 3 月 14 日以巴林大獎賽開賽，這場比賽回到其傳統的開幕位置，並與沙烏地阿拉伯的雙賽週末一起進行，而墨爾本的澳洲大獎賽則成為第三場比賽...",
       "titleOrig": "F1 reveals 2027 calendar as Monaco joins expanded sprint schedule",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-reveals-2027-calendar-as-monaco-joins-expanded-sprint-schedule/10856277/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -582,9 +552,9 @@
       "publishedAt": "2026-09-16T17:01:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8146-998f-d7cde59eece0",
-      "titleZh": "Haas 對於與新夥伴談判將 2027 F1 預算拉近上限充滿信心",
-      "summaryZh": "Haas 車隊負責人 Ayao Komatsu 表示，車隊在尋找新贊助商的過程中取得了「積極」的進展，這支美國 F1 車隊希望逐步將年度預算推向上限。作為 F1 中最小的車隊，Haas 僱用的人數僅超過 400 名，並且在其兩次運作中都遠低於預算上限。儘管目前車隊擁有一個冠名贊助商...",
+      "notionPageId": "3df6c3d3-6a7f-814d-819f-e3bc6690b9ee",
+      "titleZh": "Haas 對於與新合作夥伴談判將 2027 F1 預算接近上限充滿信心",
+      "summaryZh": "Haas 車隊負責人 Ayao Komatsu 表示，車隊在尋找新贊助商的過程中取得了「積極」的進展，這支美國 F1 車隊希望將其年度預算逐步推向預算上限。作為 F1 中最小的車隊，Haas 僱用人數僅超過 400 人，並且在其兩次運作中都遠低於預算上限。儘管目前車隊擁有一個冠名贊助商 ... 繼續閱讀",
       "titleOrig": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
       "sourceUrl": "https://www.autosport.com/f1/news/haas-confident-of-getting-2027-f1-budget-closer-to-cap-with-new-partner-talks/10856365/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -592,9 +562,9 @@
       "publishedAt": "2026-09-16T21:50:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-817a-8913-e2098fcf6088",
-      "titleZh": "艱辛的 F1 2026 對 Russell 來說不會是結束 - Wolff",
-      "summaryZh": "Toto Wolff 相信 George Russell 能夠克服艱辛的 2026 年 F1 賽季，並在未來成為世界冠軍。這位 Mercedes 車手目前排名第二，落後於他強大的隊友 Kimi Antonelli 81 分，剩下九輪比賽，這意味著這位 20 歲的車手獲得首冠只是時間問題。儘管如此，Russell 進入 2026 年時仍是重磅冠軍熱門...",
+      "notionPageId": "3df6c3d3-6a7f-8192-a583-c29b2359f9c5",
+      "titleZh": "艱辛的 F1 2026 對 Russell 來說不會是終點 - Wolff",
+      "summaryZh": "Toto Wolff 相信 George Russell 能夠克服艱辛的 2026 年 F1 賽季，並在未來成為世界冠軍。這位 Mercedes 車手目前排名第二，落後於他強大的隊友 Kimi Antonelli 81 分，剩下九輪比賽，意味著這位 20 歲的車手獲得首冠只是時間問題。儘管如此，Russell 進入 2026 年時仍是重磅冠軍熱門...",
       "titleOrig": "Bruising F1 2026 will not be the end for Russell - Wolff",
       "sourceUrl": "https://www.autosport.com/f1/news/bruising-f1-2026-will-not-be-the-end-for-george-russell-toto-wolff/10856371/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -602,209 +572,169 @@
       "publishedAt": "2026-09-16T22:12:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-815e-adb3-eb7b401fda63",
-      "titleZh": "法拉利啟動調查，因為 Lewis Hamilton 在西班牙大獎賽退賽",
-      "summaryZh": "Lewis Hamilton 被迫在西班牙大獎賽中退賽。",
-      "titleOrig": "Ferrari launches investigation after Lewis Hamilton Spanish GP DNF",
-      "sourceUrl": "https://www.planetf1.com/news/2026-spanish-grand-prix-lewis-hamilton-ferrari-investigation",
+      "notionPageId": "3df6c3d3-6a7f-818d-a690-d288ba542848",
+      "titleZh": "Autosport 雜誌：Antonelli 與 Can-Am 慶祝活動",
+      "summaryZh": "Kimi Antonelli 的崛起使他成為 Formula 1 世界冠軍的熱門人選，而慶祝 Can-Am 60 週年的活動也在今天（9 月 17 日）發行的 10 月號 Autosport 雜誌中登場。Antonelli 不僅擁有可觀的積分領先優勢，使他成為 2026 年世界冠軍的熱門人選。他穩定的表現水平，以及隨著每週過去而減少的明顯弱點，讓他...持續受到關注。",
+      "titleOrig": "Autosport magazine: Antonelli and a Can-Am celebration",
+      "sourceUrl": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-09-17T16:17:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81bf-8650-e1a2b205dbcd",
+      "titleZh": "Tsunoda 深入探討為何他未能駕馭 Red Bull 的 F1 賽車",
+      "summaryZh": "對於一位爭冠車手的隊友在 F1 車手排名中竟然位列第 17，這幾乎讓人無法理解，但這正是 Yuki Tsunoda 在 2025 年與 Max Verstappen 一同效力於 Red Bull 時的情況。某種程度上，這是前所未有的——或許最接近的現代例子是 Felipe Massa 在 2012 賽季前八場比賽後排名低落的第 16，而他的 Ferrari 隊友 Fernando Alonso ...繼續閱讀",
+      "titleOrig": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
+      "sourceUrl": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-09-17T17:37:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81ec-b21c-c54c65867e8a",
+      "titleZh": "前梅賽德斯 F1 技術總監 Elliott 加入 Alpine 擔任 CTO",
+      "summaryZh": "Alpine 已任命 Mike Elliott 為其 F1 車隊的首席技術官，進一步強化這支位於 Enstone 的車隊的技術架構。Alpine 於週四宣布，Elliott 將在這個新設立的 CTO 職位上「負責車隊在 Enstone 工廠的技術和工程職能」。對於這位 52 歲的英國人來說，這是一次重返 Enstone 的機會。",
+      "titleOrig": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
+      "sourceUrl": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
+      "author": "",
+      "publishedAt": "2026-09-17T18:43:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81d2-a070-f8f30328acc4",
+      "titleZh": "阿隆索要求阿斯頓馬丁檢討西班牙GP的「非常糟糕」本田問題",
+      "summaryZh": "費爾南多·阿隆索：『引擎非常糟糕……』",
+      "titleOrig": "Alonso requests Aston Martin review over ‘very bad’ Honda issues at Spanish GP",
+      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-aston-martin-investigation-honda",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T13:01:00.000+08:00"
+      "publishedAt": "2026-09-17T12:59:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81d5-9781-ce7fb36be90e",
-      "titleZh": "Madring 將在 Max Verstappen 指責藉口為「胡扯」後進行改變",
-      "summaryZh": "Madring 的超車次數少於摩納哥大獎賽。",
-      "titleOrig": "Madring to make changes after Max Verstappen branded excuses ‘BS’",
-      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-madring-spanish-grand-prix-f1-2027",
+      "notionPageId": "3df6c3d3-6a7f-8113-bdc4-fc309904799b",
+      "titleZh": "‘Max v 100’ – Red Bull 車手僅需 14 輪超越 100 名車手贏得對決",
+      "summaryZh": "在所有 100 名車手的後方起跑，Max Verstappen 只用了不到一半的可用圈數就取得了勝利。",
+      "titleOrig": "‘Max v 100’ – Red Bull driver needed just 14 laps to overtake 100 drivers and win showdown",
+      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-overtakes-100-drivers-14-laps-max-v-100",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T13:47:00.000+08:00"
+      "publishedAt": "2026-09-17T13:54:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81be-91f0-fd09cddbe879",
-      "titleZh": "漢密爾頓與法拉利在伊莫拉測試，賽道成為2026年賽季總決賽選項",
-      "summaryZh": "法拉利在伊莫拉的測試可能變得更加重要。",
-      "titleOrig": "Hamilton and Ferrari test at Imola as circuit emerges as a 2026 finale option",
-      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-imola-2026-f1-finale-option",
+      "notionPageId": "3df6c3d3-6a7f-8141-8d7c-ca161ad0392d",
+      "titleZh": "拉塞爾的梅賽德斯未來在維斯塔潘的紅牛決定之前就已確定",
+      "summaryZh": "馬克斯·維斯塔潘曾與喬治·拉塞爾的梅賽德斯比賽席位有所關聯。",
+      "titleOrig": "Russell’s Mercedes future was settled long before Verstappen’s Red Bull decision",
+      "sourceUrl": "https://www.planetf1.com/news/george-russell-mercedes-future-toto-wolff-contract",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T14:38:00.000+08:00"
+      "publishedAt": "2026-09-17T15:06:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8168-a270-f1011fdbfe2e",
-      "titleZh": "Adrian Newey 在西班牙大獎賽檢查 Alpine A526",
-      "summaryZh": "Adrian Newey 出席了西班牙大獎賽的賽前發車格。",
-      "titleOrig": "Adrian Newey holds Alpine A526 inspection at Spanish Grand Prix",
-      "sourceUrl": "https://www.planetf1.com/news/adrian-newey-alpine-spanish-grand-prix-2026-investigation",
+      "notionPageId": "3df6c3d3-6a7f-8152-bc52-e124383d1a6b",
+      "titleZh": "拉爾夫·舒馬赫對憤怒的維斯塔潘在西班牙大獎賽的爆發直言不諱",
+      "summaryZh": "「但規則就是規則。」",
+      "titleOrig": "Ralf Schumacher’s blunt verdict on furious Verstappen Spanish GP outburst",
+      "sourceUrl": "https://www.planetf1.com/news/max-verstappen-blamed-lewis-hamilton-clash-ralf-schumacher",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T15:32:00.000+08:00"
+      "publishedAt": "2026-09-17T16:28:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81cb-8e33-ef0a57811df9",
-      "titleZh": "維特爾對 F1 V8 回歸表達明確立場，FIA 會長推動中",
-      "summaryZh": "塞巴斯蒂安·維特爾歡迎可持續燃料作為 F1 的未來方向，但...",
-      "titleOrig": "Vettel makes feelings clear on F1 V8 return amid FIA president push",
-      "sourceUrl": "https://www.planetf1.com/news/sebastian-vettel-formula-1-v8-fia",
+      "notionPageId": "3df6c3d3-6a7f-81f8-91dc-c633fd0efec9",
+      "titleZh": "尼科·羅斯堡指出法拉利的「阿基里斯之踵」在西班牙GP後的挫折",
+      "summaryZh": "法拉利的阿基里斯之踵？",
+      "titleOrig": "Nico Rosberg pinpoints Ferrari’s ‘Achilles heel’ after Spanish GP frustration",
+      "sourceUrl": "https://www.planetf1.com/news/charles-leclerc-ferrari-nico-rosberg-spanish-grand-prix",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T16:32:00.000+08:00"
+      "publishedAt": "2026-09-17T17:38:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81f1-a181-e6e500305fb0",
-      "titleZh": "F1 2027 賽季完整賽程正式公布",
-      "summaryZh": "F1 2027 賽季的完整賽程已經公布，並有幾個值得注意的新增和刪除項目。",
-      "titleOrig": "Complete F1 2027 calendar officially released",
-      "sourceUrl": "https://www.planetf1.com/news/f1-2027-calendar-schedule-race-dates",
+      "notionPageId": "3df6c3d3-6a7f-818b-808e-ef382a27410b",
+      "titleZh": "Alpine 在西班牙大獎賽後發佈新公告",
+      "summaryZh": "Alpine 在西班牙大獎賽後發佈了一項重要公告。",
+      "titleOrig": "Alpine makes new announcement after Spanish Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/alpine-spanish-grand-prix-2026-announcement",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T17:05:00.000+08:00"
+      "publishedAt": "2026-09-17T19:18:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8132-82c3-c553f59d87f2",
-      "titleZh": "驚喜！摩納哥大獎賽格式變更在新 F1 公告中確認",
-      "summaryZh": "F1 已公布 2027 年賽季日曆。",
-      "titleOrig": "Surprise Monaco GP format change confirmed in new F1 announcement",
-      "sourceUrl": "https://www.planetf1.com/news/f1-2027-calendar-monaco-first-sprint",
+      "notionPageId": "3df6c3d3-6a7f-81fc-8459-cdcb50d5e5d8",
+      "titleZh": "紅牛更新 Hadjar 受傷情況，可能於巴庫復出",
+      "summaryZh": "Isack Hadjar 在訓練期間手腕骨折，已缺席三場大獎賽。",
+      "titleOrig": "Red Bull gives Hadjar injury update ahead of potential Baku return",
+      "sourceUrl": "https://www.planetf1.com/news/isack-hadjar-red-bull-injury-update-azerbaijan-gp",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T17:12:00.000+08:00"
+      "publishedAt": "2026-09-17T20:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8153-9f2d-ff103bd177a4",
-      "titleZh": "卡塔爾與阿布達比的不確定性持續，F1 宣布 2027 年賽季日曆",
-      "summaryZh": "國際汽聯尚未對卡塔爾和阿布達比做出決定。",
-      "titleOrig": "Qatar and Abu Dhabi uncertainty remains as F1 announces 2027 calendar",
-      "sourceUrl": "https://www.planetf1.com/news/qatar-abu-dhabi-f1-2026-races-imola-option-fia",
+      "notionPageId": "3df6c3d3-6a7f-816c-a881-f44ab952e553",
+      "titleZh": "Williams 青年車手在新公告中取得重大突破",
+      "summaryZh": "Williams 青年車手已獲得 2027 年 F1 賽季中最受矚目的賽車座位之一...",
+      "titleOrig": "Williams junior secures major breakthrough in new announcement",
+      "sourceUrl": "https://www.planetf1.com/news/kean-nakamura-berta-williams-formula-3-2027",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T18:49:00.000+08:00"
+      "publishedAt": "2026-09-17T21:03:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8165-86d1-dd87546afce5",
-      "titleZh": "Brundle 與 Rosberg 對 Fernando Alonso 的 F1 未來產生新分歧",
-      "summaryZh": "Martin Brundle 對 Nico Rosberg 說：'我就知道你會這樣說！'",
-      "titleOrig": "Brundle and Rosberg in fresh disagreement over Fernando Alonso F1 future",
-      "sourceUrl": "https://www.planetf1.com/news/fernando-alonso-aston-martin-future-martin-brundle-nico-rosberg",
+      "notionPageId": "3df6c3d3-6a7f-8180-96f1-ffea5e7162cd",
+      "titleZh": "Lewis Hamilton 否認有關 Ferrari 團隊變動的呼聲，謠言四起",
+      "summaryZh": "Lewis Hamilton 表示：'我看到了一些流出的故事，我想澄清一下...'",
+      "titleOrig": "Lewis Hamilton denies Ferrari team changes call as rumours swirl",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-team-changes-rumour",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T19:30:00.000+08:00"
+      "publishedAt": "2026-09-17T22:32:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81d7-98cf-f7bbd328a123",
-      "titleZh": "未播出的 Max Verstappen 車隊無線電在與 Hamilton 衝突後曝光",
-      "summaryZh": "Max Verstappen 被 Red Bull 告知在馬德里要讓路給 Lewis Hamilton。",
-      "titleOrig": "Untelevised Max Verstappen team radio emerges after Hamilton clash",
-      "sourceUrl": "https://www.planetf1.com/news/2026-spanish-grand-prix-radio-max-verstappen-lewis-hamilton",
+      "notionPageId": "3df6c3d3-6a7f-81d3-bedd-dafb8048f5e4",
+      "titleZh": "排名：2027 年最佳價值 F1 GP 票價",
+      "summaryZh": "探索 2027 年最便宜的 F1 票價，並提供每場賽事的普通入場和看台費用的完整分析。",
+      "titleOrig": "Ranked: Best value F1 GP ticket prices in 2027",
+      "sourceUrl": "https://www.planetf1.com/features/f1-ticket-prices-cheapest-grand-prix-ranked",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T21:10:00.000+08:00"
+      "publishedAt": "2026-09-17T22:43:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8193-914d-d96cd116066d",
-      "titleZh": "大衛·庫爾薩特支持蘭多·諾里斯：‘別再試圖控制一切’",
-      "summaryZh": "‘別再試圖控制一切。’",
-      "titleOrig": "David Coulthard backs Lando Norris after Coca-Cola row: ‘Stop trying to control everything’",
-      "sourceUrl": "https://www.planetf1.com/news/lando-norris-david-coulthard-coca-cola-spanish-gp",
+      "notionPageId": "3df6c3d3-6a7f-8132-9bb1-d0c1a6a2f84e",
+      "titleZh": "未轉播的 Colapinto 車隊無線電捕捉到西班牙 GP 的怒吼",
+      "summaryZh": "「嘿！交換！真是的！」",
+      "titleOrig": "Untelevised Colapinto team radio captures sweary Spanish GP rant",
+      "sourceUrl": "https://www.planetf1.com/news/2026-spanish-gp-alpine-team-radio",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-16T21:23:00.000+08:00"
+      "publishedAt": "2026-09-17T23:11:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8108-931d-ce6d5b4d3e67",
-      "titleZh": "McLaren 指出 Oscar Piastri 最大的問題：‘駕駛與思考’",
-      "summaryZh": "Oscar Piastri 的問題？‘駕駛與思考’",
-      "titleOrig": "McLaren pinpoints Oscar Piastri’s biggest problem: ‘Driving and thinking’",
-      "sourceUrl": "https://www.planetf1.com/news/oscar-piastri-mclaren-problem-andrea-stella",
+      "notionPageId": "3df6c3d3-6a7f-8106-ba95-c04570aade9b",
+      "titleZh": "Lawson 獲得紅牛高度讚譽，賽車公牛決策即將揭曉",
+      "summaryZh": "Liam Lawson 在三場紅牛比賽中有兩場獲得積分。",
+      "titleOrig": "Lawson earns major Red Bull praise as Racing Bulls decision looms",
+      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-red-bull-f1-2027-future",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-17T01:58:00.000+08:00"
+      "publishedAt": "2026-09-18T02:00:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81ce-bb57-f39473d196e1",
-      "titleZh": "法拉利啟動調查；Verstappen 未播出無線電；F1 2027 賽程揭曉 – 總覽",
-      "summaryZh": "您的 F1 新聞回顧已經來了！",
-      "titleOrig": "Ferrari launches investigation; Verstappen untelevised radio; F1 2027 calendar revealed – roundup",
-      "sourceUrl": "https://www.planetf1.com/news/ferrari-lewis-hamilton-investigation-max-verstappen-untelevised-radio",
+      "notionPageId": "3df6c3d3-6a7f-81b6-a6bb-e19d1a7dd2da",
+      "titleZh": "漢密爾頓駁斥車隊變動傳聞；法拉利的阿基里斯之踵；拉塞爾未來明朗 – 總覽",
+      "summaryZh": "您的週四 F1 新聞回顧開始了，快來看看！",
+      "titleOrig": "Hamilton rejects team changes rumour; Ferrari Achilles heel; Russell future clarified – roundup",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-rumour-team-changes",
       "sourceName": "PlanetF1",
       "author": "",
-      "publishedAt": "2026-09-17T02:59:00.000+08:00"
+      "publishedAt": "2026-09-18T02:59:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81a7-8ee5-ec0eb92feee6",
-      "titleZh": "格羅尚為誤解布朗對皮亞斯特里的評論道歉",
-      "summaryZh": "羅曼·格羅尚為他在馬德里對麥克拉倫老闆扎克·布朗關於奧斯卡·皮亞斯特里的評論的表述方式道歉。",
-      "titleOrig": "Grosjean apologises for 'misunderstanding' Brown's Piastri comments",
-      "sourceUrl": "https://www.the-race.com/formula-1/grosjean-apologises-for-misunderstanding-browns-piastri-comments/",
-      "sourceName": "The Race",
-      "author": "Josh Suttill",
-      "publishedAt": "2026-09-14T12:25:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81ab-99f4-d17e3038d3be",
-      "titleZh": "本田更換F1引擎開發負責人",
-      "summaryZh": "本田正在更換其F1引擎開發計劃的負責人。",
-      "titleOrig": "Honda replaces its F1 engine development chief",
-      "sourceUrl": "https://www.the-race.com/formula-1/honda-makes-f1-project-leadership-change/",
-      "sourceName": "The Race",
-      "author": "Matt Beer",
-      "publishedAt": "2026-09-14T14:40:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-8133-b1c8-c1ca2bb01083",
-      "titleZh": "Madring 在糟糕的 F1 首秀後將進行三項變更",
-      "summaryZh": "The Race 可以透露，Madring F1 賽道計劃在其過程化的 2026 西班牙大獎賽首秀後對三個區域進行變更。",
-      "titleOrig": "Three changes Madring will make after terrible F1 debut",
-      "sourceUrl": "https://www.the-race.com/formula-1/madring-f1-spanish-gp-circuit-three-changes-planned-2027/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-09-14T16:34:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-8156-b989-f538f7b43fb0",
-      "titleZh": "我們從 F1 2026 西班牙大獎賽中學到了什麼",
-      "summaryZh": "雖然西班牙大獎賽的賽事不算激烈，但這並不意味著馬德林的首個 F1 週末毫無看頭。以下是我們從中得到的啟示。",
-      "titleOrig": "Everything we learned from F1's 2026 Spanish Grand Prix",
-      "sourceUrl": "https://www.the-race.com/formula-1/everything-we-learned-f1-2026-spanish-grand-prix-madring/",
-      "sourceName": "The Race",
-      "author": "Matt Beer",
-      "publishedAt": "2026-09-14T21:13:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-818d-8f9b-ca1c94503cd3",
-      "titleZh": "2026 年聖馬利諾大獎賽 MotoGP 車手排名",
-      "summaryZh": "杜卡迪的 2027 年車隊陣容再次主導了我們的車手排名，但具體順序是什麼呢？",
-      "titleOrig": "San Marino Grand Prix MotoGP rider rankings 2026",
-      "sourceUrl": "https://www.the-race.com/motogp/san-marino-grand-prix-motogp-rider-rankings-2026/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-09-14T21:41:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81d6-9695-de54cb42edbf",
-      "titleZh": "Edd Straw 2026 年西班牙大獎賽 F1 車手排名",
-      "summaryZh": "在馬德林舉行的首場 F1 比賽雖然不算經典，但整個西班牙大獎賽週末確實對車手們提出了嚴峻的考驗。以下是表現優異的車手以及表現不佳的車手。",
-      "titleOrig": "Edd Straw's 2026 Spanish Grand Prix F1 driver rankings",
-      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-driver-rankings-edd-straw/",
-      "sourceName": "The Race",
-      "author": "Edd Straw",
-      "publishedAt": "2026-09-14T23:04:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-81bc-ae28-fbc1c87e359c",
-      "titleZh": "只是運氣不好嗎？究竟是什麼奪走了 Norris 的西班牙 GP 勝利",
-      "summaryZh": "Lando Norris 是不是因為虛擬安全車注定要在馬德里失利，還是 McLaren 還有機會挽救他的勝利？",
-      "titleOrig": "Just bad luck? What really robbed Norris of Spanish GP win",
-      "sourceUrl": "https://www.the-race.com/formula-1/bad-luck-or-mistake-what-really-robbed-norris-of-spanish-gp-win/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-09-15T12:10:00.000+08:00"
-    },
-    {
-      "notionPageId": "3de6c3d3-6a7f-8188-b8e1-ead25129a052",
+      "notionPageId": "3df6c3d3-6a7f-8186-94bf-f5d9546d5ad4",
       "titleZh": "Audi 聰明選擇 F2 車隊作為首位 F1 青年車手",
-      "summaryZh": "Audi 首位 F1 青年車手 Freddie Slater 將於 2027 年與衛冕冠軍車隊 Invicta 在 F2 共同作戰。",
+      "summaryZh": "Audi 首位 F1 青年車手 Freddie Slater 將於 2027 年與衛冕冠軍車隊 Invicta 在 F2 競賽中合作。",
       "titleOrig": "Audi's shrewd choice of F2 team for its first F1 junior",
       "sourceUrl": "https://www.the-race.com/formula-1/audi-f1-junior-freddie-slater-joins-f2-champion-team-2027/",
       "sourceName": "The Race",
@@ -812,9 +742,9 @@
       "publishedAt": "2026-09-15T18:04:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-818d-badf-fe4a2d23f588",
+      "notionPageId": "3df6c3d3-6a7f-816a-b398-c9b502d9a5f9",
       "titleZh": "這項「修正」無法拯救 F1 西班牙大獎賽",
-      "summaryZh": "在冷淡的西班牙大獎賽之後，焦點集中在 Madring 賽道上 F1 車輛缺乏超車地點。但另一個被忽視的因素也在影響比賽。",
+      "summaryZh": "在西班牙大獎賽表現平淡之後，焦點集中在 Madring 賽道上 F1 汽車缺乏超車地點。但另一個被忽視的因素也在影響著賽事。",
       "titleOrig": "This 'fix' wouldn't have saved F1's Spanish GP",
       "sourceUrl": "https://www.the-race.com/formula-1/suggested-fix-would-not-have-saved-f1-spanish-gp-madring/",
       "sourceName": "The Race",
@@ -822,9 +752,9 @@
       "publishedAt": "2026-09-15T21:49:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-819c-96de-f32d3a9ecc3a",
-      "titleZh": "MotoGP 2027 車手陣容大變革已完成",
-      "summaryZh": "Tech3 略具爭議的 Senna Agius 宣布，為 2027 年的 MotoGP 車手陣容畫下句點，這是一個巨大的變化。",
+      "notionPageId": "3df6c3d3-6a7f-816e-ba4a-e1b676f3b1eb",
+      "titleZh": "MotoGP 2027 車手陣容大變革已完整",
+      "summaryZh": "Tech3 略具爭議的 Senna Agius 宣布，為 2027 年的 MotoGP 車手陣容畫下句點，這個陣容經歷了巨大的變化。",
       "titleOrig": "MotoGP's radically different 2027 rider line-up is complete",
       "sourceUrl": "https://www.the-race.com/motogp/2027-motogp-line-up-complete/",
       "sourceName": "The Race",
@@ -832,9 +762,9 @@
       "publishedAt": "2026-09-16T15:26:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8184-b5d6-fb9e9667f8a5",
-      "titleZh": "F1 對虛擬安全車抽籤規則的重大困境",
-      "summaryZh": "F1 的虛擬安全車規則將在西班牙大獎賽中 Lando Norris 所發生的事件後進行討論。",
+      "notionPageId": "3df6c3d3-6a7f-816e-bae8-ed034ac41d28",
+      "titleZh": "F1 對 VSC 抽籤規則的重大困境",
+      "summaryZh": "F1 的虛擬安全車規則將在西班牙大獎賽中 Lando Norris 的事件後進行討論。",
       "titleOrig": "F1's huge dilemma over VSC lottery rule",
       "sourceUrl": "https://www.the-race.com/formula-1/f1-virtual-safety-car-rule-lando-norris-no-easy-fix/",
       "sourceName": "The Race",
@@ -842,9 +772,9 @@
       "publishedAt": "2026-09-16T15:38:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81f8-af05-e676fb2dd79f",
-      "titleZh": "摩納哥衝刺賽與賽季開幕計畫B - F1 2027 年賽季日曆",
-      "summaryZh": "摩納哥的衝刺賽是 F1 2027 年改版日曆中的驚喜新增項目，因為賽事負責人繼續推進在中東開季的計畫。",
+      "notionPageId": "3df6c3d3-6a7f-8187-8321-fd49cd32550d",
+      "titleZh": "摩納哥衝刺賽與賽季開幕計畫B - F1 2027 年賽程",
+      "summaryZh": "摩納哥的衝刺賽是 F1 2027 年重新規劃賽程中的一個驚喜新增項目，因為賽事負責人繼續推進在中東開啟賽季的計畫。",
       "titleOrig": "Monaco sprint and season opener Plan B - F1's 2027 calendar",
       "sourceUrl": "https://www.the-race.com/formula-1/monaco-sprint-and-season-opener-plan-b-f1-2027-calendar-revealed/",
       "sourceName": "The Race",
@@ -852,9 +782,9 @@
       "publishedAt": "2026-09-16T17:01:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8178-bcee-c4cce9864494",
-      "titleZh": "褻瀆？我們對2027年F1賽程的評價及衝刺賽擴展",
-      "summaryZh": "F1在2027年賽程的公告中包含了一些令人 raising eyebrows 的選擇。這裡是我們的評價，特別是對擴展的衝刺賽安排。",
+      "notionPageId": "3df6c3d3-6a7f-81ee-9bc6-ccf919c8901b",
+      "titleZh": "褻瀆？我們對 2027 F1 日曆及衝刺賽擴展的評價",
+      "summaryZh": "F1 在 2027 年日曆的公告中包含了一些令人 raised eyebrows 的選擇。這裡是我們的評價，特別是對擴展的衝刺賽提供的看法。",
       "titleOrig": "Sacrilege? Our verdict on 2027 F1 calendar + sprint expansion",
       "sourceUrl": "https://www.the-race.com/formula-1/sacrilege-our-verdict-on-2027-f1-calendar-sprint-expansion/",
       "sourceName": "The Race",
@@ -862,9 +792,9 @@
       "publishedAt": "2026-09-16T17:01:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-8136-bdcd-cea90d255607",
+      "notionPageId": "3df6c3d3-6a7f-8172-954d-e5ab99759ae1",
       "titleZh": "米爾因血液檢查異常退出奧地利大獎賽",
-      "summaryZh": "本田 MotoGP 車手 Joan Mir 在醫療建議下退出奧地利大獎賽，儘管並未得到明確的診斷。",
+      "summaryZh": "本田 MotoGP 車手 Joan Mir 在醫療建議下退出奧地利大獎賽，儘管並未有明確的診斷結果。",
       "titleOrig": "Mir out of Austrian GP due to bloodwork anomalies",
       "sourceUrl": "https://www.the-race.com/motogp/joan-mir-out-of-austrian-gp-to-bloodwork-anomalies/",
       "sourceName": "The Race",
@@ -872,14 +802,84 @@
       "publishedAt": "2026-09-16T17:30:00.000+08:00"
     },
     {
-      "notionPageId": "3de6c3d3-6a7f-81e6-ad0e-cd829025cd34",
+      "notionPageId": "3df6c3d3-6a7f-81e7-bc7e-c471c0476aa7",
       "titleZh": "Verstappen 在 Red Bull 活動中擊敗 100 名卡丁車手（從後方起跑）",
-      "summaryZh": "Max Verstappen 在 Silverstone 的 Red Bull 超級娛樂活動 Max vs 100 中，從起跑後方出發，成功擊敗 100 名名人卡丁車手。",
+      "summaryZh": "Max Verstappen 從起跑後方出發，在 Silverstone 的 Red Bull 超級娛樂活動 Max vs 100 中擊敗了 100 名名人卡丁車手。",
       "titleOrig": "Verstappen beats 100 karters (from the back) in Red Bull event",
       "sourceUrl": "https://www.the-race.com/extra/verstappen-beats-100-karters-from-the-back-in-red-bull-event/",
       "sourceName": "The Race",
       "author": "The Race Team",
       "publishedAt": "2026-09-17T01:43:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81fb-ae64-f0b3cb186726",
+      "titleZh": "墨爾本排除2027 F1 開幕賽的競爭",
+      "summaryZh": "澳洲大獎賽已明確表示不會成為2027賽季開幕賽的備選選項",
+      "titleOrig": "Melbourne rules itself out of 2027 F1 opener contention",
+      "sourceUrl": "https://www.the-race.com/formula-1/melbourne-rules-itself-out-of-2027-f1-opener-contention/",
+      "sourceName": "The Race",
+      "author": "Matt Beer",
+      "publishedAt": "2026-09-17T16:43:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-81c7-b76c-c89e6ab0e2a6",
+      "titleZh": "Robbie Williams 將為 2027 年英國大獎賽週末揭開序幕",
+      "summaryZh": "英國流行音樂偶像 Robbie Williams 將在 Silverstone 為 2027 年的 F1 英國大獎賽帶來壓軸表演。",
+      "titleOrig": "Robbie Williams to kick off 2027 British Grand Prix weekend",
+      "sourceUrl": "https://www.the-race.com/extra/robbie-williams-to-kick-off-2027-british-grand-prix-weekend/",
+      "sourceName": "The Race",
+      "author": "Fleur Mealing",
+      "publishedAt": "2026-09-17T16:58:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8168-97f3-d80438ab115c",
+      "titleZh": "Alpine 聘請前梅賽德斯 F1 技術總監",
+      "summaryZh": "前梅賽德斯 F1 技術總監 Mike Elliott 將在缺席三年後重返賽道，擔任 Alpine 的新技術總監。",
+      "titleOrig": "Alpine hires ex-Mercedes F1 tech chief",
+      "sourceUrl": "https://www.the-race.com/formula-1/alpine-hires-ex-mercedes-f1-tech-chief/",
+      "sourceName": "The Race",
+      "author": "Matt Beer",
+      "publishedAt": "2026-09-17T18:40:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8171-a6f8-c5d7ec8d9516",
+      "titleZh": "Formation 的使命：透過 F1 將女性聚集在一起",
+      "summaryZh": "隨著 F1 女性粉絲群體的不斷增長，Amy Mansell 希望確保每位女性都能與他人共同體驗這項運動。",
+      "titleOrig": "The Formation's mission to bring women together through F1",
+      "sourceUrl": "https://www.the-race.com/extra/the-formation-mission-to-bring-women-together-through-f1/",
+      "sourceName": "The Race",
+      "author": "Fleur Mealing",
+      "publishedAt": "2026-09-17T19:40:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8142-8aaa-e3e4b06aac70",
+      "titleZh": "Gary Anderson：F1 超車問題比單一賽道更嚴重",
+      "summaryZh": "Gary Anderson 表示，影響 F1 超車的因素不僅僅是像 Madring 這樣的賽道佈局。",
+      "titleOrig": "Gary Anderson: F1's overtaking problem is bigger than one circuit",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-overtaking-problem-is-bigger-than-one-circuit-gary-anderson/",
+      "sourceName": "The Race",
+      "author": "Gary Anderson",
+      "publishedAt": "2026-09-17T20:21:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8147-a47b-d01ba2a0ef67",
+      "titleZh": "漢密爾頓堅決否認要求更換法拉利員工",
+      "summaryZh": "路易斯·漢密爾頓對於有報導指出他要求法拉利進行人事變動的消息做出了強烈回應。",
+      "titleOrig": "Hamilton firmly denies asking for Ferrari staff to be replaced",
+      "sourceUrl": "https://www.the-race.com/formula-1/hamilton-firmly-denies-asking-for-ferrari-staff-to-be-replaced/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-09-17T22:18:00.000+08:00"
+    },
+    {
+      "notionPageId": "3df6c3d3-6a7f-8152-a1da-e4c59081ca59",
+      "titleZh": "「看起來糟透了」- Bagnaia 對 Di Giannantonio 聊天內容曝光感到憤怒",
+      "summaryZh": "Pecco Bagnaia 表示，與 Fabio Di Giannantonio 的對話曝光讓他看起來「糟透了」，他認為這段對話被斷章取義。",
+      "titleOrig": "'It looks terrible' - Bagnaia infuriated by Di Giannantonio chat airing",
+      "sourceUrl": "https://www.the-race.com/motogp/it-looks-terrible-bagnaia-infuriated-by-di-giannantonio-chat-airing/",
+      "sourceName": "The Race",
+      "author": "Valentin Khorounzhiy",
+      "publishedAt": "2026-09-17T22:53:00.000+08:00"
     }
   ]
 }
