@@ -1,160 +1,110 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "articles": [
     {
-      "notionPageId": "40c6c3d3-6a7f-8169-a034-ea4360eeba4c",
-      "titleZh": "‘這段經歷塑造了我’ – Gasly 談他與 Make-A-Wish 的合作",
-      "summaryZh": "Make-a-Wish 法國大使 Pierre Gasly 討論了他與這個慈善機構的重要合作，以及那些讓他難以忘懷的經歷。",
-      "titleOrig": "‘This experience has shaped me’ – Gasly on his work with Make-A-Wish",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/this-experience-has-shaped-me-gasly-opens-up-on-his-work-with-make-a-wish.54HKdR8EMP7KwMpbJUnYNz",
+      "notionPageId": "40d6c3d3-6a7f-8177-87a7-f34ac4ea8c5f",
+      "titleZh": "‘這是尊重的問題’ – Vasseur 談 Hamilton/Leclerc 衝突",
+      "summaryZh": "墨西哥城大獎賽對於 Scuderia Ferrari 來說原本充滿希望，但對於車隊總監 Fred Vasseur 來說卻是一個痛苦的午後。",
+      "titleOrig": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/its-a-matter-of-respect-vasseur-airs-frustrations-over-ferrari-intra-team-clash-in-mexico.33Ed4HMOlbqcaZlQ37hA0F",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8148-a2b7-e184b4adb6fc",
-      "titleZh": "F1 車手和車隊如何慶祝亡靈節",
-      "summaryZh": "隨著 2026 年墨西哥城大獎賽在亡靈節舉行，探索特別頭盔、賽道慶祝活動和車手活動背後的傳統。",
-      "titleOrig": "How F1 drivers and teams have embraced Dia de Muertos",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/helmets-marigolds-and-mexican-traditions-how-dia-de-muertos-has-made-its-mark-on-f1.71mk7snidhiXd5QlQqQqsN",
+      "notionPageId": "40d6c3d3-6a7f-81df-949c-f2ac1fff0197",
+      "titleZh": "Russell 詳述墨西哥開賽圈的「挫折」問題",
+      "summaryZh": "George Russell 分享了他對墨西哥城大獎賽的看法，在這場比賽中，他的隊友 Kimi Antonelli 讓車手冠軍的爭奪徹底失去希望。",
+      "titleOrig": "Russell details ‘frustrating’ opening lap issue in Mexico",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/russell-details-frustrating-opening-lap-issue-in-mexico-city-that-cost-him-a-shot-at-victory.3K9bqtqg1bCnFQf9NxWM5J",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81cf-b66f-e42c2e44c507",
-      "titleZh": "墨西哥城大獎賽的輪胎策略選擇有哪些？",
-      "summaryZh": "Matt Youson 針對在埃爾曼諾斯·羅德里格斯賽道的比賽日，分析了各車隊可選擇的不同進站和輪胎策略。",
-      "titleOrig": "What are the tyre strategy options for the Mexico City GP?",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-mexico-city-gp.22mzBSWEviowqhyGTbfhY",
+      "notionPageId": "40d6c3d3-6a7f-8138-857c-c1226911c85f",
+      "titleZh": "安東內利在奪冠之路上打破的紀錄",
+      "summaryZh": "對於 Kimi Antonelli 來說，這是一個打破紀錄的賽季，他在奪得首個世界冠軍的過程中，重寫了 F1 歷史的幾個篇章。",
+      "titleOrig": "The records Antonelli has broken on his way to maiden title",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/in-numbers-the-records-antonelli-has-broken-on-his-way-to-his-maiden-f1-title.2FB9yQ5qD7XzQ418HNlrfN",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-811f-aa41-dbcff09e8c3a",
-      "titleZh": "我們對墨西哥城大獎賽的最後投注預測",
-      "summaryZh": "我們的專業投注撰稿人為您帶來在墨西哥城大獎賽前的最後預測和最新賠率。",
-      "titleOrig": "Our final Mexico City Grand Prix betting predictions",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/our-final-mexico-city-grand-prix-betting-predictions-before-lights-out.62oXD14Ima1vLzXLErdqI6",
+      "notionPageId": "40d6c3d3-6a7f-8151-a940-e5d626fa5167",
+      "titleZh": "Bonnington 評選 Antonelli 冠軍年最佳三場比賽",
+      "summaryZh": "Kimi Antonelli 的賽車工程師 Pete Bonnington 分享了這位意大利車手在冠軍賽季中的精彩賽事亮點。",
+      "titleOrig": "Bonnington names Antonelli’s top three races in title year",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/bonnington-names-antonellis-best-three-races-in-amazing-journey-to-maiden-title.2SMeeXEzL6g3KIb2zUN8AI",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-813e-bb8a-ed4d93c3c757",
-      "titleZh": "為什麼 F1 粉絲在墨西哥必須避免情緒性賭注",
-      "summaryZh": "安全賭博很重要，因此我們標示了一些關鍵領域，提醒您在週日於奧托多羅莫·埃爾曼諾斯·羅德里格斯賽道的比賽中保持冷靜。",
-      "titleOrig": "Why F1 fans must avoid emotional bets in Mexico",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/why-f1-fans-must-avoid-emotional-betting-during-the-mexico-city-grand-prix.6XPJ9yMZJmUR7oF9cHe2Ql",
+      "notionPageId": "40d6c3d3-6a7f-81eb-83ef-fc84bb5156ad",
+      "titleZh": "Antonelli 獲得首個 F1 冠軍的驚人旅程",
+      "summaryZh": "F1.com 記錄了 Kimi Antonelli 獲得世界冠軍的輝煌賽季旅程。",
+      "titleOrig": "Antonelli's incredible journey to his maiden F1 title",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/from-surviving-setbacks-to-making-history-antonellis-incredible-journey-to-his-maiden-f1-title.7as9Pn0nJF9dFsCv2F6Uis",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8187-a875-c92749992f80",
-      "titleZh": "直播報導：Antonelli 成為史上最年輕 F1 冠軍",
-      "summaryZh": "2026 年墨西哥城大獎賽的直播報導。",
-      "titleOrig": "LIVE COVERAGE: Antonelli becomes youngest ever F1 champion",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
+      "notionPageId": "40d6c3d3-6a7f-81bc-aee9-f75016f06806",
+      "titleZh": "墨西哥城的5位贏家與5位輸家",
+      "summaryZh": "Lawrence Barretto 選出在阿奧多羅莫·埃爾曼諾斯·羅德里格斯賽道的贏家與輸家。",
+      "titleOrig": "5 Winners and 5 Losers from Mexico City",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-mexico-city.2bWgqftvDBHiqIs0dXUL3F",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81af-aa30-deda51ac3a11",
-      "titleZh": "官方起跑名單：墨西哥城大獎賽的起跑位置",
-      "summaryZh": "2026 墨西哥城大獎賽的完整官方起跑順序。",
-      "titleOrig": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
+      "notionPageId": "40d6c3d3-6a7f-8164-9803-cf64142fe328",
+      "titleZh": "平川亮評估在墨西哥城的「夢想」F1首秀",
+      "summaryZh": "平川亮承認，參加F1首秀「是我的夢想」，因為這位日本車手在上週末的墨西哥城大獎賽中完賽，最終獲得了積分。",
+      "titleOrig": "Hirakawa assesses 'dream' F1 debut in Mexico City",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/today-was-my-dream-hirakawa-really-happy-with-f1-debut-in-mexico-city.2JU1Knkff6nSnfmyb6cCId",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8117-825c-fe0a09bf0e8f",
-      "titleZh": "Antonelli 在墨西哥奪冠，Verstappen 贏得比賽",
-      "summaryZh": "Kimi Antonelli 成為最年輕的 F1 世界冠軍，在墨西哥城大獎賽中獲得第三名，足以讓這位 Mercedes 車手奪得 2026 年的冠軍，而 Max Verstappen 則從 Lewis Hamilton 手中奪得比賽勝利。",
-      "titleOrig": "Antonelli crowned champion in Mexico as Verstappen wins race",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+      "notionPageId": "40d6c3d3-6a7f-81d2-8749-e67dd0209fa2",
+      "titleZh": "Antonelli 揭示將用於 2027 年衛冕的賽車號碼",
+      "summaryZh": "Kimi Antonelli 揭示了他在 2027 年捍衛 Formula 1 車手冠軍時將使用的賽車號碼，上週末他在墨西哥城大獎賽中成為世界冠軍。",
+      "titleOrig": "Antonelli reveals race number he will use to defend title in 2027",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/antonelli-reveals-what-race-number-he-will-use-to-defend-formula-1-title-in-2027.3GBWpLc1FUNDolu43D8Llu",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81c2-8d0b-fa14e669295c",
-      "titleZh": "Antonelli 分享對於‘不可思議’冠軍獲勝的感人反應",
-      "summaryZh": "Kimi Antonelli 在墨西哥城大獎賽以第三名完賽，贏得了他的首個車手冠軍，對於這一重要成就感到非常激動。",
-      "titleOrig": "Antonelli shares touching reaction to ‘incredible’ title win",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/this-moment-will-live-forever-antonelli-shares-touching-reaction-to-incredible-world-championship-victory-in-mexico-city.zU8TYn4f00R4YcOAfOK1m",
+      "notionPageId": "40d6c3d3-6a7f-813e-931a-e4264606397b",
+      "titleZh": "安東內利在墨西哥奪冠的五個投注教訓",
+      "summaryZh": "這位20歲的車手現在成為F1歷史上最年輕的世界冠軍。",
+      "titleOrig": "5 betting lessons from Antonelli's Mexico title win",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/5-betting-lessons-after-kimi-antonelli-secures-his-first-world-championship-title-in-mexico.52HXp4dLOvtTso5l9xUYhF",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-817d-90d5-c3cd1eb18cdf",
-      "titleZh": "Verstappen 獲選為墨西哥城 GP 日間最佳車手",
-      "summaryZh": "Max Verstappen 在 2026 年墨西哥城大獎賽中獲得日間最佳車手的投票。",
-      "titleOrig": "Verstappen is your Mexico City GP Driver of the Day",
-      "sourceUrl": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-claims-his-sixth-win-in-mexico-city-and-gets-your-vote.dVgeTMPzsIX2IZlm95mfa",
+      "notionPageId": "40d6c3d3-6a7f-810c-b904-c24959aa99ce",
+      "titleZh": "Antonelli 創造歷史，Verstappen 目標 2027 榮耀",
+      "summaryZh": "Antonelli 可能已在墨西哥成為 F1 有史以來最年輕的世界冠軍，但賭盤市場已經預測 2027 年會有不同的情況發生。",
+      "titleOrig": "Antonelli makes history as Verstappen eyes 2027 glory",
+      "sourceUrl": "https://www.formula1.com/en/latest/article/max-verstappen-named-early-favourite-for-2027-title-despite-kimi-antonellis-record-breaking-season.2f4lCLl3YobQIzZd6CEiCu",
       "sourceName": "Formula1.com",
       "author": " Formula 1 ",
-      "publishedAt": "2026-11-02T08:00:00.000+08:00"
+      "publishedAt": "2026-11-03T08:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d7-a64d-cdcf15e7e525",
-      "titleZh": "法拉利美國大獎賽升級背後的原因",
-      "summaryZh": "法拉利在F1美國大獎賽的最新一波升級採用了獨特的設計，針對位於底盤前緣的「手指」部分進行改進，儘管兩位車手都淡化了這些新部件的重要性。SF-26的側翼也進行了小幅調整，進氣口和底板的下切部分都有輕微變化，以便與底板的小改動相連接...繼續閱讀",
-      "titleOrig": "The reasons behind Ferrari's US GP upgrades",
-      "sourceUrl": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-10-24T04:05:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8133-bc6b-c51e7b5bed06",
-      "titleZh": "F1 美國大獎賽：Leclerc 擊敗 Antonelli 榮登 FP2 首位，McLaren 表現不佳",
-      "summaryZh": "法拉利的 Charles Leclerc 在週五的 F1 美國大獎賽練習賽中表現出色，僅以微弱優勢擊敗 Kimi Antonelli 登上奧斯汀的首位，而 McLaren 則面臨抓地力不足的困境。Leclerc 在週五下午第二場練習賽進行到一半時，於奧斯汀挑戰性的美洲賽道上創下 1 分 35.291 秒的成績，超越了 Max Verstappen 的初始基準，Antonelli ... 繼續閱讀",
-      "titleOrig": "F1 United States GP: Leclerc pips Antonelli to top FP2 while McLaren struggles",
-      "sourceUrl": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-pips-antonelli/10867584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-10-24T06:10:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8167-aef3-ed04aa090c02",
-      "titleZh": "McLaren 在 F1 2026 最後升級中的目標，面臨表現下滑",
-      "summaryZh": "在奧斯汀舉行的 F1 美國大獎賽練習後，Lando Norris 表示：「要讓車子變快，我們必須非常努力地追求完美，但你無法做到完美。我們只是稍微落後一步。」Norris 在賽季中期的兩場勝利現在看起來更像是一段「紫色時期」，而非 McLaren 競爭力復甦的前兆，因為他們在 2026 賽季的開局相當艱難。",
-      "titleOrig": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
-      "sourceUrl": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-10-24T07:04:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-812c-a162-e0574c0b07e3",
-      "titleZh": "Verstappen 在美國大獎賽享有良好開局 - 但紅牛指出改進空間",
-      "summaryZh": "Max Verstappen 在週五的排練賽中以第二和第三名結束了F1美國大獎賽的練習。在每次出場中，這位四屆世界冠軍都僅落後於設定基準的Charles Leclerc不到兩十分之一秒。紅牛目前並未像在馬來西亞那樣明顯領先其他車隊，但Verstappen仍然...",
-      "titleOrig": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
-      "sourceUrl": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-10-24T16:12:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81d7-9c80-ccc5d9113542",
-      "titleZh": "本田在升級 F1 動力單元上面臨的意外問題",
-      "summaryZh": "在馬來西亞的 F1 賽事中取得意外成功後，Aston Martin 對新加坡的期待也很高，這個場地在理論上應該適合 AMR26。然而，馬里納灣街道賽的競爭情況卻相當失望，Fernando Alonso 在賽後指出了本田動力單元的問題，特別是在...繼續閱讀",
-      "titleOrig": "The unexpected issue Honda faced with upgraded F1 power unit",
-      "sourceUrl": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "sourceName": "Autosport",
-      "author": "",
-      "publishedAt": "2026-10-24T17:30:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81ca-982f-e1e10c086f55",
-      "titleZh": "凱迪拉克 F1 總裁迴避車手市場問題引發的 intrigue",
-      "summaryZh": "美國大獎賽週末自然使焦點集中在 F1 兩支美國擁有的車隊上。這導致凱迪拉克面臨一些尷尬的問題，因為有關其 2027 年及以後的車手陣容的猜測仍在持續。Sergio Perez 和 Valtteri Bottas 都簽有「多年度」合約，據了解這是一種所謂的「一加一」安排，第二年為選擇性合約……繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-811f-9271-cd33a7104552",
+      "titleZh": "凱迪拉克 F1 總裁迴避車手市場問題引發的好奇",
+      "summaryZh": "美國大獎賽周末自然讓焦點集中在兩支美國擁有的 F1 車隊上。這使得凱迪拉克面臨一些尷尬的問題，因為外界對其 2027 年及以後的車手陣容持續猜測。Sergio Perez 和 Valtteri Bottas 都簽有「多年」合約，據了解是所謂的一加一安排，第二年為選擇性合約……繼續閱讀",
       "titleOrig": "The intrigue caused by Cadillac's F1 boss dodging driver market question",
       "sourceUrl": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -162,9 +112,9 @@
       "publishedAt": "2026-10-24T21:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81aa-9a62-dd8cc8584923",
-      "titleZh": "F1 美國大獎賽：法拉利完美練習紀錄，漢密爾頓在 FP3 中領先",
-      "summaryZh": "路易斯·漢密爾頓在 F1 美國大獎賽的最後練習中名列前茅，帶領馬克斯·維斯塔潘和查爾斯·勒克萊爾進入奧斯汀的排位賽。在第三次練習的最後 20 分鐘內，漢密爾頓是唯一一位突破 1 分 35 秒大關的車手，而頻繁的賽道限制違規使得法拉利隊友勒克萊爾無法在排行榜上超越他。",
+      "notionPageId": "40d6c3d3-6a7f-8106-b279-fc16bcf36a6f",
+      "titleZh": "F1 美國大獎賽：法拉利完美練習紀錄，漢密爾頓在 FP3 中排名第一",
+      "summaryZh": "路易斯·漢密爾頓在 F1 美國大獎賽的最後一次練習中名列前茅，帶領馬克斯·維斯塔潘和查爾斯·勒克萊爾進入奧斯丁的排位賽。在最後 20 分鐘的第三次練習中，漢密爾頓是唯一一位突破 1 分 35 秒大關的車手，而頻繁的賽道限制違規使得法拉利隊友勒克萊爾無法在排行榜上超越他。",
       "titleOrig": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -172,9 +122,9 @@
       "publishedAt": "2026-10-25T02:42:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81bc-8eda-da137cb72f88",
-      "titleZh": "F1 美國大獎賽：Antonelli 擊敗 Verstappen 獲得桿位，Russell 僅第六",
-      "summaryZh": "冠軍領跑者 Kimi Antonelli 在 F1 美國大獎賽中奪得他在 2026 年的第七個桿位，在奧斯丁的排位賽中以驚心動魄的接近比分擊敗了 Max Verstappen。Antonelli 在 Q3 的第一次嘗試中衝刺至桿位，時間為 1分34.035秒，領先 Red Bull 車隊的 Verstappen 和 Isack Hadjar 約兩個十分之一，因為少數前方車手在最後一圈有所提升。",
+      "notionPageId": "40d6c3d3-6a7f-81a7-94b4-e7aa5626855d",
+      "titleZh": "F1 美國大獎賽：Antonelli 擊敗 Verstappen 拿下桿位，Russell 僅第六",
+      "summaryZh": "冠軍領跑者 Kimi Antonelli 在 F1 美國大獎賽中獲得了他在 2026 年的第七個桿位，在奧斯丁的排位賽中以驚險的方式擊敗了 Max Verstappen。Antonelli 在 Q3 的第一次嘗試中衝刺至桿位，最終成績為 1分34.035秒，領先 Red Bull 車隊的 Verstappen 和 Isack Hadjar 約兩個十分之一，因為少數前方車手在最後一圈有所提升。",
       "titleOrig": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -182,9 +132,9 @@
       "publishedAt": "2026-10-25T06:15:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-819a-b04d-ee2ead420182",
-      "titleZh": "諾里斯對美國GP排位賽感到沮喪：‘我表現得非常糟糕’",
-      "summaryZh": "蘭多·諾里斯對於自己在F1美國大獎賽的排位賽中表現得“非常糟糕”感到非常沮喪，最終只拿到第八名，儘管他認為有機會進入前排。衛冕世界冠軍將與麥克拉倫隊友奧斯卡·皮亞斯特共同分享第四排，儘管他在第二次Q3的嘗試中短暫進入第六名，但因為在彎道超出賽道限制而被取消了該成績。",
+      "notionPageId": "40d6c3d3-6a7f-8160-aa4e-e349051f78d4",
+      "titleZh": "諾里斯對美國GP排位賽感到沮喪：‘我做得非常糟糕’",
+      "summaryZh": "蘭多·諾里斯對於自己在F1美國大獎賽排位賽中的“非常糟糕表現”感到非常沮喪，儘管他認為有機會進入前排，但最終只取得第八名。衛冕世界冠軍將與麥克拉倫隊友奧斯卡·皮亞斯特共同分享第四排，儘管他在第二次Q3的嘗試中短暫進入第六名，但因為在彎道超出賽道限制而被取消該成績。",
       "titleOrig": "Norris frustrated after United States GP qualifying: \"I did a very bad job\"",
       "sourceUrl": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -192,9 +142,9 @@
       "publishedAt": "2026-10-25T07:26:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8170-8f96-e3a351c9595a",
+      "notionPageId": "40d6c3d3-6a7f-81c4-9c4d-c9fbe42c4c84",
       "titleZh": "勒克萊爾與漢密爾頓對法拉利奧斯丁排位賽失利的不同看法",
-      "summaryZh": "法拉利在美國大獎賽的練習賽後被視為最具競爭力的車隊，但在排位賽中卻未能找到足夠的進步，最終在 Q3 中表現不佳。查爾斯·勒克萊爾在週五的兩場練習賽中表現出色，而路易斯·漢密爾頓則在 FP3 中獲得榮譽，因為勒克萊爾的最佳圈速被取消，這讓人感覺這支車隊原本有機會...繼續閱讀",
+      "summaryZh": "法拉利在美國大獎賽的練習賽後被認為是最具競爭力的車隊，但最終在排位賽中表現不佳，未能在 Q3 中取得足夠的進展。查爾斯·勒克萊爾在週五的兩場練習賽中表現出色，而路易斯·漢密爾頓則在 FP3 中獲得榮譽，因為勒克萊爾的最佳圈速被取消，這讓人看出該隊似乎準備好要...繼續閱讀",
       "titleOrig": "Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment",
       "sourceUrl": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -202,9 +152,9 @@
       "publishedAt": "2026-10-25T07:58:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8130-ad15-f49bf36391d4",
-      "titleZh": "Antonelli 桿位顯示梅賽德斯終於看到了車輛升級的成果",
-      "summaryZh": "F1 錦標賽領導者 Kimi Antonelli 認為，他在美國大獎賽的桿位是梅賽德斯努力微調其全面但問題重重的馬來西亞升級的回報。Antonelli 在奧斯汀的美洲賽道上抵擋住了紅牛車隊的 Max Verstappen 和 Isack Hadjar，而法拉利在週六的排位賽中表現不如預期，最終僅獲得第四和第五名。",
+      "notionPageId": "40d6c3d3-6a7f-8119-8fd5-fd582ccfd491",
+      "titleZh": "Antonelli 桿位顯示 Mercedes 終於看到了升級的成果",
+      "summaryZh": "F1 錦標賽領導者 Kimi Antonelli 認為，他在美國大獎賽的桿位是 Mercedes 對其全面但問題重重的馬來西亞升級進行微調的努力所獲得的回報。Antonelli 在奧斯汀的美洲賽道上抵擋住了 Red Bull 的 Max Verstappen 和 Isack Hadjar，而 Ferrari 在週六的排位賽中表現不如預期，僅獲得第四和第五名。",
       "titleOrig": "Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades",
       "sourceUrl": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -212,9 +162,9 @@
       "publishedAt": "2026-10-25T08:13:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81c1-a036-c6e0fe0d9c47",
-      "titleZh": "Verstappen 回應 COTA 負責人，提出徹底措施應對賽道顛簸",
-      "summaryZh": "這週末在 F1 競技場中，賽道顛簸成為主要話題之一：美國賽道的極端顛簸。車手們在週五晚上的車手簡報會上表達了他們的擔憂，之後 Verstappen 留下來與 FIA 和賽道代表進一步交談。由於賽道建於德州著名的高塑性黏土上，因此遭受了...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-812d-8cb9-c9a29940b6c3",
+      "titleZh": "Verstappen 回應 COTA 總裁並提出劇烈措施以應對賽道顛簸",
+      "summaryZh": "這個週末在 F1 車隊中，賽道顛簸成為主要話題之一：美國賽道的極端顛簸。車手們在週五晚上的車手簡報中表達了他們的擔憂，之後 Verstappen 留下來與 FIA 和賽道代表進一步交談。由於賽道建於德州著名的高塑性黏土上，因此遭受了...",
       "titleOrig": "Verstappen responds to COTA boss and proposes drastic measures to tackle bumps",
       "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -222,9 +172,9 @@
       "publishedAt": "2026-10-25T17:22:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81e8-99f1-d9dc9f7a0f2c",
-      "titleZh": "紅牛在困難日子不再退步：奧斯汀排位賽揭示了其進步",
-      "summaryZh": "在奧斯汀，桿位的爭奪長時間看起來將是 Max Verstappen 和 Ferrari 之間的競爭。然而，在排位賽結束時，法拉利未能讓任何一輛車進入前三名，而 Kimi Antonelli 則成為了一個驚喜的競爭者。Verstappen 最終只能滿意地獲得第二名，並在車庫的荷蘭媒體會議中清楚表達了他的結論：是的...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8160-b39f-f55d54569a33",
+      "titleZh": "紅牛在艱難日子不再退步：奧斯汀排位賽揭示其進步",
+      "summaryZh": "在奧斯汀，桿位之爭長時間看似將在 Max Verstappen 和 Ferrari 之間展開。然而，到了排位賽結束時，法拉利未能讓任何一輛車進入前三名，而 Kimi Antonelli 則意外成為競爭者。Verstappen 最終只能滿足於第二名，並在賽道的荷蘭媒體會議中清楚表達了他的結論：是的...繼續閱讀",
       "titleOrig": "Red Bull no longer falls away on difficult days: What Austin qualifying reveals about its progress",
       "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -232,9 +182,9 @@
       "publishedAt": "2026-10-25T19:59:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81f1-932f-eec266a11c91",
-      "titleZh": "COTA 1 號彎俱樂部的內部與其建設第二條賽道的計畫",
-      "summaryZh": "對於收看 F1 美國大獎賽的觀眾和電視觀眾來說，這一點很難忽視。今年，美國賽道的 1 號彎因為新增了一座巨型多層俱樂部而顯得格外不同。這座新建的接待設施通過一條跨越賽道的纜車與主要的車隊區域相連，本週末它作為一個擴展...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-81b0-98f1-fa372a9b373d",
+      "titleZh": "COTA 1 號彎俱樂部的內部與建造第二條賽道的計劃",
+      "summaryZh": "對於收看 F1 美國大獎賽的觀眾和電視觀眾來說，這一點很難忽視。今年，美洲賽道的 1 號彎因為新增了一座巨大的多層俱樂部而呈現出截然不同的面貌。這座新建的接待設施通過一條跨越賽道的纜車與主賽車區相連，本週末它作為一個擴展 ... 繼續閱讀",
       "titleOrig": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
       "sourceUrl": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -242,9 +192,9 @@
       "publishedAt": "2026-10-25T21:15:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8136-a036-d79af7c66ad9",
+      "notionPageId": "40d6c3d3-6a7f-8103-84e8-c065c995781e",
       "titleZh": "F1 美國大獎賽：Antonelli 從桿位主宰賽事 - 但仍需等待冠軍",
-      "summaryZh": "Kimi Antonelli 在美國大獎賽中以壓倒性的表現贏得比賽，向不可避免的 F1 冠軍又邁進了一步，擊敗了 Charles Leclerc，賽道位於奧斯汀的美洲賽道。從桿位出發，這位梅賽德斯車手抵擋住了來自法拉利車手和 Max Verstappen 的挑戰，堅持執行銀箭的計畫，成功完成了一停賽事。Antonelli 的第九場大獎賽...繼續閱讀",
+      "summaryZh": "Kimi Antonelli 在美國大獎賽中以壓倒性的表現再邁向不可避免的 F1 冠軍，擊敗了 Charles Leclerc，於奧斯丁的美洲賽道奪冠。從桿位出發，這位 Mercedes 車手抵擋住了 Ferrari 車手和 Max Verstappen 的挑戰，堅持執行 Silver Arrows 的戰略，完成了一場乾淨的一停賽事。Antonelli 的第九場大獎賽...持續閱讀",
       "titleOrig": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -252,9 +202,9 @@
       "publishedAt": "2026-10-26T05:50:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8191-85a3-e946df6549ac",
-      "titleZh": "安東內利在墨西哥大獎賽成為 F1 世界冠軍的數學分析",
-      "summaryZh": "基米·安東內利在美國大獎賽中從桿位出發，主宰賽事，邁出了成為 F1 世界冠軍的又一大步。這位梅賽德斯車手因此獲得了2026賽季的第九場勝利，讓他的手幾乎已經握住冠軍獎盃，雖然這樣的情況已經持續了一段時間。那麼，他何時能夠成為 F1 有史以來最年輕的世界冠軍呢？繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8108-b268-faf69ee29a04",
+      "titleZh": "數學分析：Antonelli 在墨西哥大獎賽成為 F1 世界冠軍的可能性",
+      "summaryZh": "Kimi Antonelli 在美國大獎賽中從桿位出發，主導比賽，邁出了成為 F1 世界冠軍的又一大步。這位 Mercedes 車手因此獲得了 2026 賽季的第九場勝利，讓他手握冠軍獎盃的一隻手，雖然這樣的情況已經持續了一段時間。那麼，他何時能夠實現這一目標，成為 F1 有史以來最年輕的世界冠軍呢？繼續閱讀。",
       "titleOrig": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
       "sourceUrl": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -262,9 +212,9 @@
       "publishedAt": "2026-10-26T06:31:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8145-8ae6-f3a5ddf3efec",
-      "titleZh": "Russell 在美國大獎賽後急於尋找答案，因為「速度不夠快」",
-      "summaryZh": "George Russell 在美國大獎賽後急切尋找答案，因為他「速度不夠快」，而隊友 Kimi Antonelli 正在逼近 F1 世界冠軍。Antonelli 在奧斯丁的比賽中從桿位起跑並主導了整場比賽，而 Russell 則從第六位起跑，最終以第八名完賽，因為他在比賽開始時因越界獲得了五秒的懲罰。",
+      "notionPageId": "40d6c3d3-6a7f-811e-9add-fb095a7038b6",
+      "titleZh": "Russell 在美國大獎賽後急尋解答，因為「速度不夠快」",
+      "summaryZh": "George Russell 在美國大獎賽後急切尋找答案，因為他在比賽中「速度不夠快」，而隊友 Kimi Antonelli 正在逼近 F1 世界冠軍。Antonelli 在奧斯汀的比賽中從桿位起步，表現出色，而 Russell 則從第六位起步，最終以第八名完賽，並因在開賽時越界獲得五秒的懲罰。",
       "titleOrig": "Russell scrambling for answers after \"not being quick enough\" at US GP",
       "sourceUrl": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -272,9 +222,9 @@
       "publishedAt": "2026-10-26T07:44:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d2-9199-de7883c7e46c",
-      "titleZh": "阿隆索批評 F1 背後車手的質量，因阿爾本在美國 GP 的碰撞",
-      "summaryZh": "費爾南多·阿隆索在 F1 美國大獎賽的首圈與威廉姆斯的阿歷克斯·阿爾本發生接觸後，對其表達了不滿。這次碰撞讓阿斯頓·馬丁的車手在奧斯丁失去了四個名次，並造成底盤損傷，影響了 AMR26 在比賽剩餘時間的表現。這位兩屆世界冠軍在起跑時從第12位掉到第13位，而埃斯特班·奧康則從第15位衝上來...",
+      "notionPageId": "40d6c3d3-6a7f-81eb-bb44-e9503510c5e2",
+      "titleZh": "阿隆索批評F1後段車手的質量，因阿爾本在美國GP的碰撞",
+      "summaryZh": "費爾南多·阿隆索在F1美國大獎賽的首圈與威廉姆斯的阿歷克斯·阿爾本發生接觸後，對其展開猛烈批評。這次碰撞讓阿斯頓·馬丁車手在奧斯汀失去了四個名次，並造成底盤損壞，影響了他在比賽剩餘時間的表現。這位兩屆世界冠軍在起跑時從第12位掉到第13位，而埃斯特班·奧康則從第15位猛衝上來...持續關注",
       "titleOrig": "Alonso criticises quality of F1 backmarkers after Albon clash at United States GP",
       "sourceUrl": "https://www.autosport.com/f1/news/alonso-criticises-f1-backmarkers-after-albon-clash/10868469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -282,9 +232,9 @@
       "publishedAt": "2026-10-26T14:14:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8109-af38-eb3f880ca9df",
+      "notionPageId": "40d6c3d3-6a7f-81a7-8c04-c1d0c3360734",
       "titleZh": "再次困擾 Verstappen 和 Red Bull 的兩個重複問題在美國 GP 中浮現",
-      "summaryZh": "Max Verstappen 在奧斯汀獲得了 2026 年 F1 賽季的第十座頒獎台，這是他自 Zandvoort 事故以來的第六座。這是一個令人印象深刻的統計數字，儘管在美國賽道並未讓他感到滿意。週六，根據 Verstappen 在 Q2 的出色圈速，似乎有機會奪得桿位，但他在 Q3 中卻莫名其妙地失去了抓地力...繼續閱讀",
+      "summaryZh": "Max Verstappen 在奧斯丁贏得了 2026 年 F1 賽季的第十座頒獎台，這是他自 Zandvoort 事故以來的第六座。這是一個令人印象深刻的數據，儘管在美洲賽道上並未讓他感到滿意。星期六，根據 Verstappen 在 Q2 的出色表現，似乎有機會拿下桿位，但他在 Q3 中卻莫名其妙地失去了抓地力...持續關注",
       "titleOrig": "The two recurring issues that hampered Verstappen and Red Bull again at the US GP",
       "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -292,9 +242,9 @@
       "publishedAt": "2026-10-26T14:57:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81bf-a191-e4fd02e47b9d",
-      "titleZh": "為何「非常適應性」讓 Norris 在美國大獎賽中優於 Piastri",
-      "summaryZh": "McLaren 車隊負責人 Andrea Stella 解釋了在 F1 美國大獎賽中要求 Oscar Piastri 讓 Lando Norris 超越的原因。Piastri 和 Norris 在美洲賽道的排位賽中鎖定了第四排，但在 Q3 中未能挑戰 Mercedes、Red Bull 和 Ferrari。然而，在比賽的前七圈中，Piastri 失去了約一秒鐘的時間...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-81d9-99c1-f9e12287f0e0",
+      "titleZh": "為何「高度適應性」讓 Norris 在美國大獎賽中優於 Piastri",
+      "summaryZh": "McLaren 車隊負責人 Andrea Stella 解釋了為什麼在 F1 美國大獎賽中要求 Oscar Piastri 讓 Lando Norris 超越的原因。Piastri 和 Norris 在美洲賽道的排位賽中鎖定了第四排，但未能在 Q3 中挑戰 Mercedes、Red Bull 和 Ferrari。然而，在比賽的前七圈中，Piastri 落後了一秒鐘...繼續閱讀",
       "titleOrig": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
       "sourceUrl": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -302,9 +252,9 @@
       "publishedAt": "2026-10-27T01:20:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81e9-b579-f73b16a0008e",
-      "titleZh": "Red Bull 解釋為何 Verstappen 和 Hadjar 的「愚蠢」問題不會在 2026 年前完全解決",
-      "summaryZh": "儘管 Max Verstappen 再次獲得頒獎台名次，這在本賽季的 Formula 1 中似乎是可達到的最大成就，但在週日晚上 Red Bull 的接待區內卻幾乎沒有滿足感。幾位團隊成員在賽道上承認 Kimi Antonelli 的比賽速度無法匹敵，儘管兩位 Red Bull 車手對於團隊的表現感到沮喪。",
+      "notionPageId": "40d6c3d3-6a7f-8195-82d7-ef8110b51a4f",
+      "titleZh": "紅牛解釋為何維斯塔潘和哈賈爾的「愚蠢」問題不會在2026年前解決",
+      "summaryZh": "儘管 Max Verstappen 再次獲得頒獎台名次，這在本賽季的 F1 中似乎是能夠達到的最高成就，但紅牛的招待所裡卻幾乎沒有滿足感。幾位車隊成員在賽道上承認，Kimi Antonelli 的比賽速度無法匹敵，儘管兩位紅牛車手對車隊的表現感到沮喪。",
       "titleOrig": "Red Bull explains why Verstappen and Hadjar's 'silly' problems won't all be fixed in 2026",
       "sourceUrl": "https://www.autosport.com/f1/news/red-bull-explains-why-verstappen-and-hadjar-silly-problems-wont-be-fixed-in-2026/10868779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -312,9 +262,9 @@
       "publishedAt": "2026-10-27T17:46:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81ce-a3dc-fff8d90f6230",
-      "titleZh": "哈密爾頓未能在美國大獎賽登上頒獎台的原因：週五練習的角色",
-      "summaryZh": "路易斯·哈密爾頓解釋了他在F1美國大獎賽中未能登上頒獎台的原因。這位法拉利車手從第五位起跑，並在起跑時超越了伊薩克·哈賈爾，升至第四，儘管他是唯一一位在開賽階段使用舊（軟）輪胎的車手。但在這段期間，哈密爾頓每圈落後隊友查爾斯·勒克萊爾0.277秒，以及0.422秒...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-811f-b8d9-e9d77a1991e6",
+      "titleZh": "哈密爾頓未能在美國大獎賽登上頒獎台的原因：週五練習的影響",
+      "summaryZh": "路易斯·哈密爾頓解釋了為什麼他在F1美國大獎賽中未能登上頒獎台的原因。這位法拉利車手從排位賽的第五位起步，並在起跑時超越了伊薩克·哈賈爾，升至第四位，儘管他是唯一一位在開賽階段使用舊（軟胎）的車手。但哈密爾頓在這段時間內每圈落後隊友查爾斯·勒克萊爾0.277秒，還有0.422秒的差距...繼續閱讀",
       "titleOrig": "The role Friday practice played in Hamilton failing to achieve a podium at the US GP",
       "sourceUrl": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -322,9 +272,9 @@
       "publishedAt": "2026-10-27T23:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-816a-bb2b-d30b6d9d069a",
-      "titleZh": "梅賽德斯面臨拉塞爾大小的問題，責任共擔",
-      "summaryZh": "喬治·拉塞爾在美國大獎賽的表現達到新低，儘管在此之前的F1大獎賽中有些許進步的跡象。在奧斯丁，這位梅賽德斯車手的排位賽成績落後隊友基米·安東內利超過四十分之一秒，最終在週日以第八名完賽，而這位20歲的年輕車手則以2026年的第九場勝利邁向世界冠軍的又一步。還有一些緩解因素...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8188-96a1-f1772c051a37",
+      "titleZh": "梅賽德斯面臨一個與拉塞爾相關的問題，且責任共擔",
+      "summaryZh": "喬治·拉塞爾在美國大獎賽的表現達到新低，儘管在此之前的 F1 賽事中有些許進步的跡象。在奧斯汀，這位梅賽德斯車手的排位賽成績比隊友基米·安東內利慢了四分之一秒，最終在星期日以第八名完賽，而這位20歲的年輕車手則以第九場勝利邁向2026年世界冠軍的目標。還有一些緩解因素...繼續閱讀",
       "titleOrig": "Mercedes has a Russell-sized problem and it is sharing responsibility",
       "sourceUrl": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -332,9 +282,9 @@
       "publishedAt": "2026-10-28T00:57:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8170-a45f-fa7eda89a2c0",
+      "notionPageId": "40d6c3d3-6a7f-819e-b1ea-d2e6a16997a4",
       "titleZh": "FIA 宣布新夥伴關係以推動未來 F1 規則",
-      "summaryZh": "FIA 宣布與 Amazon Web Services 建立廣泛的夥伴關係，旨在升級其數位能力。AWS 將成為其官方 AI 和雲端運算夥伴，作為管理機構將使用 AWS 的 AI 工具套件來提升未來技術規則的制定能力。FIA 也在 AWS 的高效能運算平台上運行其空氣動力學模擬...持續閱讀",
+      "summaryZh": "FIA 宣布與 Amazon Web Services 建立廣泛的夥伴關係，旨在升級其數位能力。AWS 將成為其官方 AI 和雲端運算夥伴，作為管理機構將利用 AWS 的 AI 工具套件來改善未來技術規則的制定能力。FIA 也在 AWS 的高效能運算平台上運行其空氣動力學模擬...",
       "titleOrig": "FIA announces new partnership to help drive future F1 regulations",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -342,9 +292,9 @@
       "publishedAt": "2026-10-28T16:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8137-a310-ee2eb8a588bb",
-      "titleZh": "不尋常的 Aston Martin、Honda 和 Red Bull 動力單元傳聞的背後",
-      "summaryZh": "週日於奧斯丁發生的最引人注目的時刻並不在賽道上，而是在美國大獎賽後的 F1 休息區。在賽後的媒體會議上，Aston Martin 和 Red Bull 的代表被問及一個與美國賽道幾乎無關的話題——事實上，正好相反。Aston ...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8152-a51a-e943484de38b",
+      "titleZh": "不尋常的 Aston Martin、Honda 和 Red Bull 動力系統傳聞的背景",
+      "summaryZh": "在奧斯汀的星期天，最引人注目的時刻並不發生在賽道上，而是在美國大獎賽後的 F1 休息區。在賽後的媒體會議中，Aston Martin 和 Red Bull 的代表都被問及一個與美洲賽道的比賽幾乎無關的話題，事實上正好相反。兩家車隊的代表都...繼續閱讀",
       "titleOrig": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
       "sourceUrl": "https://www.autosport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -352,9 +302,9 @@
       "publishedAt": "2026-10-28T17:41:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-814c-8c5d-ee1ac9b5791f",
+      "notionPageId": "40d6c3d3-6a7f-8133-8f37-db4f7dce6f63",
       "titleZh": "F1 發布首份社會影響報告；關鍵學生獎學金續約",
-      "summaryZh": "F1 發布了首份全運動的社會影響報告，去年全球超過五十萬名年輕人受益於 F1 的各項計畫。這些旨在教育、啟發並為 2025 年開創進入賽事道路的計畫，讓來自 71 個國家的年輕人能更接近 F1。F1 也續約了已建立的工程獎學金 ... 繼續閱讀",
+      "summaryZh": "F1 發布了首份體育界的社會影響報告，去年全球有超過五十萬名年輕人受益於 F1 的各項計畫。這些旨在教育、啟發並為 2025 年開創進入賽事的途徑的計畫，讓來自 71 個國家的年輕人更接近 F1。F1 也續約了已建立的工程獎學金 ... 繼續閱讀",
       "titleOrig": "F1 publishes first Social Impact Report; key student scholarship renewed",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -362,9 +312,9 @@
       "publishedAt": "2026-10-28T23:26:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81a1-91b2-d42b75a3a9e3",
-      "titleZh": "Cadillac 感到榮幸，為墨西哥大獎賽規劃特殊的 300 場比賽慶祝活動",
-      "summaryZh": "通用汽車總裁 Mark Reuss 在 Sergio Perez 即將迎來其 F1 生涯第 300 場比賽之際，讚揚了這位 Cadillac 車隊的車手，強調能夠擁有這位墨西哥車手是 '一種榮幸'。Perez 將成為 F1 歷史上第七位達成此里程碑的車手，與 Rubens Barrichello、Fernando Alonso、Jenson Button、Lewis Hamilton、Kimi Raikkonen 和 Michael Schumacher 一同進入這個獨特的行列。",
+      "notionPageId": "40d6c3d3-6a7f-81b0-9f2e-c16761d1bbb1",
+      "titleZh": "Cadillac 感到榮幸，將為佩雷茲的第300場比賽慶祝活動在墨西哥GP舉行",
+      "summaryZh": "通用汽車總裁馬克·魯斯在佩雷茲的第300場F1比賽前讚揚了這位Cadillac車隊的車手，強調能夠擁有這位墨西哥車手是「一種榮幸」。佩雷茲將成為F1歷史上第七位達成此里程碑的車手，與魯本斯·巴里切羅、費爾南多·阿隆索、詹森·巴頓、路易斯·漢密爾頓、基米·萊科寧和米哈伊·舒馬赫齊名，並將...持續關注",
       "titleOrig": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
       "sourceUrl": "https://www.autosport.com/f1/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -372,9 +322,9 @@
       "publishedAt": "2026-10-29T21:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81ba-9dd9-faf68cb63cc2",
+      "notionPageId": "40d6c3d3-6a7f-8125-9e9b-c4b5c4a2ce8e",
       "titleZh": "為何 Ricciardo 會考慮在勒芒復出",
-      "summaryZh": "上個月標誌著 Daniel Ricciardo 自最後一場比賽至今已經兩年，這位八次大獎賽冠軍得主遺憾且低調地退出了 F1——但他的職業生涯真的結束了嗎？Ricciardo 承認這可能是，因為他已經接受了自己在 F1 的生涯結束方式——「我不是 100% 的，但我有 90% 的接受度。」他這樣談到尋求心靈的平靜——但他仍可能對...保持關注。",
+      "summaryZh": "上個月標誌著 Daniel Ricciardo 自此日以來的最後一場賽車已經兩年，這位八次大獎賽冠軍得主遺憾且低調地退出了 F1——但他的職業生涯真的結束了嗎？Ricciardo 承認這可能是，因為他已經接受了他在 F1 的生涯結束的方式——他在尋求結束時表示：「我不是 100% 準備好，但我有 90%。」——但他可能仍然對...感興趣。",
       "titleOrig": "Why Ricciardo would consider a comeback at Le Mans",
       "sourceUrl": "https://www.autosport.com/wec/news/why-daniel-ricciardo-would-consider-a-comeback-at-le-mans/10869337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -382,9 +332,9 @@
       "publishedAt": "2026-10-30T00:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81f3-b6ea-dfa00e566d6d",
-      "titleZh": "安東內利因病缺席 F1 墨西哥大獎賽媒體日",
-      "summaryZh": "梅賽德斯車隊透露，基米·安東內利因感到不適將不會參加週四的 F1 墨西哥大獎賽。這家英德車隊的發言人告訴媒體，這位冠軍領跑者因為正在康復的「病毒性疾病」而「感到身體不適」，因此 FIA 也批准他缺席今天的媒體活動。「我們預期他會...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-81c8-86d7-e113c74fc59f",
+      "titleZh": "Antonelli因病缺席F1墨西哥GP媒體日",
+      "summaryZh": "Kimi Antonelli因感到不適，將不會參加週四的F1墨西哥大獎賽，梅賽德斯車隊透露。這家英德車隊的發言人告訴媒體，這位冠軍領跑者因為正在康復中的「病毒性疾病」而「感到不適」，因此FIA已為他免除今天的媒體活動。「我們預期他會...」",
       "titleOrig": "Antonelli skips F1 Mexico GP media day due to illness",
       "sourceUrl": "https://www.autosport.com/f1/news/unwell-kimi-antonelli-skips-f1-mexico-gp-media-day/10869370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -392,9 +342,9 @@
       "publishedAt": "2026-10-30T01:07:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8130-ae0b-dee76caa5b04",
-      "titleZh": "阿隆索重申F1駕駛標準不佳 – 並表示被點名者心知肚明",
-      "summaryZh": "在美國大獎賽的首圈中，費爾南多·阿隆索遭到亞歷山大·阿爾本的撞擊，根據阿斯頓·馬丁首席賽道官邁克·克拉克的說法，這使他失去了相當多的下壓力。這位兩屆世界冠軍對當前F1的駕駛標準表示強烈批評。他表示：‘當你從後面起步時，總是會有這種風險。我認為...繼續閱讀。’",
+      "notionPageId": "40d6c3d3-6a7f-8177-8a81-c32c62521be1",
+      "titleZh": "阿隆索重申F1駕駛標準不佳 – 並表示被針對的人心知肚明",
+      "summaryZh": "在美國大獎賽的首圈中，費爾南多·阿隆索被亞歷山大·阿爾本撞擊，根據阿斯頓·馬丁的首席賽道官邁克·克拉克的說法，這讓他損失了相當多的下壓力。這位兩屆世界冠軍對當前F1的駕駛標準表達了強烈的不滿。'當你從後面起步時，總是會有這種風險。我認為...繼續閱讀",
       "titleOrig": "Alonso doubles down on poor F1 driving standards – and says those targeted know who they are",
       "sourceUrl": "https://www.autosport.com/f1/news/fernando-alonso-doubles-down-on-poor-f1-driving-standards-we-all-know-who-were-talking-about/10869405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -402,9 +352,9 @@
       "publishedAt": "2026-10-30T04:05:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8187-8afb-da70d7ab0726",
+      "notionPageId": "40d6c3d3-6a7f-81cb-b961-e9582538a942",
       "titleZh": "F1 老將 Zehnder 將離開 Audi",
-      "summaryZh": "Audi 宣布，前隊經理 Beat Zehnder 將在 2026 年 F1 賽季結束後離開該組織，結束他在 Hinwil 的 34 年任期。Zehnder 於 1988 年被創辦人 Peter Sauber 聘用，擔任其跑車計畫的技師，並在 1993 賽季開始時隨著 Sauber 進入 F1，迅速成為這家瑞士車隊的重要一員。他後來成為隊經理...繼續閱讀",
+      "summaryZh": "Audi 宣布，前車隊經理 Beat Zehnder 將在 2026 年 F1 賽季結束後離開該組織，結束他在 Hinwil 的 34 年任期。Zehnder 於 1988 年被創辦人 Peter Sauber 聘用，擔任其跑車計劃的技師，並在 1993 年賽季開始時隨 Sauber 進入 F1，迅速成為這家瑞士車隊的重要成員。他後來成為車隊經理...繼續閱讀",
       "titleOrig": "F1 stalwart Zehnder set for Audi exit",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-stalwart-zehnder-set-for-audi-exit/10869600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -412,9 +362,9 @@
       "publishedAt": "2026-10-30T17:10:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8113-8853-de7101678531",
+      "notionPageId": "40d6c3d3-6a7f-8150-986f-de9ab6100f8f",
       "titleZh": "為什麼 F1 車隊和製造商在墨西哥面臨更多未知挑戰",
-      "summaryZh": "位於海拔 2,286 公尺的 Autodromo Hermanos Rodriguez 是 F1 賽程中海拔最高的賽道。這自然意味著空氣稀薄，對於車隊和製造商在墨西哥大獎賽中帶來了獨特的挑戰，主要體現在兩個方面。首先，較低的空氣密度意味著動力單元，特別是渦輪增壓器，在墨西哥會承受相當大的壓力...持續閱讀",
+      "summaryZh": "位於海拔 2,286 公尺的 Autodromo Hermanos Rodriguez 是 F1 賽程中海拔最高的賽道。這自然意味著空氣較稀薄，對於車隊和製造商來說，在墨西哥大獎賽中面臨兩方面的獨特挑戰。首先，較低的空氣密度意味著動力單元，特別是渦輪增壓器，在墨西哥受到相當大的壓力...持續閱讀",
       "titleOrig": "Why F1 teams and manufacturers face more unknowns in Mexico than ever",
       "sourceUrl": "https://www.autosport.com/f1/news/why-f1-teams-and-manufacturers-face-more-unknowns-in-mexico-than-ever/10869626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -422,9 +372,9 @@
       "publishedAt": "2026-10-30T17:58:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-810c-9de6-d1623255716e",
+      "notionPageId": "40d6c3d3-6a7f-8139-b3cc-d29a61d17a0f",
       "titleZh": "為什麼「無知是一種超能力」對 Antonelli 在 F1 中如此重要",
-      "summaryZh": "Daniel Ricciardo 認為 Kimi Antonelli 的年齡和天真使他在 2026 年的 F1 賽季中取得如此成功。到目前為止，Antonelli 在他的第二個 F1 賽季中已經贏得九場比賽，這讓他邁向首個世界冠軍的邊緣。這位 Mercedes 車手在星期天的墨西哥大獎賽中只需獲得第九名，或者 George Russell 和 Lewis Hamilton 兩人都未能...",
+      "summaryZh": "Daniel Ricciardo 認為 Kimi Antonelli 的年齡和天真使他在 2026 年的 F1 賽季中取得如此成功。在他第二個 F1 賽季中，Antonelli 已經獲得九場勝利，讓他邁向首個世界冠軍的邊緣。這位 Mercedes 車手在週日的墨西哥大獎賽中，只需要獲得第九名，或是 George Russell 和 Lewis Hamilton 兩人都未能...繼續閱讀",
       "titleOrig": "Why “ignorance is a superpower” for Antonelli in F1",
       "sourceUrl": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -432,9 +382,9 @@
       "publishedAt": "2026-10-30T21:30:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8122-bbef-d125762f1031",
-      "titleZh": "漢密爾頓談為何他「與眾不同」能在 F1 繼續比賽「可預見的未來」",
-      "summaryZh": "路易斯·漢密爾頓表示，如果他能保持競爭力，他打算在 F1 繼續比賽「可預見的未來」，這是在被問及他是否能在新宣布的非洲大獎賽中實際參賽的情況下。F1 本月早些時候透露了在盧旺達舉辦新賽事的計劃，該賽事將於 2030 年最早舉行，並將冠名為非洲大獎賽。",
+      "notionPageId": "40d6c3d3-6a7f-811c-a608-faf627641df9",
+      "titleZh": "Hamilton 談為何他「與眾不同」，能在 F1 中持續參賽「可預見的未來」",
+      "summaryZh": "Lewis Hamilton 表示，如果他能保持競爭力，他打算在 F1 中「可預見的未來」繼續比賽。當被問及他是否可以現實地期待參加新宣布的非洲大獎賽時，他這樣回應。本月早些時候，F1 公布了在盧旺達舉辦新賽事的計劃，該賽事將於最早 2030 年舉行，並將被稱為非洲 GP。",
       "titleOrig": "Hamilton on why he is “built differently” to stay in F1 for the “foreseeable future”",
       "sourceUrl": "https://www.autosport.com/f1/news/hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -442,9 +392,9 @@
       "publishedAt": "2026-10-31T00:30:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81e2-a624-e3585664005f",
-      "titleZh": "F1 墨西哥大獎賽：Leclerc 擊敗 Antonelli 登頂 FP1",
-      "summaryZh": "Charles Leclerc 在 F1 墨西哥大獎賽的開幕練習中輕鬆拿下最快圈速，擊敗亞軍 Kimi Antonelli，這場練習賽共有 10 位新秀參加。這位 Ferrari 車手的成績為 1分18.128秒，比 F1 冠軍候選人快了六分之一秒，而他的 Mercedes 隊友 Frederik Vesti 以 1分18.861秒完成前三名。Vesti 代替 George Russell 參賽，成為...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8107-b7bb-da8f7bb92139",
+      "titleZh": "F1 墨西哥 GP：Leclerc 超越 Antonelli 獲得 FP1 最快圈速",
+      "summaryZh": "Charles Leclerc 在 F1 墨西哥大獎賽的開幕練習中輕鬆獲得最快圈速，擊敗亞軍 Kimi Antonelli，這場練習賽共有 10 位新秀參加。這位 Ferrari 車手的成績為 1分18.128秒，比 F1 冠軍候選人快了六十分之一秒，而他的 Mercedes 車隊隊友 Frederik Vesti 以 1分18.861秒完成前三名。Vesti 代替 George Russell 參賽，成為...繼續閱讀",
       "titleOrig": "F1 Mexico GP: Leclerc beats Antonelli to top FP1",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -452,9 +402,9 @@
       "publishedAt": "2026-10-31T03:39:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d2-8126-eda22a6157b2",
-      "titleZh": "F1 墨西哥大獎賽：Leclerc 擊敗 McLaren 和 Mercedes 登頂 FP2",
-      "summaryZh": "Charles Leclerc 在墨西哥大獎賽的第二場 F1 練習賽中表現完美，儘管 Ferrari 車隊隊友 Lewis Hamilton 退賽，他仍然登上了榜首。這位摩納哥車手在 FP1 中以 1m18.128s 的成績領先，隨後在 Autodromo Hermanos Rodriguez 的 FP2 中將成績提升至 1m17.827s，擊敗了 McLaren 的 Lando Norris 取得第二名。",
+      "notionPageId": "40d6c3d3-6a7f-812e-b917-c6d3136b4942",
+      "titleZh": "F1 墨西哥大獎賽：Leclerc 擠下 McLaren 和 Mercedes 登頂 FP2",
+      "summaryZh": "Charles Leclerc 在墨西哥大獎賽的第二場 F1 練習賽中表現完美，儘管 Ferrari 車隊的隊友 Lewis Hamilton 退賽，他仍然成功登頂。這位摩納哥車手在 FP1 中以 1 分 18.128 秒的成績領先，隨後在 Autodromo Hermanos Rodriguez 的 FP2 中將成績提升至 1 分 17.827 秒，擠下 McLaren 的 Lando Norris 排在第二。",
       "titleOrig": "F1 Mexico GP: Leclerc pips McLaren and Mercedes to top FP2",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-pips-mclaren-and-mercedes-to-top-fp2/10869852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -462,9 +412,9 @@
       "publishedAt": "2026-10-31T07:08:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8144-911f-cddfb1cb8123",
+      "notionPageId": "40d6c3d3-6a7f-81f2-8e27-d5b97a1f2852",
       "titleZh": "Colton Herta F1 超級執照的混亂情況解釋",
-      "summaryZh": "在墨西哥大獎賽的第一場自由練習中完成超過 100 公里後，Colton Herta 似乎擁有 40 分的超級執照積分，這足以符合獲得 F1 座位所需的文件。然而，實際情況卻比這更為複雜。根據 FIA 的說法，Herta 目前仍然缺少一分...繼續閱讀",
+      "summaryZh": "在墨西哥大獎賽的第一場自由練習賽中，Colton Herta 完成了超過 100 公里，似乎擁有 40 分的超級執照積分，這足以符合獲得 F1 座位所需的文件。然而，實際情況卻比這複雜得多。根據 FIA 的說法，Herta 目前仍然缺少一分...繼續閱讀",
       "titleOrig": "The confusion surrounding Colton Herta's F1 superlicence explained",
       "sourceUrl": "https://www.autosport.com/f1/news/the-confusion-surrounding-colton-hertas-f1-superlicence-explained/10869858/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -472,9 +422,9 @@
       "publishedAt": "2026-10-31T07:22:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8122-861a-fc6e117d91b3",
-      "titleZh": "裁判對 Verstappen 和 Lawson 進行處罰，因為在 F1 墨西哥大獎賽練習賽中發生「不可接受」的碰撞",
-      "summaryZh": "在週五的 F1 練習賽中，最引人注目的時刻之一發生在 Foro Sol，也就是 Autodromo Hermanos Rodriguez 的體育場區域。Max Verstappen 在當天的第二場練習賽中試圖在第 12 虎口超越 Liam Lawson，但 Racing Bulls 車手進行防守，導致兩位車手並排進入體育場。Verstappen ... 繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-816e-ad89-fbdc6922e668",
+      "titleZh": "賽委會對 Verstappen 和 Lawson 進行處罰，因為在墨西哥 GP 練習賽中的「不可接受」碰撞",
+      "summaryZh": "週五的 F1 練習賽中出現了最引人注目的時刻之一，發生在 Foro Sol，也就是 Autodromo Hermanos Rodriguez 的體育場區域。Max Verstappen 在當天的第二場練習賽中試圖在第 12 虎口超越 Liam Lawson，但 Racing Bulls 車手進行防守，導致兩位車手並排進入體育場。Verstappen ... 繼續閱讀",
       "titleOrig": "Stewards penalise Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash",
       "sourceUrl": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -482,9 +432,9 @@
       "publishedAt": "2026-10-31T11:22:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81c8-bd7c-cdcdbb3bd728",
-      "titleZh": "哈斯車隊在墨西哥大獎賽中更換 Ocon",
-      "summaryZh": "哈斯 F1 車隊做出了震驚的決定，將 Esteban Ocon 替換為預備車手 Ryo Hirakawa，參加墨西哥大獎賽的剩餘賽程。Hirakawa 將擔任 Oliver Bearman 的隊友，參加最後的練習、排位賽及週日的比賽，並在週五早上作為新秀任務的一部分駕駛 Ocon 的 VF-26 參加 FP1。Ocon 在第二次...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-812e-b552-fdffc24a3285",
+      "titleZh": "Haas 車隊在墨西哥大獎賽中更換 Ocon",
+      "summaryZh": "Haas F1 車隊做出了驚人的決定，將 Esteban Ocon 替換為預備車手 Ryo Hirakawa，參加墨西哥大獎賽週末的剩餘賽程。Hirakawa 將作為 Oliver Bearman 的隊友，參加最後的練習、排位賽和週日的比賽，並在週五早上作為新秀的要求，駕駛 Ocon 的 VF-26 參加 FP1 練習。Ocon 回歸參加第二...繼續閱讀",
       "titleOrig": "Haas drops Ocon for F1 Mexico GP",
       "sourceUrl": "https://www.autosport.com/f1/news/haas-drops-ocon-for-f1-mexico-gp/10870160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -492,9 +442,9 @@
       "publishedAt": "2026-10-31T22:54:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d1-a71e-f5196ae744ba",
+      "notionPageId": "40d6c3d3-6a7f-8147-b9f2-e29d0fb9f00c",
       "titleZh": "Red Bull 提供期待已久的新 F1 風洞時間表",
-      "summaryZh": "儘管 Red Bull 在 2026 年 F1 賽季中表現出色，但由 Pierre Wache 領導的技術團隊仍在幕後面臨幾個限制。其中一個主要問題或許是風洞，這是整個 F1 車隊中最老的。前車隊負責人 Christian Horner 曾多次形容 Red Bull 的風洞為「冷戰遺物」，並表示與之合作的...繼續閱讀",
+      "summaryZh": "儘管 Red Bull 在 2026 年 F1 賽季中展現了令人印象深刻的轉變，但由 Pierre Wache 領導的技術團隊仍在幕後面對幾個限制。其中一個主要問題可能就是風洞，這是整個 F1 賽車隊中最老的。前車隊負責人 Christian Horner 曾多次形容 Red Bull 的風洞為「冷戰遺物」，並表示與之合作的困難...",
       "titleOrig": "Red Bull provides timeline for long-awaited new F1 wind tunnel",
       "sourceUrl": "https://www.autosport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -502,9 +452,9 @@
       "publishedAt": "2026-11-01T01:58:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-815a-b1b2-e8b7779d6dde",
-      "titleZh": "F1 墨西哥大獎賽：Norris 以 0.001 秒壓過 Antonelli 取得最後練習最快圈速",
-      "summaryZh": "衛冕世界冠軍 Lando Norris 在 F1 墨西哥大獎賽的第三次也是最後一次練習中表現出色，以微弱的 0.001 秒超越了冠軍領跑者 Kimi Antonelli，這場練習賽在高海拔的 Autodromo Hermanos Rodriguez 進行，四支頂尖車隊在這個艱難的賽道上都展現了競爭力，幾支中游車隊也面臨動力單元的挑戰。",
+      "notionPageId": "40d6c3d3-6a7f-81d7-8c67-c019544e66a4",
+      "titleZh": "F1 墨西哥大獎賽：Norris 以 0.001 秒超越 Antonelli 榜首",
+      "summaryZh": "衛冕世界冠軍 Lando Norris 在 F1 墨西哥大獎賽的第三場也是最後一場練習中奪得榜首，以微弱的 0.001 秒超越了冠軍領跑者 Kimi Antonelli。在這場在高海拔賽道 Autodromo Hermanos Rodriguez 的緊湊練習中，四支頂尖車隊都展現了競爭力，幾支中游車隊也在動力單元方面遇到了一些挑戰。",
       "titleOrig": "F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-mexico-gp-norris-tops-final-practice-by-0001s-from-antonelli/10870228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -512,9 +462,9 @@
       "publishedAt": "2026-11-01T02:44:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-819a-ad18-f59960f9d168",
+      "notionPageId": "40d6c3d3-6a7f-811d-870e-cd25fc055cce",
       "titleZh": "F1 墨西哥大獎賽：漢密爾頓奪得桿位，超越拉塞爾與勒克萊爾",
-      "summaryZh": "路易斯·漢密爾頓在2026年F1賽季的墨西哥大獎賽排位賽中，以驚險的表現擊敗喬治·拉塞爾，為法拉利贏得首個桿位。拉塞爾在奧托多羅·埃爾曼諾斯·羅德里格斯賽道的最後一圈中暫時奪得桿位，超越了查爾斯·勒克萊爾，但漢密爾頓以微弱的0.009秒在第一個區段中回應，最終奪得桿位。",
+      "summaryZh": "路易斯·漢密爾頓在2026年F1賽季中為法拉利贏得首個桿位，並在墨西哥大獎賽的激烈排位賽中擊敗喬治·拉塞爾。拉塞爾在赫爾曼諾斯·羅德里格斯賽道的最後一圈中奪得臨時桿位，超越了查爾斯·勒克萊爾，但漢密爾頓以微弱的0.009秒差距，在第一個賽段中回應，最終奪得桿位。",
       "titleOrig": "F1 Mexico GP: Hamilton takes pole from Russell and Leclerc",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-mexico-gp-lewis-hamilton-beats-george-russell-and-charles-leclerc-to-pole/10870295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -522,9 +472,9 @@
       "publishedAt": "2026-11-01T06:21:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-813f-acb5-ec1a6b652b4b",
-      "titleZh": "Ocon 否認與 Haas 車隊總監發生肢體衝突的傳聞，這是他自被 Haas 取消墨西哥 GP 賽車資格以來的首次聲明",
-      "summaryZh": "被 Haas 公式一車隊解雇的車手 Esteban Ocon 否認法國媒體關於他與車隊總監 Ayao Komatsu 發生肢體衝突的傳聞，並對缺席本週末的墨西哥大獎賽作出回應。Ocon 在墨西哥被擱置，這很可能與他在自由練習期間與賽車工程師的公開分歧有關。這導致他在週五晚上與車隊進行了討論，關於他們的關係...",
+      "notionPageId": "40d6c3d3-6a7f-81dd-a731-c57f149aaf7d",
+      "titleZh": "Ocon 否認與 Haas 團隊發生肢體衝突的傳聞，首次回應缺席墨西哥大獎賽",
+      "summaryZh": "被 Haas 公式一級賽車隊解雇的車手 Esteban Ocon 否認了法國媒體關於他與團隊負責人 Ayao Komatsu 發生肢體衝突的傳聞，並對缺席本週末的墨西哥大獎賽作出了回應。Ocon 在墨西哥被擱置，這很可能與他在自由練習期間與賽車工程師的公開分歧有關。這導致了周五晚上與團隊的討論，關係...",
       "titleOrig": "Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP",
       "sourceUrl": "https://www.autosport.com/f1/news/ocon-denies-physical-altercation-rumours-in-first-statement-since-being-dropped-by-haas-for-mexico-/10870348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -532,9 +482,9 @@
       "publishedAt": "2026-11-01T07:13:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81eb-8ee0-e278c06c07e6",
+      "notionPageId": "40d6c3d3-6a7f-815f-b60a-ddb543fbe81b",
       "titleZh": "Antonelli 承認在 F1 冠軍邊緣駕駛「緊張」和「疲憊」",
-      "summaryZh": "Kimi Antonelli 希望能藉由一夜好眠來克服在墨西哥城大獎賽排位賽中的不佳表現，但他承認，F1 冠軍的緊張情緒使他駕駛時產生了不必要的緊張感。這位義大利車手在當天的 FP3 中僅比 Lando Norris 慢了 0.001 秒，但在排位賽中卻落後 Mercedes 車隊隊友 George Russell 半步，無法找到合適的...",
+      "summaryZh": "Kimi Antonelli 希望能藉由一夜好眠來克服在墨西哥城大獎賽排位賽中的不佳表現，但他承認 F1 冠軍的緊張情緒讓他駕駛時出現了不必要的緊張。這位義大利車手在當天的 FP3 中僅比 Lando Norris 慢了 0.001 秒，但在排位賽中卻落後於梅賽德斯隊友 George Russell，無法找到正確的節奏...",
       "titleOrig": "Antonelli admits to driving \"tense\" and \"tired\" on cusp of F1 title",
       "sourceUrl": "https://www.autosport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -542,9 +492,9 @@
       "publishedAt": "2026-11-01T08:09:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d3-b6d2-ed18ec84cc6b",
+      "notionPageId": "40d6c3d3-6a7f-81a1-97d4-eb4caf46bfd4",
       "titleZh": "Verstappen 與 Lawson 澄清誤會，但對 Racing Bulls F1 車位保持沉默",
-      "summaryZh": "Max Verstappen 在墨西哥城 F1 大獎賽中排位第四，但將在起跑格上降一位，這意味著他將從第三排起步。原因相當引人注目：在第二次自由練習中，與 Liam Lawson 兩位 Red Bull 車隊的車手發生接觸。Verstappen 在週五的媒體區相當直言不諱，表示，除了其他...",
+      "summaryZh": "Max Verstappen 在墨西哥城大獎賽的排位賽中獲得第四名，但將在起跑格上降一位，這意味著他將從第三排起步。原因相當引人注目：在第二次自由練習中，與 Liam Lawson 兩位 Red Bull 車隊的車手發生接觸。Verstappen 在週五的媒體區相當直言不諱，表示了他的看法，還有其他...",
       "titleOrig": "Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself",
       "sourceUrl": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -552,9 +502,9 @@
       "publishedAt": "2026-11-01T08:28:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8126-926f-dcc0c116ff58",
+      "notionPageId": "40d6c3d3-6a7f-8183-ac48-c3f8a71fac4f",
       "titleZh": "Lawson 在墨西哥 F1 排位賽中被取消資格 – 原因在這裡",
-      "summaryZh": "Liam Lawson 失去了在墨西哥城大獎賽的第九位起跑位置。Racing Bulls 在星期六的 Autodromo Hermanos Rodriguez 表現出色，成功將兩輛賽車都進入 Q3。該隊隨後以第八和第九名的成績成為「其他車隊中的最佳」，但 Lawson 現在面臨著星期天的追趕賽。這位紐西蘭車手因為 ... 被 FIA 取消資格。",
+      "summaryZh": "Liam Lawson 失去了在墨西哥城大獎賽的第九位起跑位置。Racing Bulls 在週六的 Autodromo Hermanos Rodriguez 表現出色，成功讓兩輛車進入 Q3。該隊隨後以第八和第九名的成績成為「其他車隊中的最佳」，但 Lawson 現在在週日面臨復甦之戰。這位紐西蘭車手已被 FIA 取消資格，原因是...繼續閱讀",
       "titleOrig": "Lawson disqualified from F1 qualifying in Mexico – here's why",
       "sourceUrl": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -562,9 +512,9 @@
       "publishedAt": "2026-11-01T09:54:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81c2-ae42-f9f785eadb79",
-      "titleZh": "雅馬哈的震驚MotoGP抵制對F1在卡塔爾和阿布達比意味著什麼？",
-      "summaryZh": "圍繞下週卡塔爾大獎賽的緊張局勢在MotoGP車隊中達到了沸點。幕後的動盪已經持續了一段時間，幾位車手表達了他們的擔憂，但在週日，雅馬哈成為第一個發表公開聲明的製造商。雅馬哈及其衛星車隊Pramac決定抵制這場比賽，促使MotoGP發出了一份...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-8148-b081-fdaa91dfb9cd",
+      "titleZh": "雅馬哈的摩托GP抵制對卡塔爾和阿布達比F1意味著什麼？",
+      "summaryZh": "圍繞下週卡塔爾大獎賽的緊張局勢在摩托GP車隊中達到了沸點。幕後已經存在不安已有一段時間，幾位車手表達了他們的擔憂，但在週日，雅馬哈成為首個發表公開聲明的製造商。雅馬哈及其衛星隊Pramac決定抵制這場比賽，促使摩托GP發出了一份...持續關注。",
       "titleOrig": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
       "sourceUrl": "https://www.autosport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -572,9 +522,9 @@
       "publishedAt": "2026-11-02T02:18:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8191-935e-f2ccaae51d52",
-      "titleZh": "FIA 裁判解釋 Leclerc 在 F1 墨西哥大獎賽的五秒懲罰",
-      "summaryZh": "FIA 裁判解釋了 Charles Leclerc 在 F1 墨西哥大獎賽中五秒懲罰的原因。Leclerc 在 Autodromo Hermanos Rodriguez 的比賽中從第三位起跑，隊友 Lewis Hamilton 則獲得桿位；隨著 George Russell 在起跑的第二階段表現不佳，兩輛法拉利展開了爭奪領先的輪對輪較量。Hamilton 險險...繼續閱讀",
+      "notionPageId": "40d6c3d3-6a7f-81f2-a337-fbc76125a600",
+      "titleZh": "FIA 裁判解釋 Leclerc 在 F1 墨西哥大獎賽的五秒罰款",
+      "summaryZh": "FIA 裁判解釋了 Charles Leclerc 在 F1 墨西哥大獎賽中五秒罰款的原因。Leclerc 在 Autodromo Hermanos Rodriguez 的比賽中從第三位起跑，隊友 Lewis Hamilton 則獲得桿位；隨著 George Russell 在起步的第二階段表現不佳，兩輛法拉利展開了激烈的爭奪領先位置。Hamilton 險險...",
       "titleOrig": "FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP",
       "sourceUrl": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -582,9 +532,9 @@
       "publishedAt": "2026-11-02T05:14:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8120-b245-d7a405bcdaa1",
+      "notionPageId": "40d6c3d3-6a7f-8183-9393-d37dfab527e7",
       "titleZh": "F1 墨西哥大獎賽：Antonelli 成為最年輕世界冠軍，Verstappen 擊退 Hamilton 獲勝",
-      "summaryZh": "Kimi Antonelli 在墨西哥大獎賽中創下歷史，成為 F1 有史以來最年輕的世界冠軍，而 Red Bull 的 Max Verstappen 則擊敗 Ferrari 的 Lewis Hamilton 獲得比賽勝利。Verstappen 在第 28 圈的唯一進站中掌控了比賽，超越了早期領跑的 Charles Leclerc，並成功抵擋了 Leclerc 的隊友 Hamilton，最終奪冠，...持續閱讀",
+      "summaryZh": "Kimi Antonelli 在墨西哥大獎賽上創下歷史，成為 F1 有史以來最年輕的世界冠軍，而 Red Bull 的 Max Verstappen 則擊敗 Ferrari 的 Lewis Hamilton 獲得比賽勝利。Verstappen 在第 28 圈的唯一進站中掌控了比賽，超越了早期領跑的 Charles Leclerc，並成功抵擋了 Leclerc 的隊友 Hamilton，最終奪冠，...繼續閱讀",
       "titleOrig": "F1 Mexico GP: Antonelli becomes youngest world champion as Verstappen holds off Hamilton for victory",
       "sourceUrl": "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -592,9 +542,9 @@
       "publishedAt": "2026-11-02T06:38:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d0-8622-fe6412d6342e",
-      "titleZh": "漢密爾頓要求法拉利進行「嚴肅對話」 以應對墨西哥大獎賽與勒克萊爾的衝突「讓我們失去了勝利」",
-      "summaryZh": "路易斯·漢密爾頓在與隊友查爾斯·勒克萊爾於F1墨西哥大獎賽的衝突後，呼籲法拉利進行「嚴肅對話」。桿位出發的漢密爾頓在第一彎前被第三位的勒克萊爾挑戰，因為前排發車的喬治·拉塞爾失去了動力。這位七次世界冠軍在第一彎的連續彎道中勉強抵擋住了兄弟車，但勒克萊爾發動了進攻...",
+      "notionPageId": "40d6c3d3-6a7f-81e2-b285-f24f58baf922",
+      "titleZh": "漢密爾頓要求法拉利進行「認真對話」，因為在墨西哥大獎賽與勒克萊爾的碰撞「讓我們失去了勝利」",
+      "summaryZh": "路易斯·漢密爾頓在F1墨西哥大獎賽中與隊友查爾斯·勒克萊爾發生碰撞後，呼籲法拉利進行「認真對話」。桿位出發的漢密爾頓在第一彎前被從第三位挑戰的勒克萊爾逼迫，因為前排發車的喬治·拉塞爾失去了動力。這位七屆世界冠軍在第一彎的連續彎道中勉強抵擋住了另一輛車，但勒克萊爾發動了...",
       "titleOrig": "Hamilton demands “serious talks” at Ferrari after Leclerc clash in Mexico GP “lost us the win”",
       "sourceUrl": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "sourceName": "Autosport",
@@ -602,249 +552,59 @@
       "publishedAt": "2026-11-02T07:14:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8126-bb4a-ec556273cbf1",
-      "titleZh": "Oscar Piastri 驚訝於墨西哥 GP 排位賽早早出局",
-      "summaryZh": "Oscar Piastri 在墨西哥大獎賽的排位賽中意外早早被淘汰。",
-      "titleOrig": "Oscar Piastri reveals shock at early Mexico GP qualifying exit",
-      "sourceUrl": "https://www.planetf1.com/news/oscar-piastri-f1-2026-mexico-gp-qualifying",
-      "sourceName": "PlanetF1",
+      "notionPageId": "40d6c3d3-6a7f-8102-87bd-dca32f478a8f",
+      "titleZh": "為何 Leclerc 在切過第5彎後不放棄墨西哥大獎賽的領先",
+      "summaryZh": "法拉利 F1 車手 Charles Leclerc 深入探討了他在爭議中的墨西哥大獎賽表現，特別是他如何從 Lewis Hamilton 手中奪得並保持領先。Leclerc 在比賽開始時挑戰他的桿位隊友，Hamilton 在第一組彎道中成功抵擋住了他。這位摩納哥車手隨後在第4彎外側發起攻擊...繼續閱讀",
+      "titleOrig": "Why Leclerc didn’t give up Mexico GP lead after cutting Turn 5",
+      "sourceUrl": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
       "author": "",
-      "publishedAt": "2026-11-01T08:57:00.000+08:00"
+      "publishedAt": "2026-11-02T08:06:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8130-9288-cffa9b2e8e23",
-      "titleZh": "Liam Lawson 因 FIA 調查被取消排位賽資格",
-      "summaryZh": "Liam Lawson 在墨西哥城大獎賽中以第八快的成績完成排位賽。",
-      "titleOrig": "Liam Lawson disqualified from qualifying after FIA investigation",
-      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-fia-disqualified-mexico-gp-qualifying",
-      "sourceName": "PlanetF1",
+      "notionPageId": "40d6c3d3-6a7f-81b2-972d-e5cee4ea21e4",
+      "titleZh": "Gasly 和 Colapinto 賽後被罰，Hirakawa 在墨西哥大獎賽首次亮相即得分",
+      "summaryZh": "Pierre Gasly 和 Franco Colapinto 在賽後均遭到罰款，導致他們無法得分，並使 Haas 的新秀 Ryo Hirakawa 在墨西哥大獎賽上首次亮相即得分。兩位 Alpine 車手因在墨西哥城賽事中未能在黃旗下減速而面臨 FIA 裁判的賽後調查。在臨時結果中，Colapinto ...繼續閱讀",
+      "titleOrig": "Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP",
+      "sourceUrl": "https://www.autosport.com/f1/news/gasly-and-colapinto-penalised-post-race-hirakawa-scores-on-f1-debut-at-mexico-gp/10870863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
       "author": "",
-      "publishedAt": "2026-11-01T09:29:00.000+08:00"
+      "publishedAt": "2026-11-02T10:16:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8110-83fe-c14689eb069c",
-      "titleZh": "最佳 F1 車手：哪位 F1 車手擁有最多的比賽勝利？",
-      "summaryZh": "Verstappen、Hamilton 和 Schumacher 都是 F1 最高榮譽的賽事勝利者，但他們的排名是什麼呢？",
-      "titleOrig": "Best F1 drivers: Which F1 driver has the most race wins?",
-      "sourceUrl": "https://www.planetf1.com/features/highest-f1-race-wins-totals",
-      "sourceName": "PlanetF1",
+      "notionPageId": "40d6c3d3-6a7f-8133-9f3f-edec21b20f76",
+      "titleZh": "Piastri 在墨西哥 GP 賽後因與 Lindblad 相撞遭罰，無法得分",
+      "summaryZh": "Oscar Piastri 在墨西哥大獎賽的艱難週末以無分結束，因為這位 McLaren F1 車手因與 Arvid Lindblad 相撞而遭到罰款。Piastri 在 Autodromo Hermanos Rodriguez 的 Q3 出賽紀錄達到 60 場的連續出賽（包括衝刺賽）也因此中斷，他的排位僅為第 12 名，這為他在中場的麻煩鋪平了道路。Piastri 在比賽中確實提升了三個名次，但仍然未能得分。",
+      "titleOrig": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
+      "sourceUrl": "https://www.autosport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870864/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
       "author": "",
-      "publishedAt": "2026-11-01T11:14:00.000+08:00"
+      "publishedAt": "2026-11-02T10:19:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8170-ac62-d495028e61b7",
-      "titleZh": "2026 墨西哥城大獎賽排位賽的勝者與敗者",
-      "summaryZh": "法拉利首次奪得桿位，而路易斯·漢密爾頓創下全新紀錄，讓他在墨西哥城大獎賽的排位賽中成為明顯的勝者。",
-      "titleOrig": "Winners and losers from the 2026 Mexico City Grand Prix Qualifying",
-      "sourceUrl": "https://www.planetf1.com/features/qualifying-winners-losers-2026-mexico-city-gp",
-      "sourceName": "PlanetF1",
+      "notionPageId": "40d6c3d3-6a7f-81cc-814a-eb29605d5e4c",
+      "titleZh": "漢密爾頓批評勒克萊爾在墨西哥GP碰撞後的「生死攸關」態度",
+      "summaryZh": "路易斯·漢密爾頓批評隊友查爾斯·勒克萊爾在法拉利失去簡單勝利後的「生死攸關」態度。這位七次世界冠軍在奧托德羅莫·埃爾曼諾斯·羅德里格斯以桿位起步，勒克萊爾則排在第三，但當喬治·拉塞爾在第一彎失去動力時，他上升至第二。正是在那裡，這位摩納哥車手對漢密爾頓發起攻擊...",
+      "titleOrig": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
+      "sourceUrl": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
       "author": "",
-      "publishedAt": "2026-11-01T14:00:00.000+08:00"
+      "publishedAt": "2026-11-02T20:40:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8117-a74e-ec9bd18a2cb2",
-      "titleZh": "Liam Lawson 揭露與 Max Verstappen 在墨西哥 GP 衝突後的對話",
-      "summaryZh": "Liam Lawson 與 Max Verstappen 在自由練習中發生了激烈的瞬間，兩人都因此被處以排位罰則。",
-      "titleOrig": "Liam Lawson reveals Max Verstappen talks after heated Mexico GP clash",
-      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-max-verstappen-talks-mexico-incident",
-      "sourceName": "PlanetF1",
+      "notionPageId": "40d6c3d3-6a7f-81c4-90c9-f3dd7053f15b",
+      "titleZh": "安東內利 F1 冠軍賽季的最佳時刻是什麼？我們的編輯有話要說",
+      "summaryZh": "基米·安東內利創下紀錄的 F1 世界冠軍榮耀中，展現了許多精彩的表現。但哪一刻是他最棒的呢？安東內利在墨西哥成功奪得他的首個 F1 冠軍，並在比賽還剩四輪時就鎖定冠軍，成為史上最年輕的世界冠軍。我們的編輯挑選出他們認為讓這位意大利車手從競爭者變成世界冠軍的時刻。",
+      "titleOrig": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+      "sourceUrl": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "sourceName": "Autosport",
       "author": "",
-      "publishedAt": "2026-11-01T14:27:00.000+08:00"
+      "publishedAt": "2026-11-02T23:59:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d1-a3f1-c20a1c17f8c6",
-      "titleZh": "Lewis Hamilton 的完美圈速如何在沒有最快區段的情況下擊敗 Russell 拿下桿位",
-      "summaryZh": "Lewis Hamilton 驚人的 Ferrari 桿位揭示了過度追求速度的危險...",
-      "titleOrig": "How Lewis Hamilton’s perfect lap beat Russell to pole despite no fastest sectors",
-      "sourceUrl": "https://www.planetf1.com/features/how-lewis-hamiltons-perfect-lap-beat-russell-to-pole-despite-no-fastest-sectors",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T15:07:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-812c-a493-c64a0dc62b41",
-      "titleZh": "Oliver Bearman 對於 Ocon 的「非常艱難」情況作出回應，因為 Haas 的驚人決定",
-      "summaryZh": "Ryo Hirakawa 將在墨西哥大獎賽中替代 Esteban Ocon 參賽。",
-      "titleOrig": "Oliver Bearman reacts to ‘really tough’ Ocon situation after shock Haas decision",
-      "sourceUrl": "https://www.planetf1.com/news/oliver-bearman-admits-haas-situation-fundamentally-stressful-after-ocon-shock",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T15:54:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81e5-b236-f8eb18f38578",
-      "titleZh": "Isack Hadjar 回應 FIA 在墨西哥 GP 粉絲事件後的決定",
-      "summaryZh": "Isack Hadjar 在墨西哥城參與了一起粉絲衝突事件...",
-      "titleOrig": "Isack Hadjar responds to FIA decision after Mexican GP fan incident",
-      "sourceUrl": "https://www.planetf1.com/news/isack-hadjar-pushes-fan-f1-2026-mexican-grand-prix",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T16:24:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-813a-8c92-e7de8e4c3941",
-      "titleZh": "Lewis Hamilton 對在墨西哥首次以 Ferrari 拿下桿位的「挑戰」反應",
-      "summaryZh": "Lewis Hamilton 在打破自己與 Ferrari 的桿位荒後，分享了他的感受。",
-      "titleOrig": "Lewis Hamilton reacts after ‘challenging’ maiden Ferrari F1 pole in Mexico",
-      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-f1-pole-mexico-gp",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T17:58:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8142-ae1b-f5572dd395e2",
-      "titleZh": "Lando Norris 反駁 McLaren 的「失敗」評價，稱自己有「非常好的一年」",
-      "summaryZh": "Lando Norris 在 McLaren 於 2026 年競爭力下滑的情況下，並未能爭取保住冠軍。",
-      "titleOrig": "Lando Norris rejects McLaren ‘failure’ verdict with ‘very good year’ claim",
-      "sourceUrl": "https://www.planetf1.com/news/lando-norris-mclaren-2026-f1-season-reflection",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T18:26:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81d7-afdd-c67949602999",
-      "titleZh": "Esteban Ocon 驚人離開 Haas，Chandhok 指出數月來的緊張局勢",
-      "summaryZh": "「這就是挫折的來源，也是為什麼這種情況會爆發，這是我們很久沒有見過的。」",
-      "titleOrig": "Esteban Ocon’s shock Haas exit follows months of mounting tension says Chandhok",
-      "sourceUrl": "https://www.planetf1.com/news/esteban-ocon-shock-haas-exit-followsmounting-tension-karun-chandhok",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T19:10:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8142-b352-d210d41c6cd2",
-      "titleZh": "FIA對F1車手在墨西哥GP第一彎的戰術發出嚴厲警告",
-      "summaryZh": "FIA裁判不希望重演去年的混亂情況。",
-      "titleOrig": "FIA issues stern warning to F1 drivers over Mexican GP Turn 1 tactics",
-      "sourceUrl": "https://www.planetf1.com/news/fia-warns-f1-drivers-mexican-gp-corner-cutting-penalties",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T20:01:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8195-b0db-c8ad13c9049b",
-      "titleZh": "壓力是罪魁禍首嗎？Kimi Antonelli 在墨西哥大獎賽的掙扎解析",
-      "summaryZh": "Kimi Antonelli 可能在墨西哥城成為 F1 歷史上最年輕的世界冠軍。",
-      "titleOrig": "Is pressure to blame? Kimi Antonelli’s Mexico GP struggles explained",
-      "sourceUrl": "https://www.planetf1.com/features/kimi-antonelli-mexico-gp-telemetry-struggle",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T20:49:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81d8-a314-f3938c11dd39",
-      "titleZh": "Williams 團隊負責人反駁 Fernando Alonso 對 F1 車隊水準的評論",
-      "summaryZh": "Fernando Alonso 以他對駕駛水準的評論在 F1 車隊中引起了一些不滿。",
-      "titleOrig": "Williams boss disputes Fernando Alonso’s claim over quality of F1 grid",
-      "sourceUrl": "https://www.planetf1.com/news/williams-boss-disputes-fernando-alonso-claim",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T21:42:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8125-bbfd-d5d96fb66fe7",
-      "titleZh": "Cadillac F1 2027 車手最新消息，Herta 與 Bottas 談論不斷",
-      "summaryZh": "Valtteri Bottas、Colton Herta，甚至可能是 Fred Vesti？",
-      "titleOrig": "Cadillac F1 2027 driver latest as Herta and Bottas rumours swirl",
-      "sourceUrl": "https://www.planetf1.com/news/cadillac-f1-2027-colton-herta-valtteri-bottas",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-01T23:34:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8191-b96e-c6e7f6bcb4de",
-      "titleZh": "Haas 團隊老闆痛批「絕對無稽之談」的 600 萬歐元 Oliver Bearman 薪資傳聞",
-      "summaryZh": "Oliver Bearman 仍未與 Haas 簽訂新合約，無法在 2026 年後繼續留隊。",
-      "titleOrig": "Haas boss slams ‘absolute nonsense’ €6 million Oliver Bearman salary rumour",
-      "sourceUrl": "https://www.planetf1.com/news/oliver-bearman-haas-salary-f1-2027-contract",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T00:55:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81f0-a7f5-f30ca1dfd06a",
-      "titleZh": "更新：2026 F1 墨西哥城賽道起跑順序：在埃爾曼諾斯·羅德里格斯賽道的完整起跑名單",
-      "summaryZh": "2026 墨西哥城大獎賽的完整起跑名單，已考慮起跑罰則。",
-      "titleOrig": "UPDATED: F1 Mexico City grid 2026: The full starting order at the Autodromo Hermanos Rodriguez",
-      "sourceUrl": "https://www.planetf1.com/news/f1-starting-grid-2026-mexico-city-grand-prix",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T01:17:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8105-9597-cf046782a94e",
-      "titleZh": "F1 賽程：下一場比賽何時舉行，地點在哪裡？",
-      "summaryZh": "更深入了解 F1 賽程上的下一場比賽。",
-      "titleOrig": "F1 schedule: When is the next race and where is it being held?",
-      "sourceUrl": "https://www.planetf1.com/news/f1-schedule-next-race-calendar",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T03:11:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-818b-8434-eb6a6fe57446",
-      "titleZh": "墨西哥城大獎賽直播：Kimi Antonelli 成為新世界冠軍",
-      "summaryZh": "隨著 Kimi Antonelli 追求 F1 歷史，請關注 2026 墨西哥城大獎賽的即時賽事更新。",
-      "titleOrig": "Mexico City GP LIVE: Kimi Antonelli is the new World Champion",
-      "sourceUrl": "https://www.planetf1.com/news/mexico-city-gp-live-2026-race-updates",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T06:19:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8114-a53f-d1aced385f8c",
-      "titleZh": "2026 墨西哥城大獎賽 – F1 比賽結果（阿爾多莫羅·埃爾曼諾斯·羅德里格斯）",
-      "summaryZh": "2026 墨西哥城大獎賽的 F1 比賽結果完整回顧。",
-      "titleOrig": "Mexico City Grand Prix 2026 – F1 race results (Autodromo Hermanos Rodriguez)",
-      "sourceUrl": "https://www.planetf1.com/news/f1-results-mexico-city-grand-prix-2026-race",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T06:27:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81e2-8215-cc67a606b9a1",
-      "titleZh": "墨西哥大獎賽：Antonelli 奪冠，Hamilton 與 Leclerc 衝突，Verstappen 獲勝",
-      "summaryZh": "Kimi Antonelli 成為世界冠軍！",
-      "titleOrig": "Mexican GP: Antonelli champion, Hamilton and Leclerc clash, Verstappen wins",
-      "sourceUrl": "https://www.planetf1.com/news/mexican-grand-prix-2026-race-report",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T06:28:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-810f-9d5b-c066e4915ca3",
-      "titleZh": "F1 最年輕的世界冠軍：Hamilton、Verstappen、Alonso 排名如何？",
-      "summaryZh": "一個新的名字獲得了最年輕世界冠軍的頭銜。",
-      "titleOrig": "F1’s youngest world champions: Where do Hamilton, Verstappen, Alonso rank?",
-      "sourceUrl": "https://www.planetf1.com/features/f1-youngest-world-champions-list",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T06:28:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-8188-9517-cef93c89ad84",
-      "titleZh": "Kimi Antonelli 世界冠軍獲勝後的真實反應",
-      "summaryZh": "Kimi Antonelli 已經贏得了 2026 年的 Formula 1 世界冠軍。",
-      "titleOrig": "Unfiltered Kimi Antonelli reaction after World Championship win",
-      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-f1-2026-world-championship-reaction",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T06:38:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-810f-ab49-e2f6d925aa4b",
-      "titleZh": "FIA 解釋在 Lewis Hamilton 愤怒指責「讓出這場勝利」後的 Leclerc 決定",
-      "summaryZh": "Lewis Hamilton 對 FIA 對法拉利隊友 Charles Leclerc 的懲罰裁決表示不滿。",
-      "titleOrig": "FIA explains Leclerc decision after Lewis Hamilton ‘handing this win’ fury",
-      "sourceUrl": "https://www.planetf1.com/news/fia-leclerc-penalty-hamilton-f1-2026-mexican-grand-prix-ferrari",
-      "sourceName": "PlanetF1",
-      "author": "",
-      "publishedAt": "2026-11-02T07:10:00.000+08:00"
-    },
-    {
-      "notionPageId": "40c6c3d3-6a7f-81b2-b82a-d6bf368ab766",
-      "titleZh": "Lewis Hamilton 要求 Ferrari 進行「認真對話」以應對 Leclerc 在墨西哥 GP 的衝突",
-      "summaryZh": "在墨西哥的開賽圈，Lewis Hamilton 與 Charles Leclerc 發生衝突後，Ferrari 的緊張氣氛升高。",
+      "notionPageId": "40d6c3d3-6a7f-8103-8179-cf1408d0bea3",
+      "titleZh": "Lewis Hamilton 要求在 Ferrari 進行「認真對話」，因為與 Leclerc 在墨西哥 GP 的衝突",
+      "summaryZh": "在墨西哥的開賽圈中，Lewis Hamilton 與 Charles Leclerc 的衝突後，Ferrari 的緊張局勢上升。",
       "titleOrig": "Lewis Hamilton demands ‘serious talks’ at Ferrari after Leclerc Mexican GP clash",
       "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-ferrari-leclerc-mexican-gp-clash",
       "sourceName": "PlanetF1",
@@ -852,7 +612,7 @@
       "publishedAt": "2026-11-02T07:52:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8128-83fc-d01e2437144f",
+      "notionPageId": "40d6c3d3-6a7f-813e-bcd6-d06e487614e1",
       "titleZh": "FIA 在墨西哥 GP 事件後啟動對 Oscar Piastri 和 Lindblad 的調查",
       "summaryZh": "Oscar Piastri 和 Arvid Lindblad 已被召喚前往 FIA 裁判處。",
       "titleOrig": "FIA launches Oscar Piastri and Lindblad investigation after Mexican GP incident",
@@ -862,147 +622,207 @@
       "publishedAt": "2026-11-02T07:58:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8174-9197-cca04553eb32",
-      "titleZh": "2026 墨西哥大獎賽 F1 排位賽的勝者與敗者",
-      "summaryZh": "除了前兩名外，墨西哥大獎賽的排位賽結束時，敗者的數量遠超過勝者。",
-      "titleOrig": "Winners and losers from Mexican Grand Prix F1 qualifying 2026",
-      "sourceUrl": "https://www.the-race.com/formula-1/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/",
-      "sourceName": "The Race",
-      "author": "Scott Mitchell-Malm",
-      "publishedAt": "2026-11-01T09:17:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-815c-acec-c2e81fad3675",
+      "titleZh": "FIA 確認 Oscar Piastri 在 Lindblad 墨西哥 GP 事件後的懲罰",
+      "summaryZh": "經過 FIA 的調查，Oscar Piastri 被處以懲罰。",
+      "titleOrig": "FIA confirms Oscar Piastri punishment after Lindblad Mexican GP incident",
+      "sourceUrl": "https://www.planetf1.com/news/fia-oscar-piastri-penalty-f1-2026-mexican-grand-prix",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T08:34:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8195-b0fb-ef4a72b69c7f",
-      "titleZh": "墨西哥桿位之爭在最後幾圈前已決定",
-      "summaryZh": "路易斯·漢密爾頓的桿位以及喬治·拉塞爾在墨西哥的激烈挑戰，早在排位賽開始之前就已經決定了。",
-      "titleOrig": "What decided Mexico pole fight before final laps even started",
-      "sourceUrl": "https://www.the-race.com/formula-1/what-decided-mexico-pole-fight-before-final-laps-even-started/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-11-01T10:40:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81a5-8fe9-c124dc908b2f",
+      "titleZh": "FIA 在墨西哥大獎賽後啟動對 George Russell 的新調查",
+      "summaryZh": "George Russell 在墨西哥再次受到 FIA 的調查。",
+      "titleOrig": "FIA launches new George Russell investigation after Mexican Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/fia-investigation-george-russell-f1-2026-mexican-grand-prix",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T09:19:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8126-9cd1-f64f72271692",
-      "titleZh": "馬克斯在雪邦賽事中完全掌控冠軍之戰",
-      "summaryZh": "馬克斯在馬來西亞大獎賽中表現出色，讓他的2026年冠軍夢更進一步。",
-      "titleOrig": "Marquez takes complete control of title fight with Sepang win",
-      "sourceUrl": "https://www.the-race.com/motogp/marquez-takes-complete-control-of-title-fight-with-sepang-win/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-11-01T15:56:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-812f-999d-df5891864002",
+      "titleZh": "FIA 確認梅賽德斯在新一輪拉塞爾墨西哥大獎賽調查後的處罰",
+      "summaryZh": "喬治·拉塞爾離開賽道，梅賽德斯因此付出了代價。",
+      "titleOrig": "FIA confirms Mercedes punishment after new Russell Mexican GP investigation",
+      "sourceUrl": "https://www.planetf1.com/news/fia-george-russell-fine-f1-2026-mexican-grand-prix-mercedes",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T10:09:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81ce-b60f-cf8b3eb171c3",
-      "titleZh": "亞歷克斯·馬奎茲因手術退出卡塔爾大獎賽",
-      "summaryZh": "Gresini Ducati 車手亞歷克斯·馬奎茲將接受手術，並缺席 MotoGP 的卡塔爾大獎賽。",
-      "titleOrig": "Alex Marquez withdraws from Qatar GP for surgery",
-      "sourceUrl": "https://www.the-race.com/motogp/alex-marquez-withdraws-from-qatar-gp-for-surgery/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-11-01T17:03:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81c6-af79-e066921a8bb5",
+      "titleZh": "Lewis Hamilton 讓 Ferrari 失去勝利，Ocon 的職業生涯遭重創",
+      "summaryZh": "Lewis Hamilton 錯誤地將 Ferrari 無法贏得墨西哥大獎賽的責任歸咎於 Charles Leclerc。",
+      "titleOrig": "Lewis Hamilton cost Ferrari victory and Ocon’s career-ending black eye",
+      "sourceUrl": "https://www.planetf1.com/features/mexican-grand-prix-2026-conclusions",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T14:00:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8193-9257-c416902d3b87",
-      "titleZh": "Ocon 的替代者在驚訝的 F1 首秀中表現如何",
-      "summaryZh": "Haas 的驚訝 Esteban Ocon 替代者對於在 F1 排位賽首秀中未能進入 Q2 感到失望，儘管這次的召喚來得異常晚。",
-      "titleOrig": "How Ocon's replacement is really faring on his shock F1 debut",
-      "sourceUrl": "https://www.the-race.com/formula-1/how-ocons-replacements-really-faring-on-his-shock-f1-debut/",
-      "sourceName": "The Race",
-      "author": "Edd Straw",
-      "publishedAt": "2026-11-01T17:50:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81c7-9398-d1f91d3474c6",
+      "titleZh": "Lewis Hamilton 指控 Charles Leclerc 在 Ferrari 風波中「對他不利」",
+      "summaryZh": "Lewis Hamilton 在墨西哥的首圈交鋒後，對 Charles Leclerc 的不滿表露無遺，因為這場戰鬥讓 Ferrari 失去了潛在的一二名成績...",
+      "titleOrig": "Lewis Hamilton accuses Charles Leclerc of ‘working against him’ in Ferrari fallout",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-furious-charles-leclerc-ferrari-teammate-clash",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T14:41:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81df-84f4-c7e1f5b05a47",
-      "titleZh": "F1 嘗試防止墨西哥第一彎的重演",
-      "summaryZh": "有一項新計畫將監管去年墨西哥賽事開幕圈的混亂情況重演。",
-      "titleOrig": "F1's attempt to prevent a repeat of Mexico Turn 1 antics",
-      "sourceUrl": "https://www.the-race.com/formula-1/f1s-attempt-to-prevent-a-repeat-of-mexico-turn-1-antics/",
-      "sourceName": "The Race",
-      "author": "Josh Suttill",
-      "publishedAt": "2026-11-01T17:54:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81e2-ba56-f62cf4833bf8",
+      "titleZh": "「糟糕的表現」－ 新的 George Russell 和 Toto Wolff 墨西哥大獎賽影片曝光",
+      "summaryZh": "Russell 的冠軍希望正式結束...",
+      "titleOrig": "‘Sh*tshow’ – New George Russell and Toto Wolff Mexican GP footage emerges",
+      "sourceUrl": "https://www.planetf1.com/news/toto-wolff-george-russell-f1-2026-mexican-grand-prix",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T15:34:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8134-a4c2-c2725071ef81",
-      "titleZh": "雅馬哈退出卡塔爾大獎賽，MotoGP威脅處罰",
-      "summaryZh": "雅馬哈將不參加卡塔爾大獎賽，理由是「公司範圍內的旅行限制」，現在看來將面臨MotoGP的處罰。",
-      "titleOrig": "Yamaha pulls out of Qatar GP, MotoGP threatens penalties",
-      "sourceUrl": "https://www.the-race.com/motogp/yamaha-pulls-out-of-qatar-motogp-race/",
-      "sourceName": "The Race",
-      "author": "Valentin Khorounzhiy",
-      "publishedAt": "2026-11-01T18:08:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-8115-8f7a-de18fc2687a8",
+      "titleZh": "2026 墨西哥城大獎賽的贏家與輸家",
+      "summaryZh": "Kimi Antonelli 慶祝創紀錄的冠軍頭銜，Max Verstappen 再度獲勝，而 Ferrari 則在一場驚心動魄的車隊內鬥中計算損失...",
+      "titleOrig": "Winners and losers from the 2026 Mexico City Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/features/winners-and-losers-2026-mexico-city-grand-prix",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T16:19:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d2-86a7-d741b6b7a053",
-      "titleZh": "安東內利的 2026 年將如何在首次 F1 冠軍中脫穎而出",
-      "summaryZh": "如果 Kimi Antonelli 如今幾乎可以確定地奪得 2026 年的冠軍，他將不僅僅是 F1 有史以來最年輕的世界冠軍。",
-      "titleOrig": "Where Antonelli's 2026 will stand out among first-time F1 titles",
-      "sourceUrl": "https://www.the-race.com/formula-1/where-antonellis-2026-will-stand-out-among-first-time-f1-titles/",
-      "sourceName": "The Race",
-      "author": "Edd Straw",
-      "publishedAt": "2026-11-01T21:24:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81dd-9b1e-f158605465ee",
+      "titleZh": "Charles Leclerc 對於與 Lewis Hamilton 在墨西哥 GP 的碰撞表達矛盾看法",
+      "summaryZh": "'所以我覺得這不應該成為太多討論的焦點...'",
+      "titleOrig": "Charles Leclerc delivers conflicting view on Mexican GP clash with Lewis Hamilton",
+      "sourceUrl": "https://www.planetf1.com/news/charles-leclerc-conflicting-view-mexican-gp-clash-lewis-hamilton",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T17:06:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8110-a9e0-f31b6d758907",
-      "titleZh": "F1 2026 墨西哥大獎賽起跑陣容有四項懲罰",
-      "summaryZh": "Max Verstappen 和 Liam Lawson 因為練習賽碰撞而受到的懲罰是墨西哥起跑陣容中的主要懲罰。",
-      "titleOrig": "F1 2026 Mexican Grand Prix starting grid with four penalties",
-      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-starting-grid-with-verstappen-penalty/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-11-01T22:09:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-8148-9ff0-f5798d737958",
+      "titleZh": "FIA 確認雙重墨西哥大獎賽懲罰，調查結果出爐",
+      "summaryZh": "賽事裁判已採取果斷行動。",
+      "titleOrig": "FIA confirms double Mexican Grand Prix punishment after investigation",
+      "sourceUrl": "https://www.planetf1.com/news/fia-mexican-grand-prix-2026-investigation",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T17:49:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81f0-9568-dcc03de63287",
-      "titleZh": "FIA 解釋爭議性的 Leclerc 處罰決定",
-      "summaryZh": "裁判解釋了為什麼 Charles Leclerc 在墨西哥事件中僅被處以五秒的罰款，這一決定讓 Lewis Hamilton 感到憤怒。",
-      "titleOrig": "FIA explains controversial Leclerc penalty decision",
-      "sourceUrl": "https://www.the-race.com/formula-1/fia-explains-controversial-leclerc-penalty-decision/",
-      "sourceName": "The Race",
-      "author": "Jon Noble",
-      "publishedAt": "2026-11-02T05:30:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-812f-a17b-eb7f24562c47",
+      "titleZh": "羅斯堡呼籲法拉利採取行動，因漢密爾頓與勒克萊爾在墨西哥發生衝突",
+      "summaryZh": "「當車手自行其是，無視任何討論時，情況就會變得非常糟糕。」",
+      "titleOrig": "Rosberg tells Ferrari to take action after Hamilton and Leclerc clash in Mexico",
+      "sourceUrl": "https://www.planetf1.com/news/nico-rosberg-lewis-hamilton-charles-leclerc-ferrari-action",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T18:42:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8111-bc9f-fbf8ec26dd71",
-      "titleZh": "博塔斯在賽事中止的撞車事故中逃過一劫",
-      "summaryZh": "瓦爾特里·博塔斯在墨西哥大獎賽的劇烈撞車事故後已經從醫療中心出院。",
-      "titleOrig": "Bottas escapes injury in race-stopping crash",
-      "sourceUrl": "https://www.the-race.com/formula-1/bottas-taken-for-medical-checks-after-race-stopping-crash/",
-      "sourceName": "The Race",
-      "author": "Matt Beer",
-      "publishedAt": "2026-11-02T06:08:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-8173-ab7e-e83ae6f1304e",
+      "titleZh": "Adrian Newey 在墨西哥大獎賽檢查新款 Ferrari SF-26",
+      "summaryZh": "Adrian Newey 再次在墨西哥展開調查。",
+      "titleOrig": "Adrian Newey holds new Ferrari SF-26 inspection at Mexican Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/adrian-newey-ferrari-mexican-grand-prix-2026-investigation",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T19:25:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-8100-88f0-db9eb81526cb",
-      "titleZh": "2026 年墨西哥大獎賽賽果",
-      "summaryZh": "2026 年 F1 墨西哥大獎賽的賽果。",
-      "titleOrig": "F1 2026 Mexican Grand Prix race result",
-      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-race-result/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-11-02T06:26:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-817a-8384-f866caa48f44",
+      "titleZh": "詹森·巴頓發表對埃斯特班·奧康的嚴厲評價：‘誰會想要簽下他’",
+      "summaryZh": "‘我會說，誰會想要簽下他。’",
+      "titleOrig": "Jenson Button delivers damning ‘who’s going to want to pick him up’ Esteban Ocon verdict",
+      "sourceUrl": "https://www.planetf1.com/news/esteban-ocon-jenson-button-haas-exit-f1-career",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T20:04:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81b5-bf12-e23f2ad04b6a",
-      "titleZh": "安東內利奪冠，法拉利失誤助維斯塔潘獲勝",
-      "summaryZh": "基米·安東內利在墨西哥賽事中以第三名成為F1歷史上最年輕的世界冠軍，該場比賽由維斯塔潘贏得，法拉利的失誤成為關鍵因素。",
-      "titleOrig": "Antonelli clinches title as Ferrari mess helps Verstappen win",
-      "sourceUrl": "https://www.the-race.com/formula-1/antonelli-clinches-title-as-ferrari-mess-helps-verstappen-win/",
-      "sourceName": "The Race",
-      "author": "Matt Beer",
-      "publishedAt": "2026-11-02T06:39:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-8125-b67b-ff770f7649a9",
+      "titleZh": "墨西哥大獎賽車手評分：法拉利災難、近乎完美的 Verstappen、Russell 心碎",
+      "summaryZh": "墨西哥城大獎賽的車手評分，法拉利未能交出好成績，而其他地方卻出現了意想不到的高分選手。",
+      "titleOrig": "Mexican Grand Prix driver ratings: Ferrari disaster, near-perfect Verstappen, Russell heartbreak",
+      "sourceUrl": "https://www.planetf1.com/features/mexican-grand-prix-2026-driver-ratings",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T20:39:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81eb-b3b8-ef3b1197bba7",
-      "titleZh": "法拉利1-2的機會被浪費了？我們對最新的勒克萊爾-漢密爾頓爭執的看法",
-      "summaryZh": "我們團隊對法拉利隊友查爾斯·勒克萊爾和路易斯·漢密爾頓之間最新混亂的看法",
-      "titleOrig": "A Ferrari 1-2 thrown away? Our verdict on latest Leclerc-Hamilton spat",
-      "sourceUrl": "https://www.the-race.com/formula-1/a-ferrari-1-2-thrown-away-our-verdict-on-latest-leclerc-hamilton-spat/",
-      "sourceName": "The Race",
-      "author": "The Race Team",
-      "publishedAt": "2026-11-02T07:04:00.000+08:00"
+      "notionPageId": "40d6c3d3-6a7f-81dd-92fb-f272df30c316",
+      "titleZh": "未播出的 Valtteri Bottas 團隊無線電，Cadillac 對墨西哥 GP 事故展開調查",
+      "summaryZh": "Valtteri Bottas 在墨西哥的事故後非常生氣。",
+      "titleOrig": "Untelevised Valtteri Bottas team radio as Cadillac launches investigation over Mexican GP crash",
+      "sourceUrl": "https://www.planetf1.com/news/valtteri-bottas-mexican-grand-prix-2026-team-radio",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T21:08:00.000+08:00"
     },
     {
-      "notionPageId": "40c6c3d3-6a7f-81d9-9d96-d55e7b9051c2",
+      "notionPageId": "40d6c3d3-6a7f-812c-a4bd-ec135dc4ec69",
+      "titleZh": "Kimi Antonelli 在墨西哥大獎賽後對 F1 2027 關鍵決定堅持不變",
+      "summaryZh": "'老實說，我非常迷信...'",
+      "titleOrig": "Kimi Antonelli stands firm on key F1 2027 decision after Mexican Grand Prix",
+      "sourceUrl": "https://www.planetf1.com/news/kimi-antonelli-f1-2027-number-one",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T22:09:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8138-8aaa-db3cd9c415b8",
+      "titleZh": "喬治·拉塞爾因梅賽德斯解釋媒體缺席而感到沮喪",
+      "summaryZh": "梅賽德斯車手喬治·拉塞爾在墨西哥錯過了他必須參加的賽後媒體活動。",
+      "titleOrig": "George Russell ‘distraught’ as Mercedes explains media absence",
+      "sourceUrl": "https://www.planetf1.com/news/george-russell-distraught-mercedes-media-absence-mexico",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-02T22:51:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8165-a73a-d3674eb55898",
+      "titleZh": "Lewis Hamilton 負責，Kimi Antonelli 立即做出 F1 2027 決定 – 總結",
+      "summaryZh": "週一的快速 F1 新聞總結開始了，快來看看！",
+      "titleOrig": "Lewis Hamilton at fault, Kimi Antonelli makes immediate F1 2027 decision – roundup",
+      "sourceUrl": "https://www.planetf1.com/news/lewis-hamilton-fia-mexican-grand-prix-2026-investigation",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-03T00:41:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8100-8577-d7897ea3ba64",
+      "titleZh": "F1 世界冠軍：自 1950 年以來所有獲得冠軍的車手",
+      "summaryZh": "一個新名字已經進入 F1 世界冠軍的殿堂。他未來還能贏得多少個冠軍呢？",
+      "titleOrig": "F1 World Champions: Every driver to have taken title glory since 1950",
+      "sourceUrl": "https://www.planetf1.com/news/f1-world-champions-every-driver",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-03T01:07:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8170-af60-ce1753be9fc7",
+      "titleZh": "Liam Lawson F1 2027 決定面臨「不公正解僱」警告",
+      "summaryZh": "「如果 Liam Lawson 被解僱，那將是 F1 史上最不公正的解僱之一...」",
+      "titleOrig": "Liam Lawson F1 2027 decision faces ‘unjust sacking’ warning",
+      "sourceUrl": "https://www.planetf1.com/news/liam-lawson-racing-bulls-future-karun-chandhok",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-03T02:32:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81c7-aed1-fb5f5f8cbba5",
+      "titleZh": "喬治·拉塞爾在基米·安東內利奪得 F1 2026 冠軍後打破沉默",
+      "summaryZh": "喬治·拉塞爾分享了一則最新消息。",
+      "titleOrig": "George Russell breaks silence after Kimi Antonelli seals F1 2026 title",
+      "sourceUrl": "https://www.planetf1.com/news/george-russell-statement-kimi-antonelli-f1-2026-title",
+      "sourceName": "PlanetF1",
+      "author": "",
+      "publishedAt": "2026-11-03T04:06:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8192-9f95-ee53f1d7d961",
       "titleZh": "漢密爾頓要求在勒克萊爾最新事件後進行「認真對話」",
       "summaryZh": "路易斯·漢密爾頓表示，法拉利在墨西哥事件後需要在幕後進行一些「認真對話」。",
       "titleOrig": "Hamilton demands 'serious talks' after latest Leclerc incident",
@@ -1010,6 +830,146 @@
       "sourceName": "The Race",
       "author": "Jon Noble",
       "publishedAt": "2026-11-02T07:28:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8104-83e7-d307d8bb40ec",
+      "titleZh": "皮亞斯特里因林德布拉德碰撞遭到懲罰",
+      "summaryZh": "奧斯卡·皮亞斯特里因與阿爾維德·林德布拉德的碰撞，失去了在墨西哥的 F1 積分完賽。",
+      "titleOrig": "Piastri punished for Lindblad collision",
+      "sourceUrl": "https://www.the-race.com/formula-1/piastri-punished-for-lindblad-collision/",
+      "sourceName": "The Race",
+      "author": "Matt Beer",
+      "publishedAt": "2026-11-02T08:25:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81ec-997c-ddfa8ec994e4",
+      "titleZh": "梅賽德斯解釋「心煩意亂」的拉塞爾賽後缺席原因",
+      "summaryZh": "梅賽德斯因喬治·拉塞爾在隊友基米·安東內利贏得冠軍後未參加媒體活動而被罰款。",
+      "titleOrig": "Mercedes explains 'distraught' Russell's post-race absence after fine",
+      "sourceUrl": "https://www.the-race.com/formula-1/mercedes-explains-distraught-russells-post-race-absence-after-fine/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-11-02T09:52:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81eb-8610-c375c4b063c4",
+      "titleZh": "雙重懲罰讓 Alpine 失去墨西哥 GP 的所有積分",
+      "summaryZh": "Franco Colapinto 和 Pierre Gasly 的黃旗違規使 Alpine 在墨西哥 GP 中無法獲得任何積分",
+      "titleOrig": "Double penalty costs Alpine all its Mexican GP points",
+      "sourceUrl": "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-11-02T10:09:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81e4-a063-ff71efd8013f",
+      "titleZh": "2026 年墨西哥大獎賽賽果因多次罰則而變動",
+      "summaryZh": "2026 年 F1 墨西哥大獎賽的賽果。",
+      "titleOrig": "F1 2026 Mexican Grand Prix race result after multiple penalties",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-race-result/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-11-02T10:23:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-819f-8028-d41fc9c01ee4",
+      "titleZh": "2026 墨西哥大獎賽的贏家與輸家",
+      "summaryZh": "車隊內部崩潰、懲罰以及賽後變動意味著墨西哥的輸家遠多於贏家。",
+      "titleOrig": "Winners and losers from F1's 2026 Mexican Grand Prix",
+      "sourceUrl": "https://www.the-race.com/formula-1/winners-and-losers-from-f1s-2026-mexican-grand-prix/",
+      "sourceName": "The Race",
+      "author": "Scott Mitchell-Malm",
+      "publishedAt": "2026-11-02T10:56:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8106-b8d4-e75d60f8c340",
+      "titleZh": "F1 播客：在墨西哥爭議後，法拉利的下一步是什麼？",
+      "summaryZh": "Edd Straw 與 Josh Suttill 和 Diego Mejia 一同回顧墨西哥大獎賽，並在 The Race F1 播客中進行討論。",
+      "titleOrig": "F1 Podcast: What next for Ferrari amid Mexico row fallout",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-podcast-what-next-for-ferrari-amid-mexico-row-fallout/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-11-02T14:24:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-815d-9955-f17ee6101b85",
+      "titleZh": "Verstappen 需要的對手 - 我們對 Antonelli F1 冠軍的看法",
+      "summaryZh": "我們對 Kimi Antonelli 2026 年的成就及接下來的發展進行分析。",
+      "titleOrig": "The rival Verstappen needs - our verdict on Antonelli's F1 title",
+      "sourceUrl": "https://www.the-race.com/formula-1/the-rival-verstappen-needs-our-verdict-antonelli-f1-title/",
+      "sourceName": "The Race",
+      "author": "Edd Straw",
+      "publishedAt": "2026-11-02T16:19:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-817b-ae7c-c81b45fd1759",
+      "titleZh": "2026 馬來西亞大獎賽 MotoGP 車手排名",
+      "summaryZh": "2026 年的馬來西亞大獎賽對於 MotoGP 來說最終是一場兩位車手的表演。那麼，這週誰能獲得排名的第一名呢？",
+      "titleOrig": "Malaysian Grand Prix 2026 MotoGP rider rankings",
+      "sourceUrl": "https://www.the-race.com/motogp/malaysian-grand-prix-2026-motogp-rider-rankings/",
+      "sourceName": "The Race",
+      "author": "Valentin Khorounzhiy",
+      "publishedAt": "2026-11-02T16:50:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-817a-be07-f1dc70e923a4",
+      "titleZh": "法拉利車手在墨西哥的衝突越過了新界線",
+      "summaryZh": "查爾斯·勒克萊爾與路易斯·漢密爾頓在墨西哥發生的事件，對法拉利來說成為了一種「缺乏尊重」。",
+      "titleOrig": "Where Ferrari drivers' Mexico clash crossed a new line",
+      "sourceUrl": "https://www.the-race.com/formula-1/where-ferrari-f1-drivers-mexico-clash-crossed-new-line/",
+      "sourceName": "The Race",
+      "author": "Jon Noble",
+      "publishedAt": "2026-11-02T17:43:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-812b-88ff-f6b09c42ebb0",
+      "titleZh": "Edd Straw 的 F1 2026 墨西哥大獎賽車手排名分級",
+      "summaryZh": "這是 Edd Straw 新的分級車手排名格式的第二週。那麼誰在墨西哥大獎賽中獲得了最高榮譽呢？",
+      "titleOrig": "Edd Straw's F1 2026 Mexican Grand Prix tier list driver rankings",
+      "sourceUrl": "https://www.the-race.com/formula-1/f1-2026-mexican-gp-driver-rankings-tier-list-edd-straw/",
+      "sourceName": "The Race",
+      "author": "Edd Straw",
+      "publishedAt": "2026-11-02T20:02:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81f6-9d82-c4f8632498b6",
+      "titleZh": "新 F1 冠軍 Antonelli「讓所有人看起來很傻」",
+      "summaryZh": "根據即將卸任的冠軍 Lando Norris，F1 新世界冠軍 Kimi Antonelli 在 2026 年「讓所有人看起來很傻」。",
+      "titleOrig": "New F1 champion Antonelli 'made everyone look silly'",
+      "sourceUrl": "https://www.the-race.com/formula-1/new-f1-champion-antonelli-made-everyone-look-silly/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-11-02T22:45:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-8180-b9a2-edc20741c99c",
+      "titleZh": "MotoGP 播客：Marquez 如何讓 Aprilia 感到震驚",
+      "summaryZh": "這個冠軍肯定會屬於 Marc Marquez，而大多數 - 但不是全部 - 車手將前往卡塔爾。",
+      "titleOrig": "MotoGP Podcast: How Marquez left Aprilia reeling",
+      "sourceUrl": "https://www.the-race.com/motogp/motogp-podcast-how-marquez-left-aprilia-reeling/",
+      "sourceName": "The Race",
+      "author": "The Race Team",
+      "publishedAt": "2026-11-02T22:58:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-81d9-b797-e39cc69c17eb",
+      "titleZh": "為什麼 Antonelli 拒絕在 2027 F1 賽季使用 #1",
+      "summaryZh": "F1 世界冠軍 Kimi Antonelli 解釋了為什麼他選擇不在 2027 年的賽車上使用冠軍的 #1 號。",
+      "titleOrig": "Why Antonelli's rejecting #1 for 2027 F1 season",
+      "sourceUrl": "https://www.the-race.com/formula-1/why-antonellis-rejecting-1-for-2027-f1-season/",
+      "sourceName": "The Race",
+      "author": "Jon Noble",
+      "publishedAt": "2026-11-03T02:08:00.000+08:00"
+    },
+    {
+      "notionPageId": "40d6c3d3-6a7f-819f-aa48-e58a8e2db918",
+      "titleZh": "我們從 F1 2026 墨西哥大獎賽中學到了什麼",
+      "summaryZh": "即使在 F1 冠軍加冕和法拉利的焦慮之外，墨西哥大獎賽的維修區內外仍然發生了許多事情。",
+      "titleOrig": "Everything we learned from F1's 2026 Mexican Grand Prix",
+      "sourceUrl": "https://www.the-race.com/formula-1/everything-we-learned-from-f1s-2026-mexican-grand-prix/",
+      "sourceName": "The Race",
+      "author": "Josh Suttill",
+      "publishedAt": "2026-11-03T02:18:00.000+08:00"
     }
   ]
 }
